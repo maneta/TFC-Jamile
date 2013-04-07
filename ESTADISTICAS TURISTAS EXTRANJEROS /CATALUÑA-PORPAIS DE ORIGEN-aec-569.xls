@@ -1,0 +1,115 @@
+<style class="text/css">caption {font-size: 12pt;text-align:left;font-weight: bold;}tfoot td { text-align:left; }tbody td { text-align:right; }</style>
+<table class="ApartNum Cols7">
+<caption><p><br />Turistas extranjeros en Cataluña. 2007-2011<br />Por país de origen<br /></p></caption><tfoot>
+  <tr>
+    <td colspan="7">Unidades: Milers.</td>
+  </tr>
+  <tr>
+    <td colspan="7">Fuente: Idescat, a partir de datos de la encuesta Frontur del Instituto de Estudios Turísticos (IET).</td>
+  </tr>
+  <tr>
+    <td colspan="7">(*) Datos provisionales.</td>
+  </tr>
+</tr><tr><td></td></tr></tfoot>
+<tbody>
+<tr class="cap">
+<th></th>
+<th scope="col" style="text-align:right">2007</th>
+<th scope="col" style="text-align:right">2008</th>
+<th scope="col" style="text-align:right">2009</th>
+<th scope="col" style="text-align:right">2010</th>
+<th scope="col" style="text-align:right">2011 (*)</th>
+</tr>
+<tr class="primera total">
+<th style="font-weight:bold;text-align:left" scope="row">Turistas</th>
+<td style="font-weight:bold;text-align:right"></td>
+<td style="font-weight:bold;text-align:right"></td>
+<td style="font-weight:bold;text-align:right"></td>
+<td style="font-weight:bold;text-align:right"></td>
+<td style="font-weight:bold;text-align:right"></td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Alemania</th>
+<td style="font-weight:normal;text-align:right">1.439,5</td>
+<td style="font-weight:normal;text-align:right">1.392,7</td>
+<td style="font-weight:normal;text-align:right">1.212,2</td>
+<td style="font-weight:normal;text-align:right">1.151,6</td>
+<td style="font-weight:normal;text-align:right">1.256,7</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Bélgica y Países Bajos</th>
+<td style="font-weight:normal;text-align:right">1.473,5</td>
+<td style="font-weight:normal;text-align:right">1.399,6</td>
+<td style="font-weight:normal;text-align:right">1.342,9</td>
+<td style="font-weight:normal;text-align:right">1.325,4</td>
+<td style="font-weight:normal;text-align:right">1.382,3</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Francia</th>
+<td style="font-weight:normal;text-align:right">4.331,8</td>
+<td style="font-weight:normal;text-align:right">3.802,0</td>
+<td style="font-weight:normal;text-align:right">3.453,1</td>
+<td style="font-weight:normal;text-align:right">3.526,0</td>
+<td style="font-weight:normal;text-align:right">3.613,8</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Italia</th>
+<td style="font-weight:normal;text-align:right">1.283,3</td>
+<td style="font-weight:normal;text-align:right">1.138,4</td>
+<td style="font-weight:normal;text-align:right">997,5</td>
+<td style="font-weight:normal;text-align:right">1.034,0</td>
+<td style="font-weight:normal;text-align:right">1.050,2</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Reino Unido</th>
+<td style="font-weight:normal;text-align:right">2.158,3</td>
+<td style="font-weight:normal;text-align:right">2.029,2</td>
+<td style="font-weight:normal;text-align:right">1.685,9</td>
+<td style="font-weight:normal;text-align:right">1.464,3</td>
+<td style="font-weight:normal;text-align:right">1.342,9</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Países nórdicos</th>
+<td style="font-weight:normal;text-align:right">583,0</td>
+<td style="font-weight:normal;text-align:right">573,0</td>
+<td style="font-weight:normal;text-align:right">487,0</td>
+<td style="font-weight:normal;text-align:right">603,4</td>
+<td style="font-weight:normal;text-align:right">576,3</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">Suiza</th>
+<td style="font-weight:normal;text-align:right">331,1</td>
+<td style="font-weight:normal;text-align:right">326,8</td>
+<td style="font-weight:normal;text-align:right">289,6</td>
+<td style="font-weight:normal;text-align:right">303,6</td>
+<td style="font-weight:normal;text-align:right">349,5</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left;padding-left: 1em" class="entrada1" scope="row">otros países</th>
+<td style="font-weight:normal;text-align:right">4.291,9</td>
+<td style="font-weight:normal;text-align:right">4.365,2</td>
+<td style="font-weight:normal;text-align:right">4.128,7</td>
+<td style="font-weight:normal;text-align:right">4.798,2</td>
+<td style="font-weight:normal;text-align:right">5.397,8</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class="darrera total">
+<th style="font-weight:bold;text-align:left" scope="row">Total</th>
+<td style="font-weight:bold;text-align:right">15.892,4</td>
+<td style="font-weight:bold;text-align:right">15.026,9</td>
+<td style="font-weight:bold;text-align:right">13.597,0</td>
+<td style="font-weight:bold;text-align:right">14.206,6</td>
+<td style="font-weight:bold;text-align:right">14.969,4</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<br />Institut d'Estadística de Catalunya<br /> <a href="http://www.idescat.cat/pub/?id=aec&amp;n=569&amp;lang=es">http://www.idescat.cat/pub/?id=aec&amp;n=569&amp;lang=es</a>
