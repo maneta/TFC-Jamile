@@ -156,6 +156,22 @@ Análisis de las paginas web oficinas de turismo
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
 
@@ -249,22 +265,6 @@ status open
 
 \backslash
 thispagestyle{empty}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cleardoublepage
 \end_layout
 
 \end_inset
@@ -426,22 +426,6 @@ Fue en 1999 el año de la confirmación de internet en muchos aspectos: como
  en las que los humanos podamos estar involucrados.
  Comunicación, formación, ocio o negocio, todo puede verse afectado por
  la red.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-cleardoublepage
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Chapter
@@ -1069,6 +1053,10 @@ El carácter indisociable del servicio significa que el empleado y lo clientes
  siguiente.
  Los ingresos por la falta de venta de esas 40 habitaciones se han perdido
  para siempre.”
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \end_body

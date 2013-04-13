@@ -136,7 +136,7 @@ enumitem
 \defskip bigskip
 \quotes_language english
 \papercolumns 1
-\papersides 1
+\papersides 2
 \paperpagestyle fancy
 \tracking_changes false
 \output_changes false
@@ -254,6 +254,21 @@ thispagestyle{empty}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+habla mucho de internet pero la mayor parte de las personas no saben de
+ donde ha surgido la tan famosa y útil internet.
+ Se puede decir que el antecesor de la que hoy conocemos como internet fue
+ un proyecto del departamento de defensa de los Estado Unidos, lo cual formó
+ la agencia Advanced Research Projects Agency (AR- PA) en 1957.
+ Tanenabum (1997:47) recuerda que “ARPA se creó en respuesta al lanzamiento
+ del Sputnik de la Unión Soviética en 1957 y tuvo la misión de desa- rrollar
+ tecnologías que pudieran ser útiles a la milicia.” ARPA no tenia científicos
+ ni laboratorios, fue constituida en una oficina y con un presupuesto pequeño
+ para los patrones del gobierno estadounidense.
+ Tal como dice Lamarca (2006) “En 1969, ARPA estableció ARPANET, la red
+ pr
 \end_layout
 
 \begin_layout Chapter

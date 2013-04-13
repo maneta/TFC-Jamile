@@ -136,7 +136,7 @@ enumitem
 \defskip bigskip
 \quotes_language english
 \papercolumns 1
-\papersides 1
+\papersides 2
 \paperpagestyle fancy
 \tracking_changes false
 \output_changes false
@@ -153,6 +153,30 @@ Jamile Marcele Radloff
 
 \begin_layout Title
 Análisis de las paginas web oficinas de turismo
+\end_layout
+
+\begin_layout Standard
+
+\family sans
+\series bold
+\size largest
+Dedicatoria
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1404,7 +1428,7 @@ En la actualidad resulta fundamental que las webs de empresas e instituciones
 Attitudes of Europeans towards Tourism 
 \emph default
 realizado por la Comisión Europea, el 46% de los europeos han dicho que
- utilizan la Internet para planearse sus viajes (Comisión Europea, 2013),
+ utilizan la Internet para planearse sus viajes (EUROPEAN COMISSION, 2013),
  y conforme Lookinside.travel, el 54% de los españoles han utilizado algún
  canal de Internet para decidir su destino de viaje en 2011.
  Otro estudio realizado concluye que los turistas que utilizan la internet
@@ -1430,7 +1454,7 @@ los estudios muestran que las informaciones que provienen de la experiencia
 .
  Según el estudio desarrollado por la Comisión Europea, el 56% de los encuestado
 s han dicho que consideran importante las opiniones de amigos y familiares
- a la hora de organizar sus viajes (Comisión Europea, 2013).
+ a la hora de organizar sus viajes (EUROPEAN COMISSION, 2013).
  En España, el 38% han utilizado las recomendaciones personales como fuente
  de información para decidir el destino (Lookinside.travel, 2011).
  En el sector turístico la opinión de otros consumidores es fundamental
@@ -1446,18 +1470,27 @@ s han dicho que consideran importante las opiniones de amigos y familiares
 \end_layout
 
 \begin_layout Standard
-En el ámbito de los destinos turísticos, las opiniones y experiencias de
- los usuarios influyen en la decisión de visitar o viajar a un destino.
+Además, en el ámbito de los destinos turísticos, las opiniones y experiencias
+ de los usuarios con comentarios emocionantes y fotografías, pueden motivar
+ y persuadir mucho más que un folleto turístico.
+ Las organizaciones de marketing de los destinos están cada vez más incorporando
+ este recurso de comunicación interactiva a sus paginas webs, ya que las
+ experiencias de otros turistas influyen en la decisión de visitar o viajar
+ a un destino.
  
 \end_layout
 
 \begin_layout Standard
-A parte de una buena presentación de la pagina web de un destino turístico
- es necesario situarlas en los buscadores.
+A parte de tener una web atractiva y eficaz desde el punto de vista de la
+ comunicación y la comercialización del destino, es fundamental usar las
+ estrategias de posicionamiento en buscadores.
  Kotler y otros (2004:408) afirman que los responsables por el marketing
  de destinos turísticos deben situar la página en internet de manera adecuada,
  para que en el momento que una persona busque información sobre un destino
  en los buscadores aparezca de inmediato.
+ Según Rovira y otros (2010) es de suma importancia la web de un destino
+ turístico estar en las primeras posiciones en los resultados de búsquedas
+ con palabras clave que coincidan con el destino.
  Meerman (2010:53) complementa la idea afirmando que el marketing en la
  web 
 \begin_inset Quotes eld
@@ -1469,7 +1502,21 @@ res a páginas web repletas del contenido que buscan.
 \begin_inset Quotes erd
 \end_inset
 
- 
+ Entretanto el posicionamiento se basa en factores internos y externos.
+ Según Casares (2008); Clay; Esparza (2008); Enge y otros (2009); Maciá;
+ Gosende (2009); SEOmoz (2009) (citado en Rovira y otros, 2010)
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Entre los factores internos se puede resaltar la presencia de las palabras
+ clave en determinadas partes del contenido de la página o de la cabecera,
+ estructura hipertextual de la sede web, antigüedad, territorialidad del
+ dominio...
+ Entre los externos, los más decisivos son el número de enlaces recibidos
+ y la presencia de una parte de esos enlaces en sedes web con autoridad
+ o popularidad.
 \end_layout
 
 \begin_layout Standard
