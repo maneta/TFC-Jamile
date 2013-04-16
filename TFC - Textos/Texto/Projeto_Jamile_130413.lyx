@@ -147,12 +147,223 @@ enumitem
 
 \begin_body
 
-\begin_layout Author
-Jamile Marcele Radloff
+\begin_layout Title
+Análisis de las webs turísticas: 
 \end_layout
 
-\begin_layout Title
-Análisis de las paginas web oficinas de turismo
+\begin_layout Subtitle
+El caso de Barcelona, Tarragona y Girona
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\size large
+ESCUELA UNIVERSITARIA DE TURISMO MEDITERRANI
+\begin_inset Newline newline
+\end_inset
+
+(Centro Adscrito a la Universitat de Girona)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 4cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\series bold
+\size largest
+ANÁLISIS DE LAS WEBS TURÍSTICAS: EL CASO DE BARCELONA, TARRAGONA Y GIRONA
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename C:/Users/Vendes/Documents/GitHub/TFC-Jamile/TFC - Textos/tfc2.png
+	lyxscale 20
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+JAMILE MARCELE RADLOFF
+\begin_inset Newline newline
+\end_inset
+
+TUTOR: JOSÉ LUIS MARTINEZ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+TRABAJO FIN DE CARRERA
+\begin_inset Newline newline
+\end_inset
+
+CURSO: 2012-13
+\begin_inset Newline newline
+\end_inset
+
+BARCELONA, JUNIO DE 2013
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{5}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\size large
+ESCOLA UNIVERSITÀRIA DE TURISME MEDITERRANI
+\begin_inset Newline newline
+\end_inset
+
+(Centro adscrito a la Universitat de Girona)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 7cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\series bold
+\size largest
+ANÁLISIS DE LAS WEBS TURISTICAS: EL CASO DE BARCELONA, TARRAGONA Y GIRONA
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+JAMILE MARCELE RADLOFF
+\begin_inset Newline newline
+\end_inset
+
+TUTOR: JOSÉ LUIS MARTINEZ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+TRABAJO FIN DE CARRERA
+\begin_inset Newline newline
+\end_inset
+
+CURSO: 2012-13
+\begin_inset Newline newline
+\end_inset
+
+BARCELONA, JUNIO DE 2013
 \end_layout
 
 \begin_layout Chapter*
@@ -202,22 +413,6 @@ thispagestyle{empty}
 \begin_layout Standard
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-setcounter{page}{1}
-\end_layout
 
 \end_inset
 
@@ -1057,7 +1252,7 @@ Tal como dice Altés (1993:54) “las empresas turísticas son empresas de servi
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -1078,7 +1273,7 @@ Cuatro características del servicio
 \noindent
 \align center
 \begin_inset Graphics
-	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/servicio.pdf
+	filename C:/Users/Vendes/Documents/GitHub/TFC-Jamile/TFC - Textos/servicio.pdf
 	scale 70
 
 \end_inset
