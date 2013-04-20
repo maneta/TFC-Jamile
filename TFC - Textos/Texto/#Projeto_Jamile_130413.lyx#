@@ -85,10 +85,8 @@ enumitem
 \paperfontsize 12
 \spacing onehalf
 \use_hyperref true
-\pdf_title "Guía del usuario de LyX"
-\pdf_author "Jamile Marcele Radloff"
-\pdf_subject "LyX"
-\pdf_keywords "LyX"
+\pdf_title "Análisis de las webs turísticas"
+\pdf_author "Jamile Radloff"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
 \pdf_bookmarksopen false
@@ -206,7 +204,7 @@ ANÁLISIS DE LAS WEBS TURÍSTICAS: EL CASO DE BARCELONA, TARRAGONA Y GIRONA
 \noindent
 \align center
 \begin_inset Graphics
-	filename C:/Users/Vendes/Documents/GitHub/TFC-Jamile/TFC - Textos/tfc2.png
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/tfc2.png
 	lyxscale 20
 	scale 10
 
@@ -283,7 +281,7 @@ status open
 
 
 \backslash
-setcounter{page}{6}
+setcounter{page}{5}
 \end_layout
 
 \end_inset
@@ -437,6 +435,30 @@ thispagestyle{empty}
 
 \begin_layout Standard
 \begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
 
 \end_inset
 
@@ -1252,7 +1274,7 @@ Tal como dice Altés (1993:54) “las empresas turísticas son empresas de servi
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -1273,7 +1295,7 @@ Cuatro características del servicio
 \noindent
 \align center
 \begin_inset Graphics
-	filename C:/Users/Vendes/Documents/GitHub/TFC-Jamile/TFC - Textos/servicio.pdf
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/servicio.pdf
 	scale 70
 
 \end_inset
@@ -1718,8 +1740,8 @@ res a páginas web repletas del contenido que buscan.
 \end_inset
 
  Entretanto el posicionamiento se basa en factores internos y externos.
- Según Casares (2008); Clay; Esparza (2008); Enge y otros (2009); Maciá;
- Gosende (2009); SEOmoz (2009) (citado en Rovira y otros, 2010)
+ Según Casares (2008); Clay y Esparza (2008); Enge y otros (2009); Maciá
+ y Gosende (2009); SEOmoz (2009) todos ellos citados en Rovira y otros (2010)
 \end_layout
 
 \begin_layout Quote
@@ -1745,27 +1767,113 @@ Las organizaciones de marketing de destinos turísticos se ven forzadas a
  usuarios habituales.
 \end_layout
 
+\begin_layout Chapter
+Metodología
+\end_layout
+
 \begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Análisis de datos
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Página de inicio
+\end_layout
+
+\begin_layout Standard
+Entendemos como página de inicio la sede web a partir de la cual se puede
+ acceder todos los contenidos por medio de navegación hipertextual.
+ La página inicial será el primer contacto que el turista va a tener con
+ el destino turístico, por lo tanto los contenidos deberán presentarse de
+ forma eficiente y eficaz, con la información y recursos adecuados.
+\end_layout
+
+\begin_layout Standard
+Una página de inicio bien diseñada deberá reunir una serie de características
+ que consigan atraer a los turistas para que continúen interesándose por
+ el destino turístico.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
 
 \emph on
-\color red
-Conviene tener presente que internet es una entre las varias herramientas
- o recursos de los que dispone el marketing para alcanzar sus objetivos
- (Rodríguez, 2008:122).
- Se usa tanto para la obtención de información como un medio para la comunicació
-n interna y externa, y también puede ser un canal para la distribución comercial
- de bienes, servicios e ideas.
- 
+Página de inicio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename pegado2.pdf
+	lyxscale 50
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "Tabla 1: Pagina de inicio"
 
-\color red
-el marketing de la web facilita las informaciones en el exacto momento en
- el que lo necesita un comprador
-\end_layout
+\end_inset
 
-\begin_layout Standard
 
 \end_layout
 
