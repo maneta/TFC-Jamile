@@ -134,7 +134,7 @@ enumitem
 \defskip bigskip
 \quotes_language english
 \papercolumns 1
-\papersides 2
+\papersides 1
 \paperpagestyle fancy
 \tracking_changes false
 \output_changes false
@@ -388,6 +388,14 @@ thispagestyle{empty}
 
 \end_layout
 
+\begin_layout Standard
+Dedico este Trabajo Final de Carrera a mis padres, Norberto y Marli, a mis
+ abuelos, Adolfo y Elvira, porque sin su apoyo no habría podido venir a
+ España a hacer la Diplomatura en Turismo, y a my pareja Daniel, que ha
+ estado animándome, incentivándome y ayudándome siempre que ha podido.
+ 
+\end_layout
+
 \begin_layout Chapter*
 Agradecimientos
 \end_layout
@@ -406,6 +414,23 @@ thispagestyle{empty}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+En primer lugar agradezco a mi tutor José Luis Martínez por aconsejarme
+ en todo momento y ayudarme a realizar el trabajo de la mejor manera posible.
+ No puedo dejar de agradecer a la Dra.
+ Assumpció Huertas, profesora de la Universitat Rovira i Virgili, por haber
+ proporcionado la plantilla de análisis de paginas webs turísticas, resultado
+ de 3 años de investigación de un grupo de 13 investigadores, que sin ésta
+ yo no habría podido realizar este trabajo de investigación.
+ Al Dr.
+ José Fernández Cavia, profesor de la Universitat Pompeu Fabra, por haber
+ facilitado materiales para la realización de este proyecto.
+ Por último agradezco a mis amigos y a todas las persona que, directa o
+ indirectamente, me han ayudado en la realización de este Trabajo Final
+ de Carrera.
+ ¡Gracias a todos!
 \end_layout
 
 \begin_layout Standard
@@ -1848,29 +1873,6 @@ Página de inicio
 
 
 \end_layout
-
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Graphics
-	filename pegado2.pdf
-	lyxscale 50
-	scale 25
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset label
-LatexCommand label
-name "Tabla 1: Pagina de inicio"
 
 \end_inset
 
