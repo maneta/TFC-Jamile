@@ -145,6 +145,42 @@ enumitem
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+tablename}{Tabla}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+listtablename}{Índice de tablas y gráficos}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Title
 Análisis de las webs turísticas: 
 \end_layout
@@ -1854,9 +1890,18 @@ Una página de inicio bien diseñada deberá reunir una serie de característica
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/paginadeinicio.png
+	lyxscale 50
+	scale 20
+
+\end_inset
+
 
 \end_layout
 

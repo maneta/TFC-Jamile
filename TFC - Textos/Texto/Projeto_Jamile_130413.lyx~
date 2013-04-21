@@ -103,7 +103,7 @@ enumitem
 \use_esint 1
 \use_mhchem 1
 \use_mathdots 1
-\cite_engine basic
+\cite_engine natbib_authoryear
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -1857,6 +1857,15 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/paginadeinicio.png
+	lyxscale 50
+	scale 20
+
+\end_inset
+
 
 \end_layout
 
@@ -1877,6 +1886,41 @@ Página de inicio
 \end_inset
 
 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+Leslie Lamport: LATEX: A Document Preparation System.
+ Addison- Wesley, second edition, 1994
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+Helmut Kopka and Patrick W.
+ Daly: A Guide to LATEX Fourth Edition.
+ Addison-Wesley, 2003
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-4"
+
+\end_inset
+
+Helmut Kopka and Patrick W.
+ Daly: A Guide to LATEX Fourth Edition.
+ Addison-Wesley, 2003
 \end_layout
 
 \end_body
