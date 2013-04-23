@@ -1969,8 +1969,15 @@ BEELEN, Paul (2006):
 \emph on
 Publicidad 2.0.
 \emph default
-<http://www.paulbeelen.com/whitepaper/Publicidad20.pdf> [Consultada: 6 abril
- 2012]
+
+\begin_inset Newline newline
+\end_inset
+
+<http://www.paulbeelen.com/whitepaper/Publicidad20.pdf>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 6 abril 2012]
 \end_layout
 
 \begin_layout Bibliography
@@ -2018,6 +2025,36 @@ Letra Internacional,
 \emph default
 nº 71, pp.
  4-16.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+COBO ROMANÍ, Cristóbal y PARDO KUKLINSKI, Hugo (2007): 
+\emph on
+Planeta Web 2.0.
+ Inteligencia colectiva o medios fast food, 
+\emph default
+Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México,
+ Barcelona / México DF.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+DÍAZ LUQUE, Pablo; GUEVARA PLAZA, Antonio y CAVO HERRERO, José Luiz (2004):
+ 
+\emph on
+Promoción turística de las Comunidades Autonomas en Internet.
+ 
 \end_layout
 
 \begin_layout Standard

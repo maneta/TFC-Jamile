@@ -2027,6 +2027,49 @@ nº 71, pp.
  4-16.
 \end_layout
 
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+COBO ROMANÍ, Cristóbal y PARDO KUKLINSKI, Hugo (2007): 
+\emph on
+Planeta Web 2.0.
+ Inteligencia colectiva o medios fast food, 
+\emph default
+Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México,
+ Barcelona / México DF.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+DÍAZ LUQUE, Pablo; GUEVARA PLAZA, Antonio y CAVO HERRERO, José Luiz (2004):
+ 
+\emph on
+Promoción turística de las Comunidades Autonomas en Internet.
+ 
+\emph default
+Actas del V Congreso Turismo y Tecnologías de la Información y las Comunicacione
+s TURITEC 2004.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
