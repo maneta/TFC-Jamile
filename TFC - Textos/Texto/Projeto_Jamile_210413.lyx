@@ -1848,6 +1848,11 @@ thispagestyle{empty}
 
 \end_layout
 
+\begin_layout Standard
+La metodología empleada en esta investigación para identificar la presencia
+ en Internet de los destinos turísticos en forma de la web 
+\end_layout
+
 \begin_layout Chapter
 Análisis de datos
 \end_layout
@@ -1890,7 +1895,7 @@ Una página de inicio bien diseñada deberá reunir una serie de característica
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -1924,6 +1929,10 @@ Página de inicio
 
 \end_layout
 
+\begin_layout Standard
+
+\end_layout
+
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
@@ -1931,32 +1940,177 @@ key "key-2"
 
 \end_inset
 
-Leslie Lamport: LATEX: A Document Preparation System.
- Addison- Wesley, second edition, 1994
+ADELL, Ramón (2007)
+\noun on
+: 
+\emph on
+\noun default
+Aprender Marketing, 
+\emph default
+Paidós, Barcelona.
 \end_layout
 
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
-key "key-3"
+key "key-6"
 
 \end_inset
 
-Helmut Kopka and Patrick W.
- Daly: A Guide to LATEX Fourth Edition.
- Addison-Wesley, 2003
+ALTÉS MACHÍN, Carmen (1993): 
+\emph on
+Marketing y Turismo: una introducción al marketing de empresas y destinos
+ turísticos, 
+\emph default
+Síntesis, Madrid.
 \end_layout
 
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
-key "key-4"
+key "key-7"
 
 \end_inset
 
-Helmut Kopka and Patrick W.
- Daly: A Guide to LATEX Fourth Edition.
- Addison-Wesley, 2003
+BEEKMAN, George (2005): 
+\emph on
+Introducción a la informática, 
+\emph default
+6ª ed., Pearson Educación, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+BEELEN, Paul (2006): 
+\emph on
+Publicidad 2.0.
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+<http://www.paulbeelen.com/whitepaper/Publicidad20.pdf>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 6 abril 2012]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-11"
+
+\end_inset
+
+BUHALIS, Dimitrios y LAW, Rob (2008): 
+\begin_inset Quotes eld
+\end_inset
+
+Progress in information technology and tourism management: 20 years on and
+ 10 years after the Internet - The state of eTourism research
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+Tourism Management, 
+\emph default
+nº 29, pp.
+ 609-623.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+CASTELLS, Manuel (2001): 
+\begin_inset Quotes eld
+\end_inset
+
+Internet y la sociedad red
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Letra Internacional, 
+\emph default
+nº 71, pp.
+ 4-16.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+COBO ROMANÍ, Cristóbal y PARDO KUKLINSKI, Hugo (2007): 
+\emph on
+Planeta Web 2.0.
+ Inteligencia colectiva o medios fast food, 
+\emph default
+Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México,
+ Barcelona / México DF.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+DÍAZ LUQUE, Pablo; GUEVARA PLAZA, Antonio y CAVO HERRERO, José Luiz (2004):
+ 
+\emph on
+Promoción turística de las Comunidades Autonomas en Internet.
+ 
+\emph default
+Actas del V Congreso Turismo y Tecnologías de la Información y las Comunicacione
+s TURITEC 2004.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Bibliografía}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_body
