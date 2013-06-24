@@ -1,0 +1,2130 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass scrbook
+\begin_preamble
+% DO NOT ALTER THIS PREAMBLE!!!
+%
+% This preamble is designed to ensure that the User's Guide prints
+% out as advertised. If you mess with this preamble,
+% parts of the User's Guide may not print out as expected.  If you
+% have problems LaTeXing this file, please contact 
+% the documentation team
+% email: lyx-docs@lists.lyx.org
+
+\usepackage{ifpdf} % part of the hyperref bundle
+\ifpdf % if pdflatex is used
+
+ % set fonts for nicer pdf view
+ \IfFileExists{lmodern.sty}{\usepackage{lmodern}}{}
+
+\fi % end if pdflatex is used
+
+% for correct jump positions whe clicking on a link to a float
+\usepackage[figure]{hypcap}
+
+% the pages of the TOC is numbered roman
+% and a pdf-bookmark for the TOC is added
+%\let\myTOC\tableofcontents
+%\renewcommand\tableofcontents{%
+%\frontmatter
+\mainmatter
+\pdfbookmark[1]{\contentsname}{}
+%\myTOC
+%\mainmatter }
+
+% define a short command for \textvisiblespace
+\newcommand{\spce}{\textvisiblespace}
+
+% macro for italic page numbers in the index
+\newcommand{\IndexDef}[1]{\textit{#1}}
+
+% for customized page headers/footers
+% only needed because they are only used in one section of the document
+\usepackage{fancyhdr}
+\lhead{}
+\chead{}
+\rhead{}
+\cfoot{}
+\rfoot{\thepage}
+% change header rule width
+\renewcommand{\headrulewidth}{0pt}
+
+% workaround for a makeindex bug, 
+% see sec. "Index Entry Order"
+% only uncomment this when you are using makindex
+%\let\OrgIndex\index 
+%\renewcommand*{\index}[1]{\OrgIndex{#1}}
+\end_preamble
+\use_default_options false
+\begin_modules
+customHeadersFooters
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref true
+\pdf_title "Análisis de las webs turísticas"
+\pdf_author "Jamile Radloff"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle false
+\pdf_quoted_options "linkcolor=black, citecolor=black, urlcolor=blue, filecolor=blue, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_authoryear
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\notefontcolor #0000ff
+\branch Pregunta
+\selected 1
+\filename_suffix 0
+\color #00ff00
+\end_branch
+\branch Respuesta
+\selected 0
+\filename_suffix 0
+\color #aa55ff
+\end_branch
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 30mm
+\topmargin 25mm
+\rightmargin 30mm
+\bottommargin 25mm
+\secnumdepth 3
+\tocdepth 2
+\paragraph_separation skip
+\defskip bigskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+tablename}{Tabla}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+listtablename}{Índice de tablas y gráficos}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title
+Análisis de las webs turísticas: 
+\end_layout
+
+\begin_layout Subtitle
+El caso de Barcelona, Tarragona y Girona
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\size large
+ESCUELA UNIVERSITARIA DE TURISMO MEDITERRANI
+\begin_inset Newline newline
+\end_inset
+
+(Centro Adscrito a la Universitat de Girona)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 4cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+\series bold
+\size largest
+ANÁLISIS DE LAS WEBS TURÍSTICAS: EL CASO DE BARCELONA, TARRAGONA Y GIRONA
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/tfc2.png
+	lyxscale 20
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+JAMILE MARCELE RADLOFF
+\begin_inset Newline newline
+\end_inset
+
+TUTOR: JOSÉ LUIS MARTINEZ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+TRABAJO FIN DE CARRERA
+\begin_inset Newline newline
+\end_inset
+
+CURSO: 2012-13
+\begin_inset Newline newline
+\end_inset
+
+BARCELONA, JUNIO DE 2013
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{5}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\size large
+ESCOLA UNIVERSITÀRIA DE TURISME MEDITERRANI
+\begin_inset Newline newline
+\end_inset
+
+(Centro adscrito a la Universitat de Girona)
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 7cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+\series bold
+\size largest
+ANÁLISIS DE LAS WEBS TURISTICAS: EL CASO DE BARCELONA, TARRAGONA Y GIRONA
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\noindent
+\align center
+
+\family sans
+JAMILE MARCELE RADLOFF
+\begin_inset Newline newline
+\end_inset
+
+TUTOR: JOSÉ LUIS MARTINEZ
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\family sans
+TRABAJO FIN DE CARRERA
+\begin_inset Newline newline
+\end_inset
+
+CURSO: 2012-13
+\begin_inset Newline newline
+\end_inset
+
+BARCELONA, JUNIO DE 2013
+\end_layout
+
+\begin_layout Chapter*
+
+\family sans
+\series bold
+\size largest
+Dedicatoria
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dedico este Trabajo Final de Carrera a mis padres, Norberto y Marli, a mis
+ abuelos, Adolfo y Elvira, porque sin su apoyo no habría podido venir a
+ España a hacer la Diplomatura en Turismo, y a my pareja Daniel, que ha
+ estado animándome, incentivándome y ayudándome siempre que ha podido.
+ 
+\end_layout
+
+\begin_layout Chapter*
+Agradecimientos
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En primer lugar agradezco a mi tutor José Luis Martínez por aconsejarme
+ en todo momento y ayudarme a realizar el trabajo de la mejor manera posible.
+ No puedo dejar de agradecer a la Dra.
+ Assumpció Huertas, profesora de la Universitat Rovira i Virgili, por haber
+ proporcionado la plantilla de análisis de paginas webs turísticas, resultado
+ de 3 años de investigación de un grupo de 13 investigadores, que sin ésta
+ yo no habría podido realizar este trabajo de investigación.
+ Al Dr.
+ José Fernández Cavia, profesor de la Universitat Pompeu Fabra, por haber
+ facilitado materiales para la realización de este proyecto.
+ Por último agradezco a mis amigos y a todas las persona que, directa o
+ indirectamente, me han ayudado en la realización de este Trabajo Final
+ de Carrera.
+ ¡Gracias a todos!
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter*
+Introducción
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Introducción}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Historia de Internet
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se habla mucho de internet pero la mayor parte de las personas no saben
+ de donde ha surgido la tan famosa y útil internet.
+ Se puede decir que el antecesor de la que hoy conocemos como internet fue
+ un proyecto del departamento de defensa de los Estado Unidos, lo cual formó
+ la agencia 
+\emph on
+Advanced Research Projects Agency
+\emph default
+ (ARPA) en 1957.
+ Tanenabum (1997:47) recuerda que “ARPA se creó en respuesta al lanzamiento
+ del Sputnik de la Unión Soviética en 1957 y tuvo la misión de desarrollar
+ tecnologías que pudieran ser útiles a la milicia.” ARPA no tenia científicos
+ ni laboratorios, fue constituida en una oficina y con un presupuesto pequeño
+ para los patrones del gobierno estadounidense.
+ Tal como dice Lamarca (2006) “En 1969, ARPA estableció ARPANET, la red
+ predecesora de internet.” En diciembre de 1969 han creado una red experimental
+ con conexiones entre cuatro universidades: Universidad de California en
+ Los Angeles (UCLA), Universidad de California en Santa Barbara (UCSB),
+ Universidad de Utah y 
+\emph on
+Stanford Research Institute
+\emph default
+ (SRI), que a través de la conexión conjunta a la ARPANET surgió la rudimentaria
+ internet, la cual su propósito era poner en comunicación a los científicos
+ (Leiner y otros, 1998:3).
+\end_layout
+
+\begin_layout Standard
+A partir de la ARPANET han surgido otros tipos de conexiones en red con
+ nuevas tecnologías y más rápidas conexiones, una de ellas fue la NSFNET.
+ Esta red fue creada por la NSF (
+\emph on
+National Science Foundation
+\emph default
+) en 1984 y ha permitido usuarios de miles de universidades, laboratorios
+ de investigación, bibliotecas y museos acceder a cualquiera de las supercomputa
+doras y comunicarse entre sí.
+ Según Lamarca (2006) “el crecimiento exponencial que experimentó NSFNET
+ así como el incremento continuo de su capacidad de transmisión de datos,
+ determinó que la mayoría de los miembros de ARPANET terminaran conectándose
+ a esta nueva red”.
+ 
+\end_layout
+
+\begin_layout Standard
+A los mediados de la década de 1980, NSFNET y ARPANET se fusionan que resultó
+ en un gran crecimiento y permitió hacer conexión con Canadá, Europa y el
+ Pacífico.
+ Se empezó a ver las aglomeraciones de redes como una interred y luego como
+ la internet (Tanenbaum, 1997:52).
+ El crecimiento es imparable y tal como dice Paxson (citado en Tanenbaum,
+ 1997:53) el tamaño se duplica aproximadamente cada año.
+\end_layout
+
+\begin_layout Standard
+La Real Academia Española (2001) define internet como “red informática mundial,
+ descentralizada, formada por la conexión directa entre computadoras u ordenador
+es mediante un protocolo especial de comunicación.” Lamarca (2006) afirma
+ que internet es una red de millones de ordenadores en todo el mundo.
+ 
+\end_layout
+
+\begin_layout Standard
+Al principio la internet solo era utilizada por una pequeña comunidad de
+ científicos, ingenieros y otros investigadores.
+ Actualmente, internet es una comunidad de millones de personas de todo
+ el mundo que engloba tanto a los niños como a los ejecutivos (Beekman,
+ 2005:340).
+ Lamarca (2006) recuerda que la red de redes proporciona una comunicación
+ entre millones de personas de todos los países del mundo.
+ 
+\end_layout
+
+\begin_layout Standard
+Internet ofrece varias herramientas de comunicación, información y interacción,
+ Lamarca (2006) comenta que:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Internet aporta o soporta una serie de instrumentos para que la gente difunda
+ y acceda a documentos y a la información (WWW, FTP, etc.), para que los
+ individuos y los grupos se relacionen a través de una serie de medios de
+ comunicación más o menos nuevos (correo electrónico, listas de distribución,
+ videoconferencia, chats...) o más o menos viejos (como una conversación telefónica
+, poner un fax, etc,) y también incluye dentro de sí a los denominados medios
+ de comunicación de masas (radio, televisión, periódicos y revistas online,
+ cine, la omnipresente publicidad, etc).
+\end_layout
+
+\begin_layout Standard
+Internet es una red que comprende distintos tipos y distintos sistemas de
+ comunicación, desde correo electrónico hasta una pagina web.
+ Tal como dice Beekman (2005:346), “Se puede conectar a internet de diversas
+ formas, y cada una de ellas ofrece diferentes grados de acceso a sus servicios
+ [...] las primeras paginas webs eran simples documentos de hipertextos; las
+ actuales contienen cientos de complejas estructuras ricas en multimedia
+ que ofrecen a sus visitantes una gran variedad de elecciones.” Internet
+ no es lo mismo que una pagina web, ésta es solo una de las muchas herramienta
+ que ofrece internet.
+ Para Castells (2001:2), internet “es un medio de comunicación, de interacción
+ y de organización social.” Lamarca (2005) también comenta que internet se
+ puede dividir en 3 funciones principales: comunicación, información y interacci
+ón.
+ Las personas utilizan la internet para comunicarse en varios contextos
+ de uno a uno, de uno a varios o de varios a varios.
+ Además de la comunicación, las personas pueden interactuar con personas
+ de países de todo el mundo jugando, haciendo negocios a través de internet,
+ intercambiando archivos o simplemente charlando en redes sociales.
+ La internet es una gran fuente de información, donde se puede encontrar
+ todos los tipos de temas de amplio rango de actividades y conocimientos
+ humanos (Lamarca, 2006).
+ 
+\end_layout
+
+\begin_layout Standard
+Nafría (2007:45) recuerda que: 
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Fue en 1999 el año de la confirmación de internet en muchos aspectos: como
+ una poderosísima herramienta de comunicación, como un excelente medio para
+ hacer negocios, como un gran escaparate comercial que propicia nuevas formas
+ de comprar y vender...
+ Uno de los atractivos principales de la red era, y es, precisamente éste:
+ su capacidad para transformar de un modo u otro casi todas las actividades
+ en las que los humanos podamos estar involucrados.
+ Comunicación, formación, ocio o negocio, todo puede verse afectado por
+ la red.
+\end_layout
+
+\begin_layout Chapter
+La 
+\shape italic
+World Wide Web
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La historia de la 
+\emph on
+world wide web
+\emph default
+, o comúnmente conocida como web, comenzó en 1989 y la idea surgió del físico
+ del Centro Europeo de Investigación Nuclear (CERN) Tim Berners-Lee como
+ recuerda Tanenbaum (1997:681).
+ Según Lamarca (2006) el propósito de la web era de ofrecer una herramienta
+ para la búsqueda y transmisión de información entre los científicos.
+ La web nació de la necesidad de conseguir que los investigadores dispersos
+ en todo el mundo pudieran colaborar utilizando un acervo de documentos,
+ informes, fotos, dibujos que iban constantemente cambiando (Tanenbaum,
+ 1997:681).
+\end_layout
+
+\begin_layout Standard
+La Real Academia Española (2011) define web como una red informática y,
+ por otro lado, define pagina web como un documento situado en una red informáti
+ca, al que se accede mediante enlaces de hipertexto.
+ Son muchas las definiciones y conceptos que podemos encontrar, según Lamarca
+ (2006) la 
+\emph on
+World Wide Web
+\emph default
+ constituye una gran red documental de estructura hipertextual.
+ Prieto; Lloris y Torres (2002:639) dan una otra visión al concepto de la
+ 
+\emph on
+world wide web
+\emph default
+ diciendo que es compuesta por archivos distribuidos a lo largo de todo
+ el mundo y con enlaces entre ellos.
+ A través de la web tenemos acceso a una enorme cantidad de información
+ de todo tipo y de diversos recursos: imágenes, audio, video, texto, recursos
+ audiovisuales (Lamarca, 2005).
+ 
+\end_layout
+
+\begin_layout Standard
+Desde su creación hasta los días actuales la web cambió mucho, al principio
+ el usuario era pasivo, tenía disponible una información estática con dirección
+ unidireccional y la producción del contenido de las webs eran individuales
+ con fuentes limitadas.
+ Cuándo hablamos de una web con estas características podemos definirla
+ como web 1.0.
+ Nafría (2007:44) afirma que en 1998 la mejor manera de conectarse a internet
+ era a través de los portales web, que se entendía como una web que reunía
+ una gran parte de los servicios e informaciones que los usuarios más utilizaban
+, como el correo electrónico, noticias, agenda...
+\end_layout
+
+\begin_layout Standard
+La web fue cambiando poco a poco a lo largo de los años y han surgido varias
+ webs que estaban pensadas para el usuario, podemos citar la Epinions.com
+ que según Nafría (2007:54) surgió en mediados del 1999 y ofrecía a los
+ usuarios de la red la oportunidad de dar su opinión sobre cualquier producto
+ y también de comparar sus características y precios con otros similares.
+ El usuario empieza a ejercer un papel importante en la red, participando
+ y compartiendo informaciones.
+ Otras webs que tienen una participación muy importante en el cambio de
+ la manera que utilizamos la web son: Flickr, web para compartir fotos;
+ Youtube, web para compartir vídeos y MySpace, que se dedicaba al intercambio
+ de archivos digitales entre usuarios.
+ 
+\end_layout
+
+\begin_layout Standard
+Según Nafría (2007:112) es difícil fijar un momento exacto en la historia
+ de la web que termina la primera fase, pero se puede situarlo entre 2001
+ y 2003.
+ A lo largo de estos años muchas cosas empiezan a diversificarse en la web,
+ empezaron a surgir nuevas tecnologías que facilitaban y agilizaban la búsqueda
+ de información, la velocidad de la internet mejora así como la calidad
+ de la misma donde el usuario puede hacer más cosas en la web con mayor
+ rapidez y es cuándo comienza a surgir la idea del usuario como generador
+ de contenido.
+ 
+\end_layout
+
+\begin_layout Standard
+Cobo y Pardo (2007:27) afirman que la web actual no es igual a la web que
+ existía en 2000, en ese momento las aplicaciones que ofrecían espacios
+ abiertos de acceso, escritura y producción de contenido de valor añadido
+ en forma gratuita eran limitadas.
+ Tal como dice Cobo y Pardo (2007:27) “[...] la web en su conjunto empieza
+ a dibujar un nuevo escenario de contenidos y meta-información en plena
+ transformación hacia los principios de la web 2.0.”
+\end_layout
+
+\begin_layout Standard
+Siguiendo a Fumero y Roca (2007:11) “surge una nueva red caracterizada como
+ la web de las personas frente a la web de los datos, correspondiente a
+ la versión uno, la web 1.0.” Cobo y Pardo (2007:15) comentan que en esta
+ nueva red, la web de las personas, deja de ser un simple escaparate de
+ contenidos multimedia para transformarse en una plataforma abierta , construida
+ y basada en la participación de los usuarios.
+ La web 2.0 es como podemos llamar la segunda fase de los negocios de internet
+ en la que estamos actualmente inmersos, las reglas son muy diferentes a
+ las de la web 1.0, entre otras cosas porque el coste de lanzar un nuevo
+ servicio se ha reducido mucho (Nafría, 2007:122).
+\end_layout
+
+\begin_layout Standard
+Nafría (2007:124) afirma que la Web 1.0 en su mayoría fue un canal de publicación
+ unidireccional utilizado por las empresas para enviar información a los
+ usuarios, un emisor publicaba sus contenidos en la red y los receptores,
+ que llamamos usuarios, los consumían.
+ Entretanto la Web 2.0 es un entorno bidireccional donde es papel del emisor
+ y receptor acaba mezclándose.
+ Hemos pasado de un modelo unidireccional de comunicación a un proceso dinámico
+ e interactivo de selección, modelaje y debate de nuevas experiencias entre
+ los propios usuarios (Molenaar, 2002, citado en Huertas, 2008:1).
+\end_layout
+
+\begin_layout Standard
+Explica Nafría (2007:124) que:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+La web 1.0 era una web de sólo lectura; la Web 2.0 es de lectura y escritura.
+ La Web 2.0 es participativa por naturaleza.
+ [...] los usuarios no suelen adoptar una actitud pasiva, sino todo lo contrario.
+ No sólo leen, también discuten, comentan, valoran, opinan, proponen, anuncian,
+ enlazan, escriben, publican, intercambian, escogen, corrigen, comparten...
+ Es decir, participan activamente.
+ Y con su participación, ayudan a elaborar el producto.
+\end_layout
+
+\begin_layout Standard
+Si internet fuese un software informático, la web 2.0 sería una nueva y mejorada
+ versión del mismo.
+ Una versión que estaría sacando provecho de lo mejor de su primera fase,
+ la que conocemos como la web 1.0, y que se habrían integrado importantes
+ novedades tanto tecnológicas como de uso.
+ La nueva versión de la web, la que llamamos web 2.0, ha dado lugar a nuevos
+ escenarios, nuevas posibilidades, nuevos métodos de trabajo, nuevas vías
+ de participación, nuevas formas de relación, nuevos modos de hacer negocio.
+ La web 2.0 ha cambiado las reglas del juego que estuvieron vigentes durante
+ los primeros años de internet (Nafría, 2007:111).
+\end_layout
+
+\begin_layout Standard
+El concepto de web 2.0, según O’Reilly (2005:1) nació en una sesión de 
+\emph on
+brainstorming
+\emph default
+ realizada entre O'Reilly y
+\emph on
+ MediaLive International
+\emph default
+ a mediados de 2004.
+ La historia del nacimiento de este concepto fue publicada por Tim O’Reilly,
+ el 30 de septiembre de 2005, en un artículo que publicó en su web, titulado
+ 
+\emph on
+What is Web 2.0.
+ Design Patterns and Business Models for the Next Generation of Software
+\emph default
+ (Qué es Web 2.0.
+ Patrones de diseño y modelos de negocio para la siguiente generación de
+ software).
+ Un año y medio más tarde el término, web 2.0, contaba con 9,5 millones de
+ referencia en Google (O’Reilly, 2005:1) lo cuál genera muchos debates y
+ discusiones sobre el concepto web 2.0.
+ 
+\end_layout
+
+\begin_layout Standard
+O’Reilly (citado en Beelen, 2006:4,5) describe las características de la
+ nueva web:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Web 2.0 es la red como plataforma, involucrando todos los dispositivos conectados.
+ Aplicaciones Web 2.0 son las que aprovechan mejor las ventajas de esa plataforma
+, ofreciendo software como un servicio de actualización continua que mejora
+ en la medida que la cantidad de usuarios aumenta, consumiendo y remezclando
+ datos de diferentes fuentes, incluyendo usuarios individuales, mientras
+ genera sus propios datos en una forma que permite ser remezclado por otros,
+ creando efectos de red a través de una arquitectura de participación y
+ dejando atrás la metáfora de la página del web 1.0, con el fin de ofrecer
+ experiencias mas envolventes al usuario.
+\end_layout
+
+\begin_layout Standard
+Fumero y Roca (2007:10) definen la web 2.0 como la red que fue convertida
+ en un espacio social, con espacio para todos los agentes sociales, capaz
+ de dar auxilio y formar parte de una verdadera sociedad de la información,
+ la comunicación y/o el conocimiento.
+\end_layout
+
+\begin_layout Standard
+En la primera conferencia sobre la web 2.0, en octubre de 2004, John Battelle
+ y Tim O’Reilly enumeraron un conjunto de principios para mejor definir
+ la web 2.0 (O’Reilly, 2005:2).
+ Según O’Reilly (2005) (citado en Cobo y Pardo, 2007:15) los principios
+ constitutivos de la web 2.0 son siete: la web como plataforma de trabajo,
+ el fortalecimiento de la inteligencia colectiva, la gestión de las bases
+ de datos como competencia básica, el fin del ciclo de las actualizaciones
+ de versiones de software, los modelos de programación ligera junto a la
+ búsqueda de la simplicidad, el software no limitado a un solo dispositivo
+ y las experiencias enriquecedoras de los usuarios.
+ 
+\end_layout
+
+\begin_layout Section
+La web como plataforma
+\end_layout
+
+\begin_layout Standard
+La web como plataforma fue el tema central elegido para la primera edición
+ de la 
+\emph on
+Web 2.0 Conference 
+\emph default
+celebrada en 2004 y una de las ideas fundamentales de la web 2.0.
+ Considerar la web como plataforma implica al usuario utilizar las paginas
+ webs como si fueran un programa instalado en su ordenador, el usuario conecta
+ a una web en concreto y la usa como si fuese una aplicación (Nafría, 2007:115).
+ Las nuevas compañías ofrecen software gratuito, utilizando la web como
+ plataforma.
+ De esta manera, las herramientas y sus contenidos se encuentran en la propia
+ web y no en el ordenador del usuario.
+ Para explicar este fenómeno podemos utilizar el concepto de webtop que
+ es opuesto al de desktop (Cobo y Pardo, 2007:28).
+ “El webtop permite convertir la web en un escritorio virtual sobre el que
+ el usuario pueda trabajar como si estuviera en su equipo, creando, modificando
+ y guardando archivos de todo tipo (Nafría, 2007:406).”
+\end_layout
+
+\begin_layout Standard
+Cobo y Pardo (2007:28) afirman que el modelo de negocio de la web 1.0 era
+ limitado a un espacio de contenido corporativo y de servicios, sin participació
+n del usuario ni contenidos gratuitos o servicios de alta importancia.
+ Existían pocos espacios para que los usuarios publicaran sus contenidos,
+ o sea, básicamente sólo se podía consumir.
+ La web 2.0 plantea la colaboración gratuita y abierta fundamentada en un
+ software en línea, permitiendo al usuario generar contenido (Scolari y
+ Pardo, 2006:2).
+\end_layout
+
+\begin_layout Standard
+Scolari y Pardo (2006:2) explican de una forma sencilla el significado de
+ plataforma abierta diciendo que, las herramientas Web 2.0 utilizan su propio
+ servidor para almacenar toda la información, de esta manera el usuario
+ que se conecta a la red siempre tiene acceso a ella.
+ Esta característica de la web 2.0 trae muchos beneficios para toda la comunidad
+ de usuarios.
+\end_layout
+
+\begin_layout Standard
+O’Reilly (2005:5) afirma que el servicio mejora automáticamente cuanto más
+ gente use las herramientas de la web 2.0.
+ Se puede decir que el producto va mejorando con el uso y con el aumento
+ de las comunidades que están siempre subiendo y compartiendo contenidos.
+ Como ejemplo podemos mencionar Youtube (www.youtube.com) que desde su creación,
+ en julio de 2004, tuvo un crecimiento exponencial y es un espacio donde
+ millones de usuarios colaboran y comparten vídeos.
+ 
+\end_layout
+
+\begin_layout Section
+El fortalecimiento de la inteligencia colectiva
+\end_layout
+
+\begin_layout Standard
+O’Reilly en su artículo afirma que “el principio fundamental que se esconde
+ detrás del éxito de los gigantes nacidos en la era de la Web 1.0 que han
+ sobrevivido para liderar la era de la Web 2.0 parece ser éste, que han abrazado
+ el poder de la web para explotar inteligencia colectiva.” Berners-Lee ya
+ hablaba de estos principios Cuándo pensó y creó la Web a principios de
+ la década de 1990.
+ Los usuarios pueden actuar de la forma tradicional, navegando a través
+ de los contenidos de las webs, o de manera proactiva, es decir, creando
+ y aportando sus contenidos.
+ Lévy (citado en Cobo y Pardo, 2007:46) complementa la idea afirmando que
+ la inteligencia colectiva es una especie de sociedad anónima donde el capital
+ aportado por cada socio son sus conocimientos, sus conversaciones, la capacidad
+ de aprender y enseñar.
+ La web del futuro revelará la inteligencia colectiva de un mundo globalizado
+ e interconectado a través de la internet.
+\end_layout
+
+\begin_layout Standard
+O’Reilly (2005:7) clasifica Wikipedia como “un experimento radical de confianza”
+ donde el usuario puede aportar contenido y cualquier otro puede corregirlo,
+ resultando en un enorme cambio en la manera de crear contenido.
+ Nafría (2007:117) afirma que la actividad colectiva y constante de millones
+ de usuarios en webs de subastas como el eBay o Amazon.com es lo que hace
+ que estas webs sean muy valiosas, aportando un valor añadido que sus competidor
+es no pueden ofrecer.
+ Hacer un buen uso de la inteligencia colectiva, o sea, explotar o aprovechar
+ las contribuciones de los usuarios, es la clave para el dominio del mercado
+ en la era de la web 2.0.
+ De esta forma el usuario pasa de consumidor a co-desarrollador.
+ El ambiente perfecto para expresar las habilidades, experiencias y competencias
+ de las personas es el ciberespacio, es donde cada persona puede aportar
+ algo y nadie tiene conocimiento absoluto (Lévy, 1997, citado en Cobo y
+ Pardo, 2007:46).
+\end_layout
+
+\begin_layout Section
+La gestión de las bases de datos como competencia básica
+\end_layout
+
+\begin_layout Standard
+La clave de este principio es el infoware, es decir, el software más datos.
+ Los datos son valiosos para las aplicaciones Web 2.0, ya que el software
+ es un recurso de fácil implementación (Cobo y Pardo, 2007:30).
+ O’Reilly (2005:3) afirma que las herramientas necesitan de los datos y
+ el software es la manera que se usa para manejarlos.
+ Los datos son una parte definitivamente importante de cualquier proyecto
+ web, y muchas veces la clave del éxito o fracaso de una web está relacionada
+ con la gestión de los datos (Nafría, 2007:118).
+\end_layout
+
+\begin_layout Standard
+O’Reilly utiliza como ejemplo Amazon.com, que desde el principio aplica la
+ política de enriquecimiento de información, y que muchas veces éstas fueron
+ generadas por los propios usuarios de la web (Cobo y Pardo, 2007:30).
+ Scolari y Pardo (2006:3) complementa la idea afirmando que la administración
+ de los datos de Amazon.com es su habilidad básica y el enriquecimiento de
+ su servicio y contenido.
+ Comenta Nafría (2007:118) que una ventaja competitiva es lograr un conjunto
+ crítico de usuarios que producen datos de gran valor de manera que se pueda
+ ofrecer un servicio atractivo para los clientes.
+ 
+\end_layout
+
+\begin_layout Section
+El fin del ciclo de las actualizaciones de versiones de software
+\end_layout
+
+\begin_layout Standard
+Cobo y Pardo (2007:30) afirman que se acaba el modelo inicial de software
+ cerrado, para pasar a utilizar el software como un servicio gratuito combinado
+ con los datos, funcionando en la propia web sin la necesidad de instalar
+ en nuestro ordenador.
+ O’Reilly (2005:3) complementa la idea utilizando como ejemplo Google:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Google comenzó su vida como una aplicación web nativa, nunca vendida o empaqueta
+da, sino siempre entregada como un servicio [...].
+ No hay programación de las actualizaciones de las versiones del software,
+ sencillamente mejora continua.
+ Ninguna licencia o venta, sencillamente uso.
+ Ningún tipo de portabilidad a diferentes plataformas de forma que los clientes
+ puedan ejecutar el software en su propio equipo.
+\end_layout
+
+\begin_layout Standard
+Este cambio en el modelo de negocio favorece mucho al usuario, siendo Google
+ el ejemplo de actualización diaria del software (Scolari y Pardo, 2006:3).
+ Según Cobo y Pardo (2007:31) Google, con su motor de búsqueda y servicios
+ complementarios, ofrece de forma gratuita una oferta de servicios innovadores,
+ sin constantes actualizaciones ni incompatibilidades de sistemas, utilizando
+ la Web como plataforma y sin la necesidad de instalar y quitar espacio
+ de disco duro de nuestro ordenador.
+ Las empresas web 2.0 dejan de estar transformando sus modelos en versiones
+ betas, lanzan el software pronto y a menudo, aprendiendo del consumo de
+ los usuarios para mejorar sus prototipos.
+ De este modo la herramienta está en constante desarrollo, sin costes adicionale
+s para el usuario y se acelera el proceso de mejoras de la aplicación.
+ 
+\end_layout
+
+\begin_layout Section
+Los modelos de programación ligera junto a la búsqueda de la simplicidad
+\end_layout
+
+\begin_layout Standard
+Según O’Reilly (2005) (citado en Scolari y Pardo, 2006:3) este principio
+ consta en simplificar las aplicaciones y a la vez que también sean fiables
+ y funcionales.
+ Se pretende que las aplicaciones crezcan de una manera simplificada y que
+ el usuario pueda ver el contenido cuándo quiera en la plataforma que quiera,
+ y no según lo que establezca el proveedor/desarrollador de la información.
+ 
+\end_layout
+
+\begin_layout Standard
+Cobo y Pardo (2007:31) complementan la idea afirmando que los modelos de
+ programación ligera realzan la simplicidad, donde menos es más, donde se
+ evita los excesos de especificaciones y funciones del software cerrado.
+ La programación ligera proporciona productos creativos, productivos y con
+ mayor valor añadido.
+\end_layout
+
+\begin_layout Section
+El software no limitado a un solo dispositivo
+\end_layout
+
+\begin_layout Standard
+Nafría (2007:120) comenta que una de las características de la web 2.0 es
+ que el servicio no debe estar limitado simplemente al ordenador, ya que
+ el ordenador personal ya no es más el único aparato de acceso a internet.
+ Los smartphones y las tablets empezaron a ocupar espacios hasta ahora solo
+ reservados a los ordenadores personales (Cobo y Pardo, 2007:32).
+ Scolari y Pardo (2006:3) complementan la idea afirmando que los dispositivos
+ móviles se están transformando en plataformas para el entretenimiento,
+ la gestión de la información, y la producción de contenidos multimedia.
+ Este principio fue pensado precisamente en la unión entre las aplicaciones
+ web 2.0 y los dispositivos móviles, actualmente, tanto el software como
+ las aplicaciones son diseñadas para sean utilizadas en diversas plataformas,
+ principalmente ordenadores y móviles (Cobo y Pardo, 2007:119).
+ 
+\end_layout
+
+\begin_layout Section
+Las experiencias enriquecedoras de los usuarios
+\end_layout
+
+\begin_layout Standard
+Según O’Reilly (citado en Nafría, 2007:120) para lograr el éxito en el mundo
+ de la web 2.0 las compañías tendrán que crear aplicaciones que aprendan
+ de sus usuarios, utilizando una arquitectura de participación para sacar
+ provecho en la interfaz del programa así como en la riqueza de los datos
+ compartidos.
+\end_layout
+
+\begin_layout Standard
+Se puede citar como una experiencia enriquecedora de los usuarios los blogs,
+ Cobo y Pardo (2007:33) afirman que su éxito está justificado por la sencillez
+ de creación, productividad, posibilidad de indexación y visibilidad en
+ los buscadores.
+ Rojas (2005) (citado en Cobo y Pardo, 2007:33) complementa la idea de los
+ blogs como experiencia enriquecedora de los usuarios resumiendo los porqués
+ de su popularidad:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Los blogs son fáciles de usar, tienen un bajo coste o a veces son gratuitos,
+ son interactivos, humanizan a las organizaciones, son creíbles, inmediatos,
+ directos e infecciosos, pueden ser consultados por los periodistas, no
+ son intrusivos, otorgan autoridad e influencia, permiten llegar a audiencias
+ que han abandonado otros medios, crean comunidad, ayudan a aumentar la
+ notoriedad de la organización en la red, refuerzan la cultura de la organizació
+n y ayudan en momentos de crisis institucionales.
+\end_layout
+
+\begin_layout Standard
+El nuevo diseño de las interfaces webs plantea experiencias de usuarios
+ ricas en la capacidad del acceso en cualquier lugar y momento, usabilidad
+ y simplicidad de la navegación, generación de contenido en forma dinámica
+ e integración con los sistemas operativos de nuestros ordenadores (Scolari
+ y Pardo, 2006:4).
+ 
+\end_layout
+
+\begin_layout Chapter
+Marketing
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En el mundo del marketing, el artículo de Bagozzi, 
+\emph on
+Marketing as Echange
+\emph default
+, es conocido como el primer concepto de marketing.
+ Según Bagozzi (1975) (citado en Adell, 2007:18) marketing es “el sistema
+ más correcto para enfocar los intercambios entre una empresa, organización
+ o institución y su entorno.” Hoy al hablar de marketing encontramos una
+ infinidad de conceptos y definiciones, para Esteban y otros (2002:13) el
+ marketing se enfoca en la identificación de las necesidades y deseos de
+ una entidad y estimula la demanda para materializar los deseos, mediante
+ las relaciones de intercambio.
+\end_layout
+
+\begin_layout Standard
+El marketing se fundamenta en las relaciones de intercambio que satisfacen
+ los propósitos del cliente y de la organización, mediante los procesos
+ de planificación y ejecución de acciones de producto, precio, distribución
+ y comunicación de bienes, servicios e ideas (Esteban y otros, 2002:14).
+ Existe dos partes que interaccionan en el mercado: una que produce y vende
+ productos y servicios, que denominamos la oferta y otra que compra y consume
+ esos productos y servicios, que llamamos la demanda.
+ Se puede decir que la función del marketing es poner en contacto la oferta
+ y la demanda, y facilitar el intercambio entre ellas de manera satisfactoria
+ y rentable para ambas partes (Altés, 1993:13).
+ Adell (2007:18) da una otra visión diciendo que el marketing ayuda a realizar
+ intercambios entre los que ofrecen productos y servicios y quienes los
+ necesitan o desean.
+ 
+\end_layout
+
+\begin_layout Standard
+Siguiendo a Esteban y otros (2002:14) “un intercambio es una acción voluntaria
+ para transferir un bien en contraprestación de otro objeto de valor similar.”
+ El intercambio es la comunicación de dos partes donde resulta la obtención
+ de algo valioso.
+ Adell (2007:19) complementa la idea diciendo que el intercambio debe satisfacer
+ las necesidades y los deseos de ambas las partes que participan en él.
+ Las empresas disponen de productos para satisfacer las necesidades y los
+ deseos de los compradores y podemos decir que un intercambio ocurre cuándo
+ obtenemos un producto deseado ofreciendo algo valioso a cambio.
+ Un producto puede ser un bien, un servicio o una idea (Esteban y otros,
+ 2002:15).
+\end_layout
+
+\begin_layout Standard
+Para 
+\emph on
+American Marketing Association 
+\emph default
+(1985) (citado en Esteban y otros, 2002:16) “marketing es el proceso que
+ planifica y ejecuta el concepto, precio, promoción y distribución de ideas,
+ bienes y servicios para crear intercambios que satisfagan tanto objetivos
+ individuales como organizacionales.” Se puede decir que el marketing es
+ una filosofía de empresa orientada a satisfacer las necesidades de los
+ compradores (Adell, 2007:23).
+ Además podemos complementar el concepto diciendo que el marketing es una
+ determinada actitud u orientación con la que la empresa se afronta a su
+ entorno y su actividad (Altés, 1993:14).
+ Adell (2007:21) define el marketing de una manera más amplia:
+\end_layout
+
+\begin_layout Quote
+
+\size small
+El marketing tiene parte de ciencia (por ejemplo, economía) y parte de arte
+ (por ejemplo, creatividad), pero esencialmente es una técnica que utiliza
+ otras técnicas y ciencias, preferentemente del área social, para su desarrollo
+ y para la toma de decisiones con la finalidad de producir intercambio de
+ ideas, bienes y servicios que sean objetivo y satisfacción del público
+ en general.
+\end_layout
+
+\begin_layout Standard
+El objetivo del marketing en la empresa es enfocarse en observar las relaciones
+ entre la empresa y su entorno, examinar las oportunidades de mercado y
+ establecer planes de actuación para definir qué recursos hay que usar para
+ convertir estas oportunidades en el cumplimiento de sus objetivos comerciales
+ (Esteban y otros, 2002:29).
+\end_layout
+
+\begin_layout Section
+Marketing y turismo
+\end_layout
+
+\begin_layout Standard
+Tal como dice Altés (1993:54) “las empresas turísticas son empresas de servicios
+ y, si bien prestan servicios no asociados a la adquisición de un bien tangible,
+ para ello necesitan contar con importantes infraestructuras y equipamientos
+ [...].” Existen diferencias importantes entre el marketing industrial y el
+ marketing de servicios, debido a particulares características de los servicios:
+ la intangibilidad, el carácter indisociable, la variabilidad y el carácter
+ perecedero.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\size small
+\emph on
+Cuatro características del servicio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/servicio.pdf
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia a partir de Kotler y otros (2004:25).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El servicio es un bien intangible, o sea, a diferencia del bien físico,
+ el servicio no se puede experimentar antes de su compra, es tan sólo una
+ experiencia (Kotler y otros, 2004:25).
+ Cuándo un cliente compra un viaje en una agencia, o hace una reserva de
+ transporte u hotel, está comprando la promesa de que recibirá unos servicios
+ específicos en un plazo determinado.
+ En el momento del pago el cliente no puede probar los servicios que ha
+ comprado, no puede tocarlos (Altés, 1993:54).
+ Cuándo nos vamos de viaje es común que compremos 
+\emph on
+souvenirs, 
+\emph default
+recuerdos para no olvidarnos de la experiencia que hemos tenido.
+ Esta actitud es
+\emph on
+ 
+\emph default
+intento de tangibilizar algo que por definición es intangible.
+ Muchos de los productos vendidos en el turismo son experiencias intangibles,
+ es decir, se compra su uso, no el producto.
+\end_layout
+
+\begin_layout Standard
+El carácter indisociable del servicio significa que el empleado y los clientes
+ forman parte del producto (Kotler y otros, 2004:25), característica que
+ comprende que el servicio no puede ser separado de quien los presta.
+ El servicio, casi siempre, se produce al momento de su consumo con la participa
+ción del cliente (Altés, 1993:55), o sea, la producción y el consumo van
+ unidos.
+\end_layout
+
+\begin_layout Standard
+Para explicar la variabilidad del servicio podemos decir que los servicios
+ se producen y consumen de manera simultánea, limitando el control de calidad
+ (Kotler y otros, 2004:26).
+ Por lo tanto, su calidad puede variar mucho, dependiendo de quién los ofrezca
+ y cuándo, dónde y cómo se ofrezcan.
+ Es decir, la calidad del servicio depende de la participación del cliente,
+ es necesaria la participación del mismo en el momento de la prestación
+ del servicio.
+ Debido a los varios elementos que participan en la prestación del servicio
+ es muy complicado estandarizarlo.
+ A diferencia del producto físico que en el momento de la fabricación se
+ tiende homogeneizarlo para bajar los costes, en el caso de los servicios
+ es muy difícil crear dos servicios que sean iguales (Escobar y González,
+ 29:2011).
+\end_layout
+
+\begin_layout Standard
+El carácter perecedero del servicio significa que los servicios no se pueden
+ almacenar para el consumo posterior, no podemos almacenarlo en espera de
+ ser vendido en otro momento.
+ El servicio que hoy no vendamos se habrá perdido y si mañana lo vendemos
+ será un otro servicio ya que cambia el personal que va prestarlo, el momento
+ y el entorno (Escobar y Gonzáez, 2011:28).
+ Un hotel de 100 habitaciones que tenga un nivel de ocupación de 80% no
+ puede almacenar las 20 habitaciones no vendidas y vender mañana 120 habitacione
+s.
+ Los ingresos por la falta de venta de las 20 habitaciones se han perdido
+ para siempre (Kotler y otros, 2004:26).
+\end_layout
+
+\begin_layout Standard
+Debido a las características particulares de los servicios, éstos necesitan
+ diferentes enfoques de marketing.
+ En una empresa los productos tangibles están normalmente en estanterías
+ exhibiéndose a los clientes.
+ Entretanto los servicios se producen al momento, o sea, el cliente y el
+ empleado interactúan creando el servicio.
+ Según Kotler (2004:27) el marketing de servicios necesita algo más que
+ el marketing externo tradicional, exige un enfoque en el marketing interno
+ y en el marketing interactivo.
+\end_layout
+
+\begin_layout Standard
+Kotler (2004:27) explica el significado del marketing interno diciendo que
+ la empresa de servicios debe formar y motivar constantemente sus empleados
+ que tienen contacto directo con los clientes, para que éstos puedan prestar
+ un servicios de calidad y puedan ofrecer satisfacción a los clientes.
+ Chías (1991) (citado en Altés, 1993:265) da una visión más amplia al marketing
+ interno diciendo que: 
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Por marketing interno se entiende todo el programa, desde su análisis hasta
+ su ejecución y control, dirigido hacia el equipo humano de la organización,
+ desde la alta dirección hasta el personal en contacto con el público, desde
+ el administrativo hasta el comercial externo que pretende alcanzar una
+ cultura organizativa 
+\begin_inset Quotes eld
+\end_inset
+
+orientada al mercado
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Un programa de marketing interno debe ser tarea de toda la empresa y por
+ lo tanto responsabilidad de la alta dirección.
+\end_layout
+
+\begin_layout Standard
+Siguiendo Kotler (2004:27) el marketing interactivo demuestra la calidad
+ percibida del servicio en la calidad con que se crea la interacción cliente-emp
+leado durante la prestación del servicio.
+ En los servicios la calidad está sometida tanto del que ofrece el servicio
+ como del que hace la entrega.
+ El cliente juzga la calidad de los servicios de una manera global, es decir,
+ juzgando tanto la calidad técnica como la calidad funcional.
+\end_layout
+
+\begin_layout Standard
+Las empresas de servicio enfrentan un mercado competitivo y, sobretodo,
+ deben prestar una mayor atención a las actividades del marketing y intentar
+ potencializar las tres principales áreas de marketing: la diferenciación
+ competitiva, la calidad de los servicios y la productividad.
+\end_layout
+
+\begin_layout Standard
+Kotler (2004:27) comenta la gestión de la diferenciación del servicio diciendo
+ que en la actualidad nos deparamos con una intensa competencia en precios,
+ al ser muy difícil diferenciar los servicios de los de la competencia.
+ En el momento en que los clientes valoran similares los servicios de proveedore
+s diferentes, se centran más su atención en el precio.
+ Una solución a la competencia de precios es incluir al servicio unas caracterís
+ticas innovadoras, diferenciando la oferta de la compañía de la de sus competido
+res.
+ Las líneas aéreas con el fin de diferenciar sus ofertas ofrecen servicios
+ diferenciados como: las películas en el vuelo, la reserva de asientos específic
+os, servicio telefónico, programas de promoción para viajeros frecuentes...
+ Las empresas de servicios deben estar constantemente atentas a las ofertas
+ de sus competidores y intentar siempre innovar sus servicios.
+\end_layout
+
+\begin_layout Standard
+Siguiendo Altés (1993:253), la actual competencia y teniendo un consumidor
+ más experto, exigente y con acceso a las informaciones, ha llevado a que
+ la calidad sea un factor competitivo clave para la empresa de servicios.
+ La principal manera en que una empresa de servicios puede diferenciar su
+ producto de sus competidores es ofreciendo de forma continua una calidad
+ superior (Kotler, 2004:28).
+ Altés (1993:253) define calidad en servicios como 
+\begin_inset Quotes eld
+\end_inset
+
+la capacidad de dar respuesta a las expectativas de los clientes por un
+ precio determinado y se mide por el grado de satisfacción de los mismos.
+\begin_inset Quotes erd
+\end_inset
+
+ Kotler (2004:28) afirma que la clave es superar las expectativas de los
+ clientes en cuanto a la calidad del servicio.
+\end_layout
+
+\begin_layout Standard
+Lynn (1977) (citado en Kotler, 2004:29) comenta que los profesionales del
+ marketing de servicios deben buscar una manera de hacer tangible el servicio,
+ y que según Kotler (2004:29) hay que buscar unos factores que contribuyan
+ a tangibilizar el servicio.
+ El material de promoción, la apariencia de los empleados y el entorno físico
+ de la empresa son ejemplos de como hacer tangible algo que por definición
+ es intangible.
+\end_layout
+
+\begin_layout Chapter
+Marketing de destinos turísticos y páginas web
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Según Esteban y otros (2002:167) internet se ha convertido en un lugar para
+ hacer transacciones, compartir informaciones y comunicarse, y también ha
+ creado un entorno para nuevas formas de promoción y distribución directa
+ a los consumidores finales.
+ El marketing electrónico está cambiando de una manera muy rápida el modo
+ de dirigir los negocios de las empresas turísticas.
+ Rodríguez (2008:25) explica que el marketing electrónico utiliza las tecnología
+s de la información y comunicación para lograr los objetivos de marketing
+ de la empresa.
+ Esto tipo de marketing normalmente se asocia con marketing en internet,
+ que según Rodríguez (2008:25), es cuándo se utiliza la internet con propósitos
+ de marketing y otras tecnologías digitales vinculadas con la Red.
+\end_layout
+
+\begin_layout Standard
+Tal como dice Rodríguez (2008:25, 50):
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Internet se ha convertido en un canal de extraordinaria importancia, tanto
+ para la investigación de marketing como para las comunicaciones de marketing
+ y la distribución comercial.
+ Internet permite cartearse, participar en espacios de debates, obtener
+ recursos de ordenadores remotos, transferir ficheros, conversar en tiempo
+ real con otras persona y acceder a información muy diversa.
+ Todos estos servicios se prestan a través de instrumentos como la 
+\emph on
+World Wide Web 
+\emph default
+y los recursos de la Web 2.0 [...].
+\end_layout
+
+\begin_layout Standard
+Antes de la web, los destinos turísticos sólo contaban con escasos medios
+ para atraer la atención de los turistas, como por ejemplo, anuncios caros
+ o bien buenas criticas por parte de los medios de comunicación.
+ Con la llegada de la Web el marketing experimentó un cambio de las normas,
+ la Web no es la televisión (Meerman, 2010:37).
+ Según Bitnet y otros (2000) (citado en Kotler y otros, 2004:407) la internet
+ puede mejorar la satisfacción de un cliente ya que le deja acceder a los
+ servicios cuándo y dónde le apetezca, sin estar limitado a horarios de
+ atención telefónica y comunicación con otra persona.
+ Al utilizar los medios de comunicación convencionales, como por ejemplo
+ la televisión, los publicistas deben crear un anuncio que capte la atención
+ de los clientes potenciales.
+ Este tipo de anuncio son de una dirección, centrados en un producto y se
+ ha basado tradicionalmente en captar la atención de los futuros clientes
+ interrumpiendo lo que estén haciendo.
+ Esteban y otros (2002:181) afirman que internet proporciona una comunicación
+ bidireccional, interactiva y personalizada.
+ El nuevo marketing en internet se basa en la interactuación, información,
+ educación y selección.
+ Meerman (2001:39) complementa la idea diciendo que el consumidor acude
+ en el momento que desea tomar una decisión de compra, éste decide cuándo
+ quiere recibir informaciones, a diferencia de los medios convencionales
+ de comunicación, que normalmente interrumpen a los consumidores con una
+ publicidad que no les interesan.
+ 
+\end_layout
+
+\begin_layout Standard
+Cho y Cheo (2005) (citado en Huertas y Fernández, 2006) comentan que las
+ páginas webs pueden servir para diversas finalidades de comunicación: relacione
+s públicas, promoción de ventas, publicidad o marketing directo.
+ Kotler y otros (2004:405) complementan la idea diciendo que los usos de
+ una página web incluyen la venta de productos, el descubrimiento de nuevos
+ productos, el apoyo de promoción de un producto o de una marca, posibilitar
+ que los clientes contacten con la empresa, obtener informaciones de futuros
+ clientes, apoyo a las relaciones públicas y administrar la información
+ para que los consumidores puedan tener un mejor uso del producto.
+ La web cumple varias funciones, y muchas veces de manera simultánea, sin
+ embargo durante la ultima década se ha mostrado como un poderoso e indispensabl
+e instrumento de comunicación y comercialización de productos y servicios.
+ Podemos afirmar que el sector que más ha sido afectado ha sido el sector
+ turístico (Fernández, 2010).
+ 
+\end_layout
+
+\begin_layout Standard
+Uno do los usos más importantes de internet es la comunicación, la web se
+ ha convertido en un canal de comunicación instantáneo y mundial.
+ La difusión de las tecnologías de la información y comunicación ha ocasionado
+ la modificación de la conducta de los viajeros actuales, creando un nuevo
+ perfil de turista: menos interesado en los paquetes turísticos tradicionales,
+ más exigente y sofisticado, y habituado a dirigirse directamente a lo proveedor
+es.
+ La Organización Mundial de Turismo (2008, p.
+ XXI) (citado en Fernández, 2010:8) afirma que 
+\begin_inset Quotes eld
+\end_inset
+
+la información online es ahora la influencia principal en las decisiones
+ del consumidor en los mercados más importantes.
+\begin_inset Quotes erd
+\end_inset
+
+ En palabras de Palmer (2005) (citado en Fernández, 2010:8)
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Internet ofrece tremendas oportunidades para desarrollar marcas de destinos
+ fuertes que proporcionen beneficios reales a los turistas...
+ Sin embargo, el hecho de tener un sitio web en sí mismo no es garantía
+ del éxito del destino.
+ En la era que todos los destinos pueden desarrollar un sitio web, debe
+ existir una estrategia coherente para desarrollar, posicionar y promocionar
+ la presencia electrónica.
+\end_layout
+
+\begin_layout Standard
+Las web no sirven solo para sacar informaciones, sino que a través de ella
+ se puede atraer, convencer y ayudar a la hora de escoger el destino e inclusive
+ permite al turista realizar consultas reservas y compras de manera rápida
+ y sencilla.
+ Una pagina web con informaciones útiles y presentada de manera atractiva
+ ayuda en el proceso de decisión del destino turístico.
+ Siguiendo Rita (citado en Kotler y otros, 2004:406) 
+\begin_inset Quotes eld
+\end_inset
+
+una pagina web diseñada adecuadamente puede facilitar la planificación por
+ parte del viajero y ayudarle a asegurarse de que sus opciones son las mejores
+ y le proporcionarán una agradable experiencia.
+\begin_inset Quotes erd
+\end_inset
+
+ Se puede decir que, en el caso de los turistas, la web es el lugar donde
+ empieza la experiencia del viaje y, una vez finalizado el viaje, es donde
+ se extiende la experiencia.
+ La Organización Mundial de Turismo (2008:3) (citado en Fernández, 2010:10)
+ complementa la idea diciendo que 
+\end_layout
+
+\begin_layout Quote
+
+\size small
+El sitio web oficial de un destino puede resultar de importancia clave antes
+ del viaje, durante el viaje y después del viaje.
+ Puede ser de máxima utilidad a los viajeros en el momento de exploración
+ y selección del destino, en la etapa de planificación del viaje, a la hora
+ de reservar servicios, en el transcurso de la visita y en la fase posterior
+ - el momento de comentar el viaje, compartir experiencias y realizar recomendac
+iones a otras personas.
+\end_layout
+
+\begin_layout Standard
+En la actualidad resulta fundamental que las webs de empresas e instituciones
+ turísticas puedan informar, convencer y comercializar sus marcas turísticas
+ de forma eficiente.
+ Las webs de los destinos turísticos deben facilitar información de forma
+ organizada, atractiva y fácilmente accesible para los potenciales visitantes.
+ Según el estudio 
+\emph on
+Attitudes of Europeans towards Tourism 
+\emph default
+realizado por la Comisión Europea, el 46% de los europeos han dicho que
+ utilizan la Internet para planearse sus viajes (EUROPEAN COMISSION, 2013),
+ y conforme Lookinside.travel, el 54% de los españoles han utilizado algún
+ canal de Internet para decidir su destino de viaje en 2011.
+ Otro estudio realizado concluye que los turistas que utilizan la internet
+ para planearse sus viajes tienden a pasar más tiempo en el destino, comparado
+ con los turistas que han utilizado los medios convencionales (Buhalis y
+ Law, 2008:611).
+ 
+\end_layout
+
+\begin_layout Standard
+Otro factor importante y de gran influencia a la hora de elegir el destino
+ de viaje es la opinión de otros consumidores, familiares y amigos.
+ Tal como dice Huertas (2010), 
+\begin_inset Quotes eld
+\end_inset
+
+los estudios muestran que las informaciones que provienen de la experiencia
+ de terceros tienen gran influencia y poder de persuasión en las decisiones
+ turísticas de otros usuarios
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Según el estudio desarrollado por la Comisión Europea, el 56% de los encuestado
+s han dicho que consideran importante las opiniones de amigos y familiares
+ a la hora de organizar sus viajes (EUROPEAN COMISSION, 2013).
+ En España, el 38% han utilizado las recomendaciones personales como fuente
+ de información para decidir el destino (Lookinside.travel, 2011).
+ En el sector turístico la opinión de otros consumidores es fundamental
+ en la toma de decisiones de los turistas potenciales, ya que, debido a
+ su carácter intangible, los servicios turísticos no se pueden probar con
+ anterioridad y las decisiones de compra se perciben de riesgo elevado (Senecal
+ & Nantal, 2004; Buhalis, 2003; Lewis & Chambers, 2000; citados en Sancho
+ y Sanz, 2010).
+ Así pues, las opiniones de otros consumidores reducen el riesgo percibido
+ y aumentan la imagen positiva de los servicios que están bien valorados,
+ facilitando el proceso de decisión de compra.
+ 
+\end_layout
+
+\begin_layout Standard
+Además, en el ámbito de los destinos turísticos, las opiniones y experiencias
+ de los usuarios con comentarios emocionantes y fotografías, pueden motivar
+ y persuadir mucho más que un folleto turístico.
+ Las organizaciones de marketing de los destinos están cada vez más incorporando
+ este recurso de comunicación interactiva a sus paginas webs, ya que las
+ experiencias de otros turistas influyen en la decisión de visitar o viajar
+ a un destino.
+ 
+\end_layout
+
+\begin_layout Standard
+A parte de tener una web atractiva y eficaz desde el punto de vista de la
+ comunicación y la comercialización del destino, es fundamental usar las
+ estrategias de posicionamiento en buscadores.
+ Kotler y otros (2004:408) afirman que los responsables por el marketing
+ de destinos turísticos deben situar la página en internet de manera adecuada,
+ para que en el momento que una persona busque información sobre un destino
+ en los buscadores aparezca de inmediato.
+ Según Rovira y otros (2010) es de suma importancia la web de un destino
+ turístico estar en las primeras posiciones en los resultados de búsquedas
+ con palabras clave que coincidan con el destino.
+ Meerman (2010:53) complementa la idea afirmando que el marketing en la
+ web 
+\begin_inset Quotes eld
+\end_inset
+
+consiste en entender las palabras clave y las frases que utilizan los compradore
+s, y a continuación implementar micro campañas capaces de atraer a los consumido
+res a páginas web repletas del contenido que buscan.
+\begin_inset Quotes erd
+\end_inset
+
+ Entretanto el posicionamiento se basa en factores internos y externos.
+ Según Casares (2008); Clay y Esparza (2008); Enge y otros (2009); Maciá
+ y Gosende (2009); SEOmoz (2009) todos ellos citados en Rovira y otros (2010)
+\end_layout
+
+\begin_layout Quote
+
+\size small
+Entre los factores internos se puede resaltar la presencia de las palabras
+ clave en determinadas partes del contenido de la página o de la cabecera,
+ estructura hipertextual de la sede web, antigüedad, territorialidad del
+ dominio...
+ Entre los externos, los más decisivos son el número de enlaces recibidos
+ y la presencia de una parte de esos enlaces en sedes web con autoridad
+ o popularidad.
+\end_layout
+
+\begin_layout Standard
+Las organizaciones de marketing de destinos turísticos se ven forzadas a
+ modernizar el proceso de identificación de las oportunidades en los mercados
+ y a desarrollar la interrelación con los turistas (Rita, citado en Kotler
+ y otros, 2004:406).
+ Internet ofrece una gran oportunidad de que se produzca una interacción
+ entre el cliente y el negocio, y las paginas web tienen como objetivo promover
+ las relaciones de marketing mediante el desarrollo de una comunidad de
+ usuarios habituales.
+\end_layout
+
+\begin_layout Chapter
+Metodología
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Se ha realizado en este Trabajo de Fin de Carrera una investigación para
+ identificar la presencia en Internet de los destinos turísticos Barcelona,
+ Tarragona y Girona.
+ Se ha utilizado una metodología de carácter cualitativo utilizando técnica
+ documental complementada con entrevistas.
+ Este estudio se ha basado en una plantilla de análisis desarrollada por
+ un equipo de 13 investigadores (Huertas y otros, 2010).
+ De esta manera, se ha ido comprobando la existencia o no de 
+\end_layout
+
+\begin_layout Standard
+Las informaciones necesarias para la realización de este trabajo han sido
+ sacadas de libros y artículos disponibles en revistas científicas que hablan
+ del tema en cuestión, además de las páginas webs de los destinos turísticos.
+ 
+\end_layout
+
+\begin_layout Chapter
+Análisis de datos
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Página de inicio
+\end_layout
+
+\begin_layout Standard
+Entendemos como página de inicio la sede web a partir de la cual se puede
+ acceder todos los contenidos por medio de navegación hipertextual.
+ La página inicial será el primer contacto que el turista va a tener con
+ el destino turístico, por lo tanto los contenidos deberán presentarse de
+ forma eficiente y eficaz, con la información y recursos adecuados.
+\end_layout
+
+\begin_layout Standard
+Una página de inicio bien diseñada deberá reunir una serie de características
+ que consigan atraer a los turistas para que continúen interesándose por
+ el destino turístico.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/paginadeinicio.png
+	lyxscale 50
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Página de inicio
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+ADELL, Ramón (2007)
+\noun on
+: 
+\emph on
+\noun default
+Aprender Marketing, 
+\emph default
+Paidós, Barcelona.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-6"
+
+\end_inset
+
+ALTÉS MACHÍN, Carmen (1993): 
+\emph on
+Marketing y Turismo: una introducción al marketing de empresas y destinos
+ turísticos, 
+\emph default
+Síntesis, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-7"
+
+\end_inset
+
+BEEKMAN, George (2005): 
+\emph on
+Introducción a la informática, 
+\emph default
+6ª ed., Pearson Educación, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+BEELEN, Paul (2006): 
+\emph on
+Publicidad 2.0.
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+<http://www.paulbeelen.com/whitepaper/Publicidad20.pdf>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 6 abril 2012]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-11"
+
+\end_inset
+
+BUHALIS, Dimitrios y LAW, Rob (2008): 
+\begin_inset Quotes eld
+\end_inset
+
+Progress in information technology and tourism management: 20 years on and
+ 10 years after the Internet - The state of eTourism research
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+Tourism Management, 
+\emph default
+nº 29, pp.
+ 609-623.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+CASTELLS, Manuel (2001): 
+\begin_inset Quotes eld
+\end_inset
+
+Internet y la sociedad red
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Letra Internacional, 
+\emph default
+nº 71, pp.
+ 4-16.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+COBO ROMANÍ, Cristóbal y PARDO KUKLINSKI, Hugo (2007): 
+\emph on
+Planeta Web 2.0.
+ Inteligencia colectiva o medios fast food, 
+\emph default
+Grup de Recerca d'Interaccions Digitals, Universitat de Vic, Flacso México,
+ Barcelona / México DF.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+DÍAZ LUQUE, Pablo; GUEVARA PLAZA, Antonio y CAVO HERRERO, José Luiz (2004):
+ 
+\emph on
+Promoción turística de las Comunidades Autonomas en Internet.
+ 
+\emph default
+Actas del V Congreso Turismo y Tecnologías de la Información y las Comunicacione
+s TURITEC 2004.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Bibliografía}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
