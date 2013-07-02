@@ -155,7 +155,7 @@ status open
 \backslash
 renewcommand{
 \backslash
-tablename}{Tabla}
+tablename}{Tabla y gráfico}
 \end_layout
 
 \end_inset
@@ -536,6 +536,14 @@ status open
 \backslash
 thispagestyle{empty}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
 
 \end_inset
 
@@ -1879,8 +1887,8 @@ El organismo responsable por la promoción turística de la ciudad de Tarragona
 
 \begin_layout Standard
 El Ajuntament de Girona, ubicado en Plaça del Vi, 1 17004 Girona es, en
- este caso, el organismo responsable de la promoción turística de la ciudad
- así como del mantenimiento de la web www.girona.cat/turisme.
+ este caso, el organismo responsable de la promoción turística así como
+ del mantenimiento de la web www.girona.cat/turisme.
 \end_layout
 
 \begin_layout Standard
@@ -1964,7 +1972,8 @@ Por otro lado, a las oficinas de turismo de las tres ciudades se les ha
 
 \begin_layout Standard
 La primera entrevistada ha sido el Patronat Municipal de Turisme de Tarragona,
- ubicada en el municipio de Tarragona en la calle Major, 39 43003 (Tarragona).
+ ubicada en el municipio de Tarragona en la calle Major, 39 43003 Tarragona
+ (Tarragona).
  La entrevista ha sido contestada por el Sr.
  Gerard Castells Martí, auxiliar administrativo del Patronat Municipal de
  Turisme de Tarragona.
@@ -1972,8 +1981,8 @@ La primera entrevistada ha sido el Patronat Municipal de Turisme de Tarragona,
 
 \begin_layout Standard
 La Oficina de Turismo de Girona ha sido la segunda entrevistada.
- Está ubicada en la ciudad de Girona (Girona), y en este caso la persona
- entrevistada ha sido el Sra.
+ Está ubicada en la Rambla de la Llibertat, 1 17004 en la ciudad de Girona
+ (Girona), y en este caso la persona entrevistada ha sido el Sra.
  Marina Bosch, informadora turística.
 \end_layout
 
@@ -1988,9 +1997,9 @@ Se buscaba saber mediante la realización de la entrevista la opinión del
  entrevistado sobre la presencia de las páginas web en internet, si la informaci
 ón ofrecida es útil y además si los entrevistados al planear un viaje buscan
  informaciones en páginas webs de los entes promotores del turismo del destino.
- También se ha querido conocer si los entrevistados valoran de manera positiva
- las opiniones de turistas que ya han visitado el destino a la hora de planifica
-r un viaje.
+ También se ha querido conocer si, a la hora de planificar un viaje, los
+ entrevistados valoran de manera positiva las opiniones de turistas que
+ ya hayan visitado el destino.
 \end_layout
 
 \begin_layout Standard
@@ -2039,7 +2048,7 @@ Una página de inicio bien diseñada deberá reunir una serie de característica
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -2048,6 +2057,18 @@ status collapsed
 	filename /Users/jamilemarceleradloff/Desktop/paginadeinicio.png
 	lyxscale 50
 	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/servicio.pdf
+	scale 70
 
 \end_inset
 
@@ -2070,10 +2091,6 @@ Página de inicio
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 
 \end_layout
 
