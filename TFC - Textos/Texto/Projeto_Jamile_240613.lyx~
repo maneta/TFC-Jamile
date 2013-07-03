@@ -2054,9 +2054,9 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename /Users/jamilemarceleradloff/Desktop/paginadeinicio.png
-	lyxscale 50
-	scale 20
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/Tabla-paginadeinicio.png
+	lyxscale 40
+	scale 60
 
 \end_inset
 
@@ -2067,8 +2067,9 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/servicio.pdf
-	scale 70
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-paginadeinicio.png
+	lyxscale 50
+	scale 65
 
 \end_inset
 
@@ -2076,6 +2077,8 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Caption
 
 \begin_layout Plain Layout
