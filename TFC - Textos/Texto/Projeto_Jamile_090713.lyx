@@ -1892,14 +1892,6 @@ El Ajuntament de Girona, ubicado en Plaça del Vi, 1 17004 Girona es, en
 \end_layout
 
 \begin_layout Standard
-Las informaciones necesarias para la realización de este trabajo han sido
- sacadas de libros y artículos disponibles en revistas científicas y en
- actas de congresos que hablan del tema en cuestión, además de las páginas
- webs de los destinos turísticos.
- 
-\end_layout
-
-\begin_layout Standard
 El análisis de las páginas web se ha basado en una plantilla de análisis
  y evaluación de webs de destinos turísticos desarrollada por un equipo
  de 13 investigadores especializados en publicidad, relaciones públicas,
@@ -2042,21 +2034,41 @@ Entendemos como página de inicio la sede web a partir de la cual se puede
 Una página de inicio bien diseñada deberá reunir una serie de características
  que consigan atraer a los turistas para que continúen interesándose por
  el destino turístico.
+ Podemos observar en la tabla y gráfico 6.1 que la web de Barcelona (23 puntos)
+ ofrece una página inicial más completa, seguida por la de Girona (20) y
+ Tarragona (17).
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
-status open
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Caption
+
+\begin_layout Plain Layout
+
+\emph on
+Página de inicio
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Plain Layout
 \noindent
 \align center
 \begin_inset Graphics
-	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/Tabla-paginadeinicio.png
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-pagina de inicio.png
 	lyxscale 40
-	scale 60
+	scale 15
 
 \end_inset
 
@@ -2079,17 +2091,180 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
-\begin_inset Caption
 
-\begin_layout Plain Layout
-
-\emph on
-Página de inicio
+\shape italic
+\size small
+Fuente: elaboración propia 
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Calidad y Cantidad de Contenido
+\end_layout
+
+\begin_layout Standard
+La tabla y gráfico 6.2 demuestra que las tres webs analizadas ofrecen informacion
+es turísticas generales, que ayudan a los usuarios a planificar sus viajes
+ aportándoles gran información.
+ 
+\end_layout
+
+\begin_layout Standard
+En el apartado de contacto institucional podemos observar que las webs de
+ las tres ciudades informan el nombre y la dirección postal de la entidad
+ promotora de turismo, además de la dirección de las oficinas de información
+ turística repartidas por la ciudades.
+ 
+\end_layout
+
+\begin_layout Standard
+Existe e-mail de contacto, pero se trata de un buzón conjunto para toda
+ la organización de marketing del destino.
+ Como por ejemplo, el e-mail de contacto de Barcelona es info@barcelonaturisme.co
+m; el de Tarragona es turisme@tarragona.cat y Girona turisme@ajgirona.cat.
+ Ambos, e-mail y teléfono de contacto, no indican el nombre de la persona
+ de contacto.
+\end_layout
+
+\begin_layout Standard
+Los turistas pueden encontrar en la web de Barcelona un teléfono de call
+ center, o sea, un único número de teléfono sin especificar el contacto.
+ Tarragona ofrece una información en un mapa interactivo con el número del
+ call center y, además, el horario de funcionamiento.
+ Estas informaciones no se han encontrado en la web de turismo de Girona.
+\end_layout
+
+\begin_layout Standard
+En general, las tres webs ofrecen información turística comercial, es decir,
+ información turística con posibilidad de compra como por ejemplo el alojamiento.
+\end_layout
+
+\begin_layout Standard
+Analizando la información turística personalizada, podemos observar que
+ Barcelona se destaca con 12 puntos, seguido de Tarragona con 11 y por último
+ Girona con 6 puntos.
+ Aparte de la web oficial de turismo de Barcelona, podemos encontrar la
+ web visitbarcelona.com donde los usuarios pueden añadir fotos y vídeos,
+ además de comentarios.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Calidad y Cantidad de Contenido
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-calidadycantidad.png
+	lyxscale 50
+	scale 17
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-calidadycantidadcontenido.png
+	lyxscale 50
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Arquitectura
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Arquitectura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-arquitectura.png
+	lyxscale 50
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-arquitectura.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia 
 \end_layout
 
 \end_inset
