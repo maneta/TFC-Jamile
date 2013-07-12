@@ -2154,6 +2154,7 @@ Analizando la información turística personalizada, podemos observar que
 
 \begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
@@ -2211,7 +2212,42 @@ Fuente: elaboración propia
 \end_layout
 
 \begin_layout Section
-Arquitectura
+Arquitectura de la información
+\end_layout
+
+\begin_layout Standard
+Podemos observar que en las tres webs analizadas los rótulos o textos son
+ semánticamente claros y significativos, o sea, describen adecuadamente
+ el contenido que dan acceso, en menús, enlaces y encabezamientos.
+\end_layout
+
+\begin_layout Standard
+Las webs de Barcelona y Girona usan al menos 2 o 3 etiquetas estándares,
+ es decir, etiquetas de uso frecuente que son fácilmente reconocidas por
+ lo usuarios.
+ Ejemplos de etiquetas estándares son: Acerca de, Quienes somos, Ayuda,
+ Mapa del Sitio, FAQs.
+ La web del Patronat de Turisme de Tarragona presenta solamente entre 1
+ o ninguna etiqueta.
+\end_layout
+
+\begin_layout Standard
+Tienen el título adecuado al contenido de la página las webs de los entes
+ promotores de turismo de Barcelona y Tarragona.
+ Los títulos han sido planificados y aplicados correctamente.
+ Por otro lado, la web de Girona presentan títulos adecuados solamente en
+ paginas de primer nivel, y las páginas de secundo nivel tienen un título
+ general.
+ 
+\end_layout
+
+\begin_layout Standard
+Los enlaces deben diferenciarse claramente del resto del contenido de las
+ páginas con un cambio de color, cambio de icono - mano en lugar de flecha
+ - o un subrayado (Huertas y otros, 2010).
+ Todas las 3 webs analizadas se reconocen parcialmente los enlaces, lo que
+ significa que los enlaces son fácilmente reconocible pero no se indica
+ el estado de los enlaces.
 \end_layout
 
 \begin_layout Standard
@@ -2265,6 +2301,522 @@ Arquitectura
 \shape italic
 \size small
 Fuente: elaboración propia 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Usabilidad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Usabilidad
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-usabilidad.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-usabilidad.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Accesibilidad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Accesibilidad
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-accesibilidad.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-accesibilidad.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Posicionamiento web
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Posicionamiento web
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-posicionamiento.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-posicionamiento.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Distribución o comercialización
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Distribución o comercialización
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-distribucion.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-distribucion.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Idiomas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Idiomas
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-idiomas.png
+	lyxscale 50
+	scale 18
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-idiomasextranjeros.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-idiomasnacionales.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tratamiento de la marca
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Tratamiento de la marca
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-tratamientomarca.png
+	lyxscale 45
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-tratamientodelamarca.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Interactividad
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Interactividad
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-interactividad.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-interactividad.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Presencia en la Web 2.0
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Presencia en la Web 2.0
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-presenciaweb.png
+	lyxscale 50
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-presenciaweb20.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
 \end_layout
 
 \end_inset
