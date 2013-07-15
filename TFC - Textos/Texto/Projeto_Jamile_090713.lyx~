@@ -2153,7 +2153,14 @@ Analizando la información turística personalizada, podemos observar que
 \end_layout
 
 \begin_layout Standard
+Podemos observar en la tabla y gráfico 6.2 que Barcelona (62 puntos) tiene
+ una web turística con contenido de calidad y cantidad, seguido por Tarragona
+ (56 puntos) y por último Girona (39 puntos).
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
@@ -2215,6 +2222,15 @@ Arquitectura de la información
 \end_layout
 
 \begin_layout Standard
+La tabla y gráfico 6.3 podemos clasifica la arquitectura de las 3 webs.
+ El análisis está dividido 4: rotulado, estructura y navegación, lay-out
+ de la página y búsqueda.
+ Una web hay que estar pensada para el usuario y por este motivo que estudiar
+ las etiquetas, los enlaces, apariencia entre otras variables que podemos
+ observar en la tabla 6.3 abajo.
+\end_layout
+
+\begin_layout Standard
 Podemos observar que en las tres webs analizadas los rótulos o textos son
  semánticamente claros y significativos, o sea, describen adecuadamente
  el contenido que dan acceso, en menús, enlaces y encabezamientos.
@@ -2250,10 +2266,176 @@ Los enlaces deben diferenciarse claramente del resto del contenido de las
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
+Las webs de Barcelona y Tarragona no presentan sobrecarga memorísticas de
+ los menús, o sea, los menús son bien repartidos y al abrirlos no quedan
+ sobrecargados.
+ La web de Girona ha tenido una clasificación más bajas debido a que algunos
+ de los menús estaban sobrecargados, haciendo con que el rendimiento de
+ la web sea menor.
+ 
+\end_layout
+
+\begin_layout Standard
+Según Huertas y otros (2010), 
+\begin_inset Quotes eld
+\end_inset
+
+las páginas web deberían presentar elementos de navegación, normalmente
+ en forma de 
+\begin_inset Quotes eld
+\end_inset
+
+migas de pan
+\begin_inset Quotes erd
+\end_inset
+
+ o 
+\begin_inset Quotes eld
+\end_inset
+
+hilos de Ariafna
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\emph on
+breadcrumbs
+\emph default
+) que indiquen al usuario en qué lugar del sitio web se hallan, y le permitan
+ además deshacer su navegación
+\begin_inset Quotes erd
+\end_inset
+
+.
+ La web de Girona presenta parcialmente las 
+\begin_inset Quotes eld
+\end_inset
+
+migas de pan
+\begin_inset Quotes erd
+\end_inset
+
+, como podemos observar en la figura 6.1 abajo.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
 wide false
 sideways false
-status open
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Orientación del usuario en la navegación: web Girona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/migas-pan.tiff
+	lyxscale 50
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.girona.cat/turisme/esp/allotjaments
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Los enlaces rotos son enlaces que no llevan a ningún sitio, bien porque
+ el enlace no sea el correcto o bien porque el contenido en lazado haya
+ dejado de existir.
+ Para analizar los enlaces rotos se ha utilizado la herramienta online de
+ la web http://linkchecker.submitexpress.com/.
+ Las webs de Barcelona y Girona no presentan ningún enlace roto.
+ La web de Tarragona no sido posible analizarla, en la tabla 6.3 podemos
+ observar que está clasificado como error.
+ 
+\end_layout
+
+\begin_layout Standard
+Las tres webs analizadas hacen buen uso de las zonas de alta jerarquía informati
+va.
+ Las zonas más visuales de las páginas webs, la parte superior y la central,
+ contienen los contenidos más importantes.
+\end_layout
+
+\begin_layout Standard
+Con la resolución estándar (1024x768) el usuario de las webs de Barcelona
+ y Girona no necesitan desplazar demasiado las barras laterales del navegador,
+ acción que también se conoce como 
+\emph on
+scrolling
+\emph default
+.
+ Sin embargo, los usuarios de la web del Patronat de Turisme de Tarragona
+ tienen que hacer más uso del 
+\emph on
+scrolling.
+\end_layout
+
+\begin_layout Standard
+La presencia del buscador es muy importante para una web, de esta manera
+ el usuario puede encontrar fácilmente lo que quiere buscar.
+ El usuario puede encontrar el buscador interno en todas las páginas del
+ sitio y siempre ubicado en el mismo lugar en la web de Barcelona Turisme
+ y del Patronat de Turisme de Tarragona.
+ La página web de Girona Turisme no presente ningún buscador interno.
+ 
+\end_layout
+
+\begin_layout Standard
+El usuario puede encontrar fácilmente el buscador en la web de Tarragona
+ Turisme, pero en la web de Barcelona Turisme no se ve tan fácil.
+\end_layout
+
+\begin_layout Standard
+En la tabla y gráfico 6.3 se ha analizado la arquitectura de la webs.
+ Según Rosenfeld y Morville (2002) (citado en Huertas y otros, 2010:10)
+ 
+\begin_inset Quotes eld
+\end_inset
+
+se entiende por arquitectura de la información el arte y la ciencia de estructur
+ar y clasificar sitios web e intranets con el fin de ayudar a los usuarios
+ a encontrar y manejar la información
+\begin_inset Quotes erd
+\end_inset
+
+.
+ La web de Barcelona Turisme (15 puntos) es la mejor estructurada entre
+ las 3 webs analizadas, luego Tarragona (12 puntos) y Girona (12 puntos).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -2312,7 +2494,293 @@ Usabilidad
 \end_layout
 
 \begin_layout Standard
+Huertas y otros (2010:12) definen la usabilidad diciendo que 
+\begin_inset Quotes eld
+\end_inset
+
+la usabilidad se refiere a la facilidad de la web para ser usada y alcanzar
+ los objetivos propuestos de forma eficiente, rápida, agradable, atractiva
+ y sin errores
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Para analizar la usabilidad, se estudian aspectos como la actualización
+ del sitio web, la adecuación de la URL, la identidad de la institución,
+ y el uso de elementos multimedia (calidad de las imágenes, iconos o metáforas
+ visuales,...), entre otros.
+\end_layout
+
+\begin_layout Standard
+Las web de Tarragona y Girona tienen una URL correcta, clara y fácil de
+ recordar como podemos observar en las figuras 6.2 y 6.3.
+ Sin embargo la web de Barcelona no presenta URL de fácil comprensión, abajo
+ en la figura 6.5 podemos mirar la URL.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+URL Tarragona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/urltgn.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: www.tarragonaturisme.cat/es/que-hacer
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+URL Girona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/urlgro.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.girona.cat/turisme/esp/activitats.php
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+URL Barcelona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/urlbcn.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.barcelonaturisme.com/Informacion-util-sobre-Barcelona/_3Ngb8YjS
+pL2_bRITYtt91GzyrtM-9ciyjRYGjRXQS1c
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podemos observar que el diseño es centrado en el usuario en las webs de
+ Barcelona y Tarragona, o sea, las secciones y los contenidos de servicios
+ son enfocados al turista en su totalidad en las webs de ya la web de Girona
+ está enfocado de forma parcial.
+ 
+\end_layout
+
+\begin_layout Standard
+Tanto la web de Barcelona Turisme cuanto la del Patronat de Turisme de Tarragona
+, presentan un diseño general coherente y uniforme referentes a elementos
+ de navegación (menús y enlaces) y apariencia (colores, disposición de los
+ contenidos).
+ La web de Girona Turisme es un tanto confusa en relación a los contrastes
+ de colores, por lo tanto se ha valorado como regular.
+\end_layout
+
+\begin_layout Standard
+A que se refiere a la actualización de la página web podemos decir que las
+ 3 webs analizadas son actualizadas frecuentemente.
+ Se ha valorado sobretodo las secciones de noticias, eventos y novedades.
+\end_layout
+
+\begin_layout Standard
+En todas las webs se puede identificar la identidad del ente responsable
+ por el turismo y presentan imágenes de calidad resultando atractivas al
+ usuario.
+\end_layout
+
+\begin_layout Standard
+Las webs de Barcelona, Tarragona y Girona no presentan iconos o metáforas
+ visuales.
+ Se ha valorado como no es el caso (NC) porque estas metáforas visuales
+ no existen pero no es necesarios.
+ Se entiende por metáforas visuales un icono con apariencia de sobre para
+ hacer referencia al correo electrónico, por ejemplo.
+\end_layout
+
+\begin_layout Standard
+El contenido multimedia de todos los sitios webs analizados aportan un valor
+ adicional al contenido textual de la página.
+\end_layout
+
+\begin_layout Standard
+La web del Patronat de Turisme de Tarragona no ofrece ayuda contextual para
+ tareas más complejas.
+ Se valora positivamente si la web ofrece ayuda para la realización de tareas
+ con la que el usuario no está familiarizado, como por ejemplo, la compra
+ online, rellenar un formulario, etc.
+ En la web de Barcelona Turisme se puede obtener ayuda sobre el proceso
+ de compra online llamando a un teléfono fijo, conforme se puede observar
+ en la figura 6.5.
+ Girona Turisme ofrece ayuda solamente en la web girona.net que está enlazada
+ con la web girona.cat/turisme.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Ayuda contextual: Barcelona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/bcnshophelp.tiff
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://bcnshop.barcelonaturisme.com
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Por lo tanto, lo que se puede observar es que Barcelona, con 15 puntos,
+ ofrece una web más fácil de ser usada, seguida por Tarragona y Girona,
+ ambas con 14 puntos.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
@@ -2335,7 +2803,7 @@ Usabilidad
 \begin_inset Graphics
 	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-usabilidad.png
 	lyxscale 50
-	scale 15
+	scale 20
 
 \end_inset
 
@@ -2371,6 +2839,10 @@ Fuente: elaboración propia
 
 \begin_layout Section
 Accesibilidad
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Standard
