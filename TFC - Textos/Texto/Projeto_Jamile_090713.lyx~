@@ -2842,18 +2842,101 @@ Accesibilidad
 \end_layout
 
 \begin_layout Standard
+Huertas y otros (2010:10) nos explican la definición de accesibilidad diciendo
+ que es 
+\begin_inset Quotes eld
+\end_inset
 
+el conjunto de estrategias, recomendaciones y recursos que hacen que la
+ web sea o no accesible, teniendo en cuenta las personas con discapacidades
+ visuales y/o auditivas
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Como podemos observar en la tabla 6.5, en esta sección se ha analizado el
+ tamaño de la fuente, compatibilidad con diferentes navegadores web y resolucion
+es de pantalla, entre otros.
+\end_layout
+
+\begin_layout Standard
+El tamaño de la letra de la pagina web de Barcelona Turisme se adapta al
+ dispositivo que el turista está usando, mientras que la web de Tarragona
+ no ofrece este servicio.
+ Se ha podido comprobar que en la web de Girona la letra de algunos enlaces
+ internos se adaptan al dispositivo, pero no todos.
+\end_layout
+
+\begin_layout Standard
+Ninguna de las paginas webs analizadas ofrecen una aplicación directa para
+ agrandar o disminuir el tamaño de la fuente.
+\end_layout
+
+\begin_layout Standard
+Para analizar la compatibilidad con los diferentes navegadores se ha utilizado
+ la versión actualizada de los navegadores Safari, Firefox y Chrome.
+ Las webs de Barcelona y Girona son compatibles con los tres navegadores
+ utilizados.
+ Sin embargo la pagina web del Patronat de Turisme de Tarragona es compatible
+ solamente con el navegador Firefox, con los otros dos no era posible visualizar
+ perfectamente los menus.
+ 
+\end_layout
+
+\begin_layout Standard
+Se ha probado tres resoluciones de pantalla diferentes que son: 800x600,
+ 1024x768 y 1280x800.
+ El resultado es igual para las tres paginas webs analizadas, todas son
+ compatibles con las resoluciones 1024x768 y 1280x800 y no compatibles con
+ la 800x600.
+\end_layout
+
+\begin_layout Standard
+El usuario puede disfrutar de todos los contenidos de las webs de Barcelona,
+ Tarragona y Girona sin la necesidad de instalar plugins adicionales.
+\end_layout
+
+\begin_layout Standard
+Las etiquetas de texto alternativo son utilizadas para describir el contenido
+ a los usuarios con discapacidad.
+ La web de Barcelona ofrece las etiquetas, la de Tarragona no ofrece y Girona
+ ofrece parcialmente, o sea, en algunos contenidos y en otros no.
+\end_layout
+
+\begin_layout Standard
+Según Huertas y otros (2010), 
+\begin_inset Quotes eld
+\end_inset
+
+un sitio web debe ser lo más accesible posible, para que las personas con
+ discapacidades puedan acceder a él.
+ En España la legislación establece que los sitios web de las instituciones
+ públicas deben tener un nivel de adecuación AA
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Se ha utilizado el validador automático TAW, disponible en www.tawdis.net,
+ para verificar el nivel de adecuación.
+ Todas las webs analizadas tienen el nivel de adecuación AA exigido en España.
+\end_layout
+
+\begin_layout Standard
+La web del Patronat de Turisme de Tarragona es la única entre las analizadas
+ que ofrece una sección de accesibilidad en el que informa al usuario sobre
+ las normativas de accesibilidad del sitio.
+\end_layout
+
+\begin_layout Standard
+Podemos observar en la tabla 6.5 que la web de Barcelona Turisme tiene un
+ nivel más alto de accesibilidad sumando 
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption
