@@ -2935,9 +2935,10 @@ Podemos observar en la tabla 6.5 que la web de Barcelona Turisme tiene un
 
 \begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -2996,10 +2997,211 @@ Posicionamiento web
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
+En la tabla y gráfico podemos observar el resultado de la análisis del posiciona
+miento de las webs.
+ Según Huertas y otros (2010:11)el posicionamiento es 
+\begin_inset Quotes eld
+\end_inset
+
+el proceso para mejorar el lugar que ocupa una página web en los listados
+ de resultados naturales, orgánicos o no- remunerados de los buscadores,
+ de forma ética
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Se ha analizado indicadores tanto internos como externos que evaluarán
+ el trato de las palabras clave, es decir, su elección, su frecuencia y
+ presencia en los distintos apartados de la web (URL, enlaces, títulos,
+ metadatos,...); el PageRank y el TrafficRank; los enlaces de entrada, entre
+ otros elementos a evaluar.
+ 
+\end_layout
+
+\begin_layout Standard
+Las tres webs analizadas tienen presentes las palabras claves turismo y
+ el nombre del destino tanto en la URL como en los títulos, como podemos
+ observar en las figuras 6.6, 6.7 y 6.8.
+ Las palabras clave también tienen presencia en los metadatos de las webs
+ de Barcelona, Tarragona y Girona.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
 wide false
 sideways false
 status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Palabra clave: Barcelona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/keywordurlBCN.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: www.barcelonaturisme.cat
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Palabras clave: Tarragona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/keywordurlTGN.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: www.tarragonaturisme.cat
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Palabras clave: Girona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/keywordurlGRO.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.girona.cat/turisme/cat/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Para analizar la frecuencia de las palabras clave hemos insertado en el
+ buscador Google site:http//web destino 
+\begin_inset Quotes eld
+\end_inset
+
+pages
+\begin_inset Quotes erd
+\end_inset
+
+ y apuntamos el número, luego insertamos site:http://web destino turismo
+ nombre destino (keyword) 
+\begin_inset Quotes eld
+\end_inset
+
+pages
+\begin_inset Quotes erd
+\end_inset
+
+ y apuntamos el numero de la búsqueda.
+ Al final se hace un ranking en porcentaje.
+ En el caso de la web de Barcelona de los 22.300 resultados encontrados por
+ el google solamente 413 tienen las palabras clave, resultando 1,85%.
+ Insertando la web de Tarragona el buscador ha encontrado 3.710 y 83 tienen
+ presentes las palabras clave, lo que nos da un resultado de 2,23%.
+ La web de Girona ha presentado un mejor resultado de 14,84%, de los 9.500
+ resultados 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption
