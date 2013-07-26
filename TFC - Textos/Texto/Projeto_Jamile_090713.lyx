@@ -3200,7 +3200,81 @@ pages
 \end_layout
 
 \begin_layout Standard
+Se ha utilizado el buscador Google para analizar si las tres webs aparecen
+ en los 10 primeros resultados en búsquedas con las palabras clave 
+\begin_inset Quotes eld
+\end_inset
+
+turismo
+\begin_inset Quotes erd
+\end_inset
+
+ y 
+\begin_inset Quotes eld
+\end_inset
+
+nombre del destino.
+ Se comprobado que las paginas webs de Barcelona Turisme, Tarragona Turisme
+ y Girona Turisme tienen un buen posicionamiento apareciendo entre los 10
+ primeros resultados.
+\end_layout
+
+\begin_layout Standard
+PageRank es un valor numérico y un concepto registrado y patentado por Google
+ que representa la popularidad que una página web tiene en Internet.
+ Las páginas webs de Barcelona y Tarragona tienen un PageRank 6, considerado
+ como un valor medio, mientras que la página web de Girona tiene un PageRank
+ más bajo, 3.
+\end_layout
+
+\begin_layout Standard
+La posición de un sitio web en el Traffic Rank se basa en los datos de tráfico
+ acumulados durante un período de tres meses y tiene en cuenta tanto el
+ número de usuarios que visita un sitio, como el de páginas visitadas.
+ Cuanto más bajo sea el número mejor Traffic Rank tiene.
+ Entre las tres webs, el mejor Traffic Rank que tiene es la página web de
+ Barcelona Turisme con 138.190, seguida de Girona Turisme con 322.676 y Tarragona
+ Turisme con 1.101.802.
+ Se ha considerado que ninguna de las webs tiene un Traffic Rank optimo.
+\end_layout
+
+\begin_layout Standard
+Los enlaces de entrada son los enlaces que recibe una página web desde otras
+ páginas webs.
+ El numero de 
+\emph on
+backlinks 
+\emph default
+es la cantidad de páginas que la enlazan a través de un vinculo.
+ Para obtener el numero de 
+\emph on
+backlinks 
+\emph default
+de las webs se ha utilizado la extensión SEO Quake en el navegador Chrome,
+ lo cual analiza automáticamente.
+ El número de 
+\emph on
+backlinks 
+\emph default
+de la web de Barcelona es de 516, seguida por Tarragona con 104 y Girona
+ con 71.
+ Se ha considerado que Barcelona tiene un numero elevado de enlaces de entrada.
+\end_layout
+
+\begin_layout Standard
+Ninguna de las tres webs analizadas están presentes el en directorio del
+ google.
+\end_layout
+
+\begin_layout Standard
+Se puede observar en la tabla y gráfico 6.6 que la web de Barcelona Turisme,
+ con 11 puntos, tiene un mejor posicionamiento web, seguida de Girona con
+ 10 puntos y Tarragona con 9.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status open
@@ -3223,7 +3297,7 @@ Posicionamiento web
 \begin_inset Graphics
 	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-posicionamiento.png
 	lyxscale 50
-	scale 15
+	scale 18
 
 \end_inset
 
