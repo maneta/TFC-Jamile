@@ -3232,14 +3232,52 @@ La posición de un sitio web en el Traffic Rank se basa en los datos de tráfico
  acumulados durante un período de tres meses y tiene en cuenta tanto el
  número de usuarios que visita un sitio, como el de páginas visitadas.
  Cuanto más bajo sea el número mejor Traffic Rank tiene.
- 
+ Entre las tres webs, el mejor Traffic Rank que tiene es la página web de
+ Barcelona Turisme con 138.190, seguida de Girona Turisme con 322.676 y Tarragona
+ Turisme con 1.101.802.
+ Se ha considerado que ninguna de las webs tiene un Traffic Rank optimo.
+\end_layout
+
+\begin_layout Standard
+Los enlaces de entrada son los enlaces que recibe una página web desde otras
+ páginas webs.
+ El numero de 
+\emph on
+backlinks 
+\emph default
+es la cantidad de páginas que la enlazan a través de un vinculo.
+ Para obtener el numero de 
+\emph on
+backlinks 
+\emph default
+de las webs se ha utilizado la extensión SEO Quake en el navegador Chrome,
+ lo cual analiza automáticamente.
+ El número de 
+\emph on
+backlinks 
+\emph default
+de la web de Barcelona es de 516, seguida por Tarragona con 104 y Girona
+ con 71.
+ Se ha considerado que Barcelona tiene un numero elevado de enlaces de entrada.
+\end_layout
+
+\begin_layout Standard
+Ninguna de las tres webs analizadas están presentes el en directorio del
+ google.
+\end_layout
+
+\begin_layout Standard
+Se puede observar en la tabla y gráfico 6.6 que la web de Barcelona Turisme,
+ con 11 puntos, tiene un mejor posicionamiento web, seguida de Girona con
+ 10 puntos y Tarragona con 9.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -3298,7 +3336,164 @@ Distribución o comercialización
 \end_layout
 
 \begin_layout Standard
+Siguiendo Huerta y otros (2010:13), los autores de la plantilla de análisis,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+se entiende por distribución y comercialización los distintos sistemas de
+ reservas de los distintos proveedores de servicios turísticos en las webs.
+ En esta temática tratamos el nivel de comercialización de la web analizada
+ teniendo en cuenta distintos sistemas de reservas y pagos (propio, externo,
+ mixto) en relación al alojamiento, eventos y restauración
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Se ha analizado si las webs ofrecen sistemas de búsqueda e información
+ de alojamiento, restaurantes, eventos, entre otros.
+\end_layout
+
+\begin_layout Standard
+Las webs de Tarragona y Girona ofrecen un listado de alojamientos con informació
+n completa de los alojamientos, que incluye: nombre, teléfono, enlaces,
+ imágenes, localización y características.
+ La web de Barcelona Turisme ofrece un sistema con criterios de búsqueda
+ con categorías de los alojamientos como podemos observar en la figura 6.9.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Sistema de búsqueda de alojamiento: Barcelona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/alojamientoBCN.tiff
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://bcnshop.barcelonaturisme.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Barcelona Turisme ofrece un sistema de reservas propio integrado en la web
+ que funciona de forma generalizada para un gran numero de alojamiento.
+ La web de Barcelona Turisme dispone de un servicio de reservas de alojamiento
+ completo con disponibilidad de plazas por fechas, opción de reserva y pago
+ online.
+ La web de Girona Turisme ofrece un link que te lleva a una web externa
+ (girona.net) para reservar alojamiento, pero esta opción solamente ofrece
+ 3 opciones de hoteles.
+ Tarragona Turisme no ofrece un sistema de reservas en su página web.
+\end_layout
+
+\begin_layout Standard
+En la web de Barcelona Turisme se puede encontrar un sistema propio de reservas
+ y compras de otros servicios, como eventos y guías de viaje.
+ Tarragona Turisme dispone de un sistema externo de compra de entradas de
+ eventos (www.tarracoticket.cat), como podemos observar en la figura 6.10.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Sistema externo de compra de entradas: Tarragona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/Tarracoticket.tiff
+	lyxscale 50
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.tarracoticket.cat/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+La web de Barcelona Turisme dispone de un sistema propio de reserva y compra
+ de varios productos en un mismo carro de compra.
+ Mientras que Tarragona Turisme y Girona Turisme no ofrecen este servicio
+ a los usuarios de la web.
+\end_layout
+
+\begin_layout Standard
+Se puede observar en la tabla y gráfico 6.7 que la web de Barcelona (9 puntos)
+ dispone de opciones más completas para distribución o comercialización
+ en su página web.
+ Girona viene en segunda posición con 4 puntos y Tarragona con 2 puntos.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
@@ -3360,7 +3555,218 @@ Idiomas
 \end_layout
 
 \begin_layout Standard
+Huertas y otros (2010:14) nos explican como se ha analizado los idiomas
+ de las web diciendo que 
+\begin_inset Quotes eld
+\end_inset
+
+esta temática trata la gestión de los idiomas en la web, es decir, las versiones
+ idiomáticas existentes de cada uno de los sitios web, tanto cooficiales
+ como no oficiales/extranjeros que se consideran importantes para un sitio
+ web oficial de una marca turística de destino española.
+ Dependiendo de cuántos idiomas tenga, la web tendrá una valoración numérica
+ concreta.
+ Se basa en trabajos anteriores como los de Díaz Luque, Guevara y Antón
+ (2006).
+ Se contempla un total de 6 indicadores
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Según Luque y otros (2004) 
+\begin_inset Quotes eld
+\end_inset
+
+para que las páginas web analizadas sean comprensibles para el mayor número
+ de personas deberán tener versiones en diversos idiomas.
+\begin_inset Quotes erd
+\end_inset
+
+ Como se puede observar en la tabla y gráfico 6.8 la web que más dispone
+ de idiomas extranjeros es la del Patronat de Turisme de Tarragona con 78
+ puntos, seguida de Barcelona y Girona con 52 puntos.
+\end_layout
+
+\begin_layout Standard
+El francés y el inglés están presentes en la tres webs analizadas.
+ A parte de las versiones en inglés y francés, la página web de Barcelona
+ Turisme ofrece informaciones generales en formato PDF en otros idiomas:
+ portugués, alemán, italiano, chino, japonés, ruso, árabe, polaco y checo.
+\end_layout
+
+\begin_layout Standard
+En las tres webs se ofrecen contenidos en catalán, otra lengua oficial del
+ Estado Español, aparte del castellano.
+\end_layout
+
+\begin_layout Standard
+Las páginas webs analizadas no ofrecen distinción cultural para países de
+ un mismo idioma.
+ Ej.
+ Inglés sin diferenciar público USA y público UK.
+\end_layout
+
+\begin_layout Standard
+Las webs integran sus versiones idiomáticas a su dominio oficial como podemos
+ observar en las figuras 6.11, 6.12 y 6.13.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Dominio adaptado: Barcelona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/IDIOMAS-BCN.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.barcelonaturisme.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Dominio adaptado: Tarragona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/IDIOMAS-TGN.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.tarragonaturisme.cat/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\size small
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\shape italic
+\size small
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Dominio adaptado: Girona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/IDIOMAS-GRO.tiff
+	lyxscale 50
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.girona.cat/turisme/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
+placement H
 wide false
 sideways false
 status collapsed
@@ -3430,7 +3836,41 @@ Tratamiento de la marca
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
+Sgún los autores de plantilla de análisis de páginas web Huertas y otros
+ (2010:12) 
+\begin_inset Quotes eld
+\end_inset
+
+se entiende por tratamiento de marca la manera de gestionar la imagen de
+ marca, es decir, la representación mental de los atributos y beneficios
+ percibidos de la marca que se forman los usuarios a partir del total de
+ sus comunicaciones.
+ En esta temática nos centramos en la presencia del logotipo de la marca,
+ así como el papel de las imágenes de la web como representación de la marca
+ destino.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Las webs de Barcelona y Tarragona no disponen de eslogan en la página inicial.
+ Sin embargo, en la web de Girona se puede observar el eslogan ;) Girona
+ emociona.
+\end_layout
+
+\begin_layout Standard
+El logotipo (figura 6.14 y 6.15) está presente en todas las páginas de la
+ web de Barcelona Turisme y Tarragona Turisme.
+ En la web de Girona solamente se puede observar el logotipo (figura 6.16)
+ en la página principal.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
 wide false
 sideways false
 status collapsed
@@ -3438,6 +3878,175 @@ status collapsed
 \begin_layout Plain Layout
 
 \end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Logotipo Barcelona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/LogoBCN.tiff
+	lyxscale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.barcelonaturisme.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Logotipo Tarragona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/LogoTGN.tiff
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.tarragonaturisme.cat/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Logotipo Girona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/LogoGRO.tiff
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.girona.cat/turisme/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En la versión catalana de la página web de Barcelona Turisme se puede encontrar
+ una descripción del logotipo, 
+\begin_inset Quotes eld
+\end_inset
+
+L’element simbòlic està format pels 4 quadrats en forma de rombe disposats
+ en arc que respon a diferents icones de Barcelona com: la síntesi simbólica
+ de la part superior dels campanars de la Sagrada Família, un mosaic modernista,
+ els colors de les flors a la Rambla, un arc de benvinguda i el disseny
+ d’avantguarda.
+\begin_inset Quotes erd
+\end_inset
+
+ Las demás webs analizadas no disponen de una descripción de sus logotipos.
+\end_layout
+
+\begin_layout Standard
+El diseño gráfico de toda la web, los colores predominantes de la página
+ y la tipografía están coordinados con el logotipo de las webs de Tarragona
+ y Barcelona.
+ Por la web de Girona disponer del logotipo solamente en la página principal,
+ se ha evaluado como parcial o regular los tres indicadores.
+\end_layout
+
+\begin_layout Standard
+Todas las webs ofrecen a los usuarios imágenes distintas del territorio,
+ donde el territorio se puede identificar claramente.
+\end_layout
+
+\begin_layout Standard
+Lo que está relacionado con el tratamiento de la marca se puede observar
+ en la tabla y gráfico 6.9 que Barcelona ha sumado 11 puntos, seguida de
+ Tarragona y Girona con 10.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -3496,10 +4105,141 @@ Interactividad
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
+Huertas y otros (2010:11) entienden por interactividad 
+\begin_inset Quotes eld
+\end_inset
+
+la relación comunicativa bidireccional que se establece con otros individuos
+ o con la propia información o mensaje.
+ En esta temática se estudian los distintos tipos de interacciones a través
+ de la web: consumidor-mensaje, consumidor-marketer, y consumidor-consumidor;
+ este último relacionándolo con el WOM
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+La web de Tarragona ofrece un tour virtual y fotos del destino en 360 grados
+ a través de un enlace externo que direcciona el usuario a la web del ayuntamien
+to de la ciudad.
+ Barcelona no dispone de tales servicios y Girona solamente ofrece fotos
+ 360 grados.
+\end_layout
+
+\begin_layout Standard
+Todas las tres webs tienen vídeos externalizados utilizando el servicio
+ gratuito del youtube.
+\end_layout
+
+\begin_layout Standard
+Los folletos, planos y o mapas están disponibles de forma gratuita a través
+ de la web del Patronat de Turisme de Tarragona.
+ El portal de Girona carece de alguna de las descargas y ya el portal de
+ Barcelona Turisme no ofrece ninguna opción de descarga gratuita.
+\end_layout
+
+\begin_layout Standard
+Barcelona Turisme tiene una sección exclusiva para la descarga gratuita
+ y de pago de aplicaciones móviles.
+ La web de Tarragona Turisme solamente dispone de las coordenadas de GPS,
+ mientras que Girona ofrece al usuario las coordenadas GPS y también una
+ web exclusiva (www.gironain.cat) donde los turistas pueden descargar la aplicació
+n gratuitamente.
+\end_layout
+
+\begin_layout Standard
+Las webs de Girona y Tarragona ofrecen un mapa interactivo para los turistas,
+ sin embargo la página web de Barcelona no ofrece tal recurso interactivo.
+\end_layout
+
+\begin_layout Standard
+La web del Patronat de Turisme de Tarragona dispone de audioguías en diferentes
+ idiomas con explicaciones y informaciones de los principales atractivos
+ turísticos de la ciudad.
+ El audioguía se puede identificar fácilmente en la web, como podemos observar
+ en la figura 6.17.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
 wide false
 sideways false
 status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Audioguía Tarragona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/AUDIOGUIA-TGN.tiff
+	lyxscale 50
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: http://www.tarragonaturisme.cat/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+El usuario puede encontrar en la web de Girona Turisme un tripplaner, llamado
+ Girona a la carta, donde se puede añadir los atractivos turísticos en un
+ listado y luego imprimirlo con las principales informaciones.
+ Barcelona y Tarragona no disponen de este tipo de servicio.
+\end_layout
+
+\begin_layout Standard
+Barcelona dispone de grupo en Facebook y además de otra web oficial de comunidad
+ virtual del destino: www.visitbarcelona.com.
+ En esta web los usuarios pueden compartir sus experiencias, fotos y vídeos
+ del destino.
+ Tarragona y Girona solamente ofrecen un grupo de Facebook.
+\end_layout
+
+\begin_layout Standard
+La web de Barcelona ofrece un apartado para que los usuarios pueden dejar
+ sugerencias y/o comentarios.
+ Los usuarios deben rellenar un formulario en la página web de Girona Turisme
+ si quieren dejar alguna sugerencia y/o comentarios
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -3562,10 +4302,6 @@ Presencia en la Web 2.0
 wide false
 sideways false
 status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \begin_inset Caption
