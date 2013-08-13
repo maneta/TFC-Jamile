@@ -411,7 +411,7 @@ thispagestyle{empty}
 \begin_layout Standard
 Dedico este Trabajo Final de Carrera a mis padres, Norberto y Marli, a mis
  abuelos, Adolfo y Elvira, porque sin su apoyo no habría podido venir a
- España a hacer la Diplomatura en Turismo, y a my pareja Daniel, que ha
+ España a hacer la Diplomatura en Turismo, y a mi pareja Daniel, que ha
  estado animándome, incentivándome y ayudándome siempre que ha podido.
  
 \end_layout
@@ -4530,13 +4530,10 @@ Tarragona y Girona disponen de plataformas de imágenes en servicios externos
 
 \begin_layout Standard
 \begin_inset Float figure
+placement H
 wide false
 sideways false
 status collapsed
-
-\begin_layout Plain Layout
-
-\end_layout
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -4582,6 +4579,7 @@ Instagram
 
 \begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
 status collapsed
@@ -4629,6 +4627,356 @@ Instagram
 \end_layout
 
 \begin_layout Standard
+Los tres entes promotores de turismo de la ciudad disponen también de una
+ plataforma de microblogging (Twitter).
+ Los microbloggings son buenas herramientas para difundir informaciones
+ sobre los destinos.
+ Podemos observar en las figura 6.23 que Barcelona Turisme tiene 3.250 seguidores,
+ Tarragona Turisme 4.509 (figura 6.24) y Girona Turisme 5.244 seguidores (figura
+ 6.25).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Twitter Barcelona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/twitterBCN.tiff
+	lyxscale 50
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+twitter.com/visitabarcelona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Twitter Tarragona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/twitterTGN.tiff
+	lyxscale 50
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+twitter.com/tgnturisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Twitter Girona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/twitterGRO.tiff
+	lyxscale 50
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+twitter.com/turisme_gi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Podemos observar en la tabla 6.11 que las tres organizaciones disponen de
+ vídeos en servicios de alojamiento externo, en este caso en Youtube.
+ Los turistas pueden mirar vídeos relacionados con el turismo de las ciudades
+ en www.youtube.com/user/TurBcn (Barcelona Turisme), www.youtube.com/user/TGNturisme
+ (Tarragona Turisme) y www.youtube.com/user/gironaturismetv (Girona Turisme).
+\end_layout
+
+\begin_layout Standard
+Los tres entes promotores de turismo de las ciudades de Barcelona, Tarragona
+ y Girona disponen de una pagina en la principal red social, el Facebook.
+ Podemos observar en la figura 6.26 que a 15.482 personas les gusta la pagina
+ de Barcelona Turisme en Facebook.
+ A 3.156 personas les gusta la pagina de Facebook de Tarragona Turisme, como
+ se puede observar en la figura 6.27 y solamente 731 personas les gusta la
+ pagina de Girona Turisme (figura 6.28).
+ Todas los tres entes mantienen las paginas actualizadas y con informaciones
+ turísticas sobre las ciudades.
+ Barcelona Turisme también dispone del blog proprio visitbarcelona.com (figura
+ 6.18), donde los usuarios pueden cambiar informaciones sobre el destino,
+ añadir fotos y vídeos.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Facebook: Barcelona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/FBBCN.tiff
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+facebook.com/visitbarcelona
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Facebook: Tarragona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/FBTGN.tiff
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+facebook.com/TarragonaTurisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Facebook: Girona Turisme
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/fotos-analisis-webs/FBGRO.tiff
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: 
+\shape default
+\emph on
+facebook.com/Turismegi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+En la red social de recomendaciones externa Tripadvisor podemos encontrar
+ opiniones de las personas que ya han visitado Barcelona, Tarragona y Girona.
+ Se puede encontrar informaciones sobre hoteles, restaurantes, eventos y
+ otras informaciones que los usuarios comparten y comentan en www.tripadvisor.es/T
+ourism-g187497-Barcelona_Catalonia-Vacations (Barcelona), www.tripadvisor.es/Touri
+sm-g187503-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia-Vacations
+ (Tarragona) y www.tripadvisor.es/Tourism-g187499-Girona_Province_of_Girona_Catalo
+nia-Vacations (Girona).
+ 
+\end_layout
+
+\begin_layout Standard
+Podemos observar en la tabla y gráfico 6.11 que Barcelona Turisme está más
+ presente en la web 2.0 sumando 18 puntos, seguida de Tarragona Turisme con
+ 17 puntos y Girona Turisme con 11 puntos.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float table
 placement H
 wide false
@@ -4653,7 +5001,7 @@ Presencia en la Web 2.0
 \begin_inset Graphics
 	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-presenciaweb.png
 	lyxscale 50
-	scale 15
+	scale 18
 
 \end_inset
 
@@ -4712,9 +5060,103 @@ Entrevista Patronat Municipal de Turisme de Tarragona
 \end_layout
 
 \begin_layout Standard
+La entrevista ha sido enviada por correo electrónico debido a incompatibilidad
+ horaria del entrevistador y de los entrevistado.
+ Se buscaba saber mediante la realización de la entrevista la opinión del
+ entrevistado sobre la presencia de las páginas web en internet, si la informaci
+ón ofrecida es útil y además si los entrevistados al planear un viaje buscan
+ informaciones en páginas webs de los entes promotores del turismo del destino.
+ También se ha querido conocer si, a la hora de planificar un viaje, los
+ entrevistados valoran de manera positiva las opiniones de turistas que
+ ya hayan visitado el destino.
+\end_layout
+
+\begin_layout Standard
 Las respuestas a las preguntas planteadas a la Sr.
  Gerard Castells Martí, auxiliar administrativo del Patronat Municipal de
- Turisme de Tarragona se encuentran a continuación.
+ Turisme de Tarragona que nos ha comentado en la pregunta 1 que antes de
+ viajar normalmente busca informaciones sobre el destino en las paginas
+ webs oficiales de los entes promotores de la ciudad.
+ Él cree que las webs son una buena herramienta para tener información global
+ de las ciudades o regiones y que ayudan a hacer una idea de los recursos
+ turísticos más importantes.
+\end_layout
+
+\begin_layout Standard
+Sr.
+ Gerard Castells nos ha contestado la pregunta 2 diciendo que espera encontrar
+ informaciones básicas de la ciudad en las paginas webs de los destinos,
+ como un mapa general, gastronomía, eventos entre otras informaciones.
+\end_layout
+
+\begin_layout Standard
+Le hemos preguntado en el punto 3 si él estuviera planeando un viaje a Tarragona
+ si encontraría todas las informaciones necesarias en la web de Tarragona
+ Turisme.
+ Sr.
+ Gerard nos ha contestado afirmando que encontraría la mayoría de las informacio
+nes que necesita porque es una página web que se actualiza constantemente
+ con los principales acontecimientos que se producen en la ciudad.
+\end_layout
+
+\begin_layout Standard
+En el punto 4, Sr.
+ Gerard, ha calificado la web de Tarragona Turisme con un 9 debido a su
+ sencillez y facilidad para encontrar las informaciones turísticas.
+\end_layout
+
+\begin_layout Standard
+Le hemos preguntado en el punto 5 si cree que la navegación es ágil y le
+ hemos pedido para calificar la agilidad de navegación de la misma.
+ El entrevistado comenta que la navegación por la web es muy sencilla e
+ instintiva y la ha calificado con un 10.
+\end_layout
+
+\begin_layout Standard
+Para Sr.
+ Gerard es importante las opiniones de los turistas que ya han visitado
+ el destino.
+ Él afirma en la respuesta a la pregunta 6 que las experiencias de los usuarios
+ dan una imagen más veraz del destino.
+\end_layout
+
+\begin_layout Standard
+El entrevistado cree muy importante la presencia de las oficinas de turismo
+ en las redes sociales.
+ Podemos observar en el punto 7 donde nos comenta que las redes sociales
+ son un buen termómetro para valorar los productos ofertados por los destinos
+ turísticos.
+\end_layout
+
+\begin_layout Standard
+El ultimo punto le hemos preguntado si propondría algún cambio en la pagina
+ web de Tarragona Turisme.
+ Sr.
+ Gerard Castells cree que para él como trabajador de la oficina de turismo
+ de la ciudad es muy difícil proponer un cambio.
+ El entrevistado cree que esta pregunta debería ser direccionada a los usuarios
+ finales, o sea, los turistas.
+\end_layout
+
+\begin_layout Standard
+Podemos observar que el Sr.
+ Gerard Castells cree muy importante la presencia de las páginas webs en
+ internet y que la información debe ser clara y concisa.
+ El entrevistado piensa que las opiniones de los turistas que ya han visitado
+ el destino es muy importante a la hora de planearse un viaje.
+ Sr.
+ Gerard nos ha comentado que antes de viajar busca informaciones en las
+ páginas webs de los entes promotores del turismo de las ciudades.
+ Por lo tanto, para el entrevistado, es importante tener una pagina web
+ con informaciones actualizadas y con una navegación ágil.
+ También afirma ser muy importante la presencia en redes sociales ya que
+ hoy en día todo el mundo menor de 35 años está conectado a las redes sociales
+ y interactuan constantemente.
+ 
+\end_layout
+
+\begin_layout Standard
+A continuación se encuentran las respuestas detalladas de las preguntas.
 \end_layout
 
 \begin_layout Standard
@@ -4894,7 +5336,53 @@ Entrevista Oficina de Turisme de Girona
 \begin_layout Standard
 Las respuestas a las preguntas planteadas a la Sra.
  Marina Bosch, informadora turística de la Oficina de Turisme de Girona
- se encuentran a continuación.
+ que afirma que al planearse un viaje busca informaciones en las páginas
+ webs de los entes promotores del turismo del destino.
+\end_layout
+
+\begin_layout Standard
+Sra.
+ Marina nos contesta la pregunta 2 diciendo que espera encontrar el máximo
+ de informaciones posibles en la web de la oficina de turismo del destino.
+ Para ella es muy importante encontrar informaciones sobre actividades y
+ eventos.
+\end_layout
+
+\begin_layout Standard
+En el punto 3 la entrevistada nos comenta que si estuviera planeando un
+ viaje a Girona encontraría todas las informaciones necesarias en la web
+ de Girona Turisme.
+\end_layout
+
+\begin_layout Standard
+Sra.
+ Marina Bosch cree que la página web de Girona Turisme ofrece informaciones
+ útiles para los turistas y, además, de una navegación ágil En ambos los
+ puntos, 4 y 5, la entrevistada ha calificado con un 8.
+\end_layout
+
+\begin_layout Standard
+En el punto 6, Sra.
+ Marina, cree importante las opiniones de los turistas que ya han visitado
+ el destino.
+ Nos ha comentando que si se sabe la opinión de los mismos, el destino puede
+ trabajar para mejorar los aspectos que no están funcionando.
+\end_layout
+
+\begin_layout Standard
+En el punto 7, la entrevistada cree muy importante la presencia de los entes
+ promotores del turismo de la ciudad en las redes sociales, sobretodo para
+ promocionar el destino.
+\end_layout
+
+\begin_layout Standard
+Sra.
+ Marina Bosch nos comenta en el punto 8 que cree que la web de Girona Turisme
+ podría ser más actual y moderna.
+\end_layout
+
+\begin_layout Standard
+A continuación se encuentran las respuestas detalladas de las preguntas.
 \end_layout
 
 \begin_layout Standard
