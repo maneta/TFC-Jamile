@@ -441,17 +441,17 @@ thispagestyle{empty}
 En primer lugar agradezco a mi tutor José Luis Martínez por aconsejarme
  en todo momento y ayudarme a realizar el trabajo de la mejor manera posible.
  No puedo dejar de agradecer a la Dra.
- Assumpció Huertas, profesora de la Universitat Rovira i Virgili, por haber
- proporcionado la plantilla de análisis de paginas webs turísticas, resultado
- de 3 años de investigación de un grupo de 13 investigadores, que sin ésta
- yo no habría podido realizar este trabajo de investigación.
+ Assumpció Huertas, profesora de la Universitat Rovira i Virgili, por haberme
+ proporcionado la plantilla de análisis de página web turísticas, resultado
+ de 3 años de investigación de un grupo de 13 investigadores, ya que sin
+ ésta yo no habría podido realizar este trabajo de investigación.
  Al Dr.
  José Fernández Cavia, profesor de la Universitat Pompeu Fabra, por haber
  facilitado materiales para la realización de este proyecto.
- Por último agradezco a mis amigos y a todas las persona que, directa o
- indirectamente, me han ayudado en la realización de este Trabajo Final
+ Por último, agradezco a mis amigos y a todas las personas que, directa
+ o indirectamente, me han ayudado en la realización de este Trabajo Final
  de Carrera.
- ¡Gracias a todos!
+ ¡Gracias a todos! 
 \end_layout
 
 \begin_layout Standard
@@ -580,9 +580,7 @@ setcounter{page}{10}
 \end_layout
 
 \begin_layout Standard
-En este trabajo de investigación buscamos analizar las páginas webs de los
- destinos turísticos de Barcelona, Tarragona y Girona.
- Internet es una herramienta valiosa en la comercialización de productos
+Internet es una herramienta valiosa en la comercialización de productos
  y servicios.
  Tal como dice Fernández-Cavia, Huertas y Díaz-Luque (citado en Huertas
  y otros, 2010:2) en la presente era de la globalización y el acceso masivo
@@ -591,6 +589,75 @@ En este trabajo de investigación buscamos analizar las páginas webs de los
  de todo tipo de servicios y productos relacionados con ellas.
  Internet ha tenido un rápido crecimiento, lo que ha provocado una profunda
  modificación en el comportamiento de los viajeros actuales.
+ 
+\end_layout
+
+\begin_layout Standard
+En este trabajo de investigación buscamos analizar las páginas webs de los
+ destinos turísticos de Barcelona, Tarragona y Girona.
+ Los avances tecnológicos han influenciado las empresas turísticas, sobretodo
+ en la manera que distribuyen sus productos en el mercado.
+ En la actualidad, el usuario está más informado y es más exigente, actuando
+ cada vez más por si solo en las búsquedas a través de Internet de información
+ sobre destinos turísticos.
+ Por este motivo Internet se ha convertido en una herramienta imprescindible
+ en nuestros días.
+ En esta investigación nos centramos en las páginas webs de los entes promotores
+ de turismo de las capitales de las provincias costeras de Cataluña, Barcelona,
+ Tarragona y Girona.
+ Las tres capitales reciben muchos turistas durante todo el año, lo que
+ resulta una importancia económica para la región.
+ 
+\end_layout
+
+\begin_layout Standard
+El objetivo principal de la investigación que presentamos es analizar el
+ grado de usabilidad, interactividad, accesibilidad y presencia en la web
+ 2.0.
+ de las páginas web de los entes promotores de turismos de las ciudades
+ de Barcelona, Tarragona y Girona.
+\end_layout
+
+\begin_layout Standard
+En la primera parte del trabajo el lector va encontrar una recorrido en
+ la historia de Internet, comentando de donde ha surgido esta herramienta,
+ como ésta se fue desarrollando para llegar a lo que es hoy en día y también
+ su definición desde el punto de vista de varios autores.
+\end_layout
+
+\begin_layout Standard
+El siguiente apartado del Marco Teórico habla de la 
+\emph on
+World Wide Web
+\emph default
+, que es nuestro objeto de análisis.
+ Comentamos de donde ha surgido la 
+\emph on
+world wide web
+\emph default
+, sus definiciones según el punto de vista de la Real Academia Española
+ y de varios autores expertos sobre el tema.
+ En este capítulo discutimos el cambio que ha tenido la web desde su creación
+ hasta los días actuales, utilizando las ideas de Nafría (2007), Cobo y
+ Pardo (2007) y Fumero y Roca (2007).
+ La web ha pasado por una gran transformación a lo largo de los años, dejando
+ de ser unidireccional, donde los usuarios solamente recibían la información,
+ pasando a ser bidireccional, donde el papel del emisor y receptor acaban
+ mezclándose.
+ La fase unidireccional de la web podemos llamar de web 1.0 y la fase bidireccion
+al de web 2.0.
+ 
+\end_layout
+
+\begin_layout Standard
+O'Reilly (2005), el creador del concepto web 2.0, nos explica en esta parte
+ del trabajo la definición de web 2.0 y sus 7 principales características:
+ la web como plataforma de trabajo, el fortalecimiento de la inteligencia
+ colectiva, la gestión de las bases de datos como competencia básica, el
+ fin del ciclo de las actualizaciones de versiones de software, los modelos
+ de programación ligera junto a la búsqueda de la simplicidad, el software
+ no limitado a un solo dispositivo y las experiencias enriquecedoras de
+ los usuarios.
 \end_layout
 
 \begin_layout Chapter
@@ -878,8 +945,8 @@ Nafría (2007:124) afirma que la Web 1.0 en su mayoría fue un canal de publicac
  unidireccional utilizado por las empresas para enviar información a los
  usuarios, un emisor publicaba sus contenidos en la red y los receptores,
  que llamamos usuarios, los consumían.
- Entretanto la Web 2.0 es un entorno bidireccional donde es papel del emisor
- y receptor acaba mezclándose.
+ Entretanto la Web 2.0 es un entorno bidireccional donde el papel del emisor
+ y receptor acaban mezclándose.
  Hemos pasado de un modelo unidireccional de comunicación a un proceso dinámico
  e interactivo de selección, modelaje y debate de nuevas experiencias entre
  los propios usuarios (Molenaar, 2002, citado en Huertas, 2008:1).
