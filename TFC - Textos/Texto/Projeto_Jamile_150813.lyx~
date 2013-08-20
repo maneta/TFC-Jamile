@@ -681,43 +681,34 @@ thispagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-Se habla mucho de internet pero la mayor parte de las personas no saben
- de donde ha surgido la tan famosa y útil internet.
- Se puede decir que el antecesor de la que hoy conocemos como internet fue
- un proyecto del departamento de defensa de los Estado Unidos, lo cual formó
- la agencia 
-\emph on
-Advanced Research Projects Agency
-\emph default
- (ARPA) en 1957.
+Se habla mucho de Internet pero la mayor parte de las personas no saben
+ de dónde ha surgido la tan famosa y útil Internet.
+ Se puede decir que el antecesor de la que hoy conocemos como Internet fue
+ un proyecto del departamento de defensa de los Estado Unidos, lo que formó
+ la agencia Advanced Research Projects Agency (ARPA) en 1957.
  Tanenabum (1997:47) recuerda que “ARPA se creó en respuesta al lanzamiento
  del Sputnik de la Unión Soviética en 1957 y tuvo la misión de desarrollar
  tecnologías que pudieran ser útiles a la milicia.” ARPA no tenia científicos
  ni laboratorios, fue constituida en una oficina y con un presupuesto pequeño
  para los patrones del gobierno estadounidense.
  Tal como dice Lamarca (2006) “En 1969, ARPA estableció ARPANET, la red
- predecesora de internet.” En diciembre de 1969 han creado una red experimental
+ predecesora de Internet.” En diciembre de 1969 crearon una red experimental
  con conexiones entre cuatro universidades: Universidad de California en
  Los Angeles (UCLA), Universidad de California en Santa Barbara (UCSB),
- Universidad de Utah y 
-\emph on
-Stanford Research Institute
-\emph default
- (SRI), que a través de la conexión conjunta a la ARPANET surgió la rudimentaria
- internet, la cual su propósito era poner en comunicación a los científicos
- (Leiner y otros, 1998:3).
+ Universidad de Utah y Stanford Research Institute (SRI), que a través de
+ la conexión conjunta a la ARPANET surgió la rudimentaria Internet, cuyo
+ propósito era poner en comunicación a los científicos (Leiner y otros,
+ 1998:3).
+ 
 \end_layout
 
 \begin_layout Standard
 A partir de la ARPANET han surgido otros tipos de conexiones en red con
  nuevas tecnologías y más rápidas conexiones, una de ellas fue la NSFNET.
- Esta red fue creada por la NSF (
-\emph on
-National Science Foundation
-\emph default
-) en 1984 y ha permitido usuarios de miles de universidades, laboratorios
- de investigación, bibliotecas y museos acceder a cualquiera de las supercomputa
-doras y comunicarse entre sí.
+ Esta red fue creada por la NSF (National Science Foundation) en 1984 y
+ ha permitido a usuarios de miles de universidades, laboratorios de investigació
+n, bibliotecas y museos acceder a cualquiera de las supercomputadoras y
+ comunicarse entre sí.
  Según Lamarca (2006) “el crecimiento exponencial que experimentó NSFNET
  así como el incremento continuo de su capacidad de transmisión de datos,
  determinó que la mayoría de los miembros de ARPANET terminaran conectándose
@@ -726,27 +717,28 @@ doras y comunicarse entre sí.
 \end_layout
 
 \begin_layout Standard
-A los mediados de la década de 1980, NSFNET y ARPANET se fusionan que resultó
- en un gran crecimiento y permitió hacer conexión con Canadá, Europa y el
+A los mediados de la década de 1980, NSFNET y ARPANET se fusionan y provocan
+ un gran crecimiento que permitió hacer conexión con Canadá, Europa y el
  Pacífico.
  Se empezó a ver las aglomeraciones de redes como una interred y luego como
- la internet (Tanenbaum, 1997:52).
- El crecimiento es imparable y tal como dice Paxson (citado en Tanenbaum,
- 1997:53) el tamaño se duplica aproximadamente cada año.
-\end_layout
-
-\begin_layout Standard
-La Real Academia Española (2001) define internet como “red informática mundial,
- descentralizada, formada por la conexión directa entre computadoras u ordenador
-es mediante un protocolo especial de comunicación.” Lamarca (2006) afirma
- que internet es una red de millones de ordenadores en todo el mundo.
+ la Internet (Tanenbaum, 1997:52).
+ El crecimiento es imparable y, tal como dice Paxson (citado en Tanenbaum,
+ 1997:53), el tamaño se duplica aproximadamente cada año.
  
 \end_layout
 
 \begin_layout Standard
-Al principio la internet solo era utilizada por una pequeña comunidad de
+La Real Academia Española (2001) define Internet como “red informática mundial,
+ descentralizada, formada por la conexión directa entre computadoras u ordenador
+es mediante un protocolo especial de comunicación.” Lamarca (2006) afirma
+ que Internet es una red de millones de ordenadores en todo el mundo.
+ 
+\end_layout
+
+\begin_layout Standard
+Al principio la Internet solo era utilizada por una pequeña comunidad de
  científicos, ingenieros y otros investigadores.
- Actualmente, internet es una comunidad de millones de personas de todo
+ Actualmente, Internet es una comunidad de millones de personas de todo
  el mundo que engloba tanto a los niños como a los ejecutivos (Beekman,
  2005:340).
  Lamarca (2006) recuerda que la red de redes proporciona una comunicación
@@ -774,24 +766,24 @@ Internet aporta o soporta una serie de instrumentos para que la gente difunda
 
 \begin_layout Standard
 Internet es una red que comprende distintos tipos y distintos sistemas de
- comunicación, desde correo electrónico hasta una página web.
- Tal como dice Beekman (2005:346), “Se puede conectar a internet de diversas
+ comunicación, desde el correo electrónico hasta una página web.
+ Tal como dice Beekman (2005:346), “Se puede conectar a Internet de diversas
  formas, y cada una de ellas ofrece diferentes grados de acceso a sus servicios
- [...] las primeras paginas webs eran simples documentos de hipertextos; las
+ [...] las primeras pagina web eran simples documentos de hipertextos; las
  actuales contienen cientos de complejas estructuras ricas en multimedia
  que ofrecen a sus visitantes una gran variedad de elecciones.” Internet
- no es lo mismo que una página web, ésta es solo una de las muchas herramienta
- que ofrece internet.
- Para Castells (2001:2), internet “es un medio de comunicación, de interacción
- y de organización social.” Lamarca (2005) también comenta que internet se
- puede dividir en 3 funciones principales: comunicación, información y interacci
+ no es lo mismo que una página web, ésta es solo una de las muchas herramientas
+ que ofrece Internet.
+ Para Castells (2001:2), Internet “es un medio de comunicación, de interacción
+ y de organización social.” Lamarca (2005) también comenta que Internet se
+ puede dividir en 3 funciones principales: comunicación, información e interacci
 ón.
- Las personas utilizan la internet para comunicarse en varios contextos
+ Las personas utilizan la Internet para comunicarse en varios contextos
  de uno a uno, de uno a varios o de varios a varios.
  Además de la comunicación, las personas pueden interactuar con personas
- de países de todo el mundo jugando, haciendo negocios a través de internet,
+ de países de todo el mundo jugando, haciendo negocios a través de Internet,
  intercambiando archivos o simplemente charlando en redes sociales.
- La internet es una gran fuente de información, donde se puede encontrar
+ La Internet es una gran fuente de información, donde se puede encontrar
  todos los tipos de temas de amplio rango de actividades y conocimientos
  humanos (Lamarca, 2006).
  
@@ -804,7 +796,7 @@ Nafría (2007:45) recuerda que:
 \begin_layout Quote
 
 \size small
-Fue en 1999 el año de la confirmación de internet en muchos aspectos: como
+Fue en 1999 el año de la confirmación de Internet en muchos aspectos: como
  una poderosísima herramienta de comunicación, como un excelente medio para
  hacer negocios, como un gran escaparate comercial que propicia nuevas formas
  de comprar y vender...
@@ -840,23 +832,24 @@ thispagestyle{empty}
 \begin_layout Standard
 La historia de la 
 \emph on
-world wide web
+World Wide Web,
 \emph default
-, o comúnmente conocida como web, comenzó en 1989 y la idea surgió del físico
+ comúnmente conocida como web, comenzó en 1989 y la idea surgió del físico
  del Centro Europeo de Investigación Nuclear (CERN) Tim Berners-Lee como
  recuerda Tanenbaum (1997:681).
- Según Lamarca (2006) el propósito de la web era de ofrecer una herramienta
+ Según Lamarca (2006) el propósito de la web era ofrecer una herramienta
  para la búsqueda y transmisión de información entre los científicos.
  La web nació de la necesidad de conseguir que los investigadores dispersos
  en todo el mundo pudieran colaborar utilizando un acervo de documentos,
- informes, fotos, dibujos que iban constantemente cambiando (Tanenbaum,
+ informes, fotos y dibujos que iban constantemente cambiando (Tanenbaum,
  1997:681).
+ 
 \end_layout
 
 \begin_layout Standard
-La Real Academia Española (2011) define web como una red informática y,
- por otro lado, define página web como un documento situado en una red informáti
-ca, al que se accede mediante enlaces de hipertexto.
+La Real Academia Española (2011) define página web como una red informática
+ y, por otro lado, define página web como un documento situado en una red
+ informática, al que se accede mediante enlaces de hipertexto.
  Son muchas las definiciones y conceptos que podemos encontrar, según Lamarca
  (2006) la 
 \emph on
@@ -866,12 +859,12 @@ World Wide Web
  Prieto; Lloris y Torres (2002:639) dan una otra visión al concepto de la
  
 \emph on
-world wide web
+World Wide Web
 \emph default
- diciendo que es compuesta por archivos distribuidos a lo largo de todo
+ diciendo que está compuesta por archivos distribuidos a lo largo de todo
  el mundo y con enlaces entre ellos.
  A través de la web tenemos acceso a una enorme cantidad de información
- de todo tipo y de diversos recursos: imágenes, audio, video, texto, recursos
+ de todo tipo y de diversos recursos: imágenes, audio, video, texto o recursos
  audiovisuales (Lamarca, 2005).
  
 \end_layout
@@ -879,22 +872,23 @@ world wide web
 \begin_layout Standard
 Desde su creación hasta los días actuales la web cambió mucho, al principio
  el usuario era pasivo, tenía disponible una información estática con dirección
- unidireccional y la producción del contenido de las webs eran individuales
- con fuentes limitadas.
+ unidireccional y la producción del contenido de las webs era individual
+ y con fuentes limitadas.
  Cuándo hablamos de una web con estas características podemos definirla
- como web 1.0.
- Nafría (2007:44) afirma que en 1998 la mejor manera de conectarse a internet
+ como Web 1.0.
+ Nafría (2007:44) afirma que en 1998 la mejor manera de conectarse a Internet
  era a través de los portales web, que se entendía como una web que reunía
  una gran parte de los servicios e informaciones que los usuarios más utilizaban
 , como el correo electrónico, noticias, agenda...
+ 
 \end_layout
 
 \begin_layout Standard
-La web fue cambiando poco a poco a lo largo de los años y han surgido varias
+La web fue cambiando poco a poco a lo largo de los años y surgieron varias
  webs que estaban pensadas para el usuario, podemos citar la Epinions.com
- que según Nafría (2007:54) surgió en mediados del 1999 y ofrecía a los
- usuarios de la red la oportunidad de dar su opinión sobre cualquier producto
- y también de comparar sus características y precios con otros similares.
+ que según Nafría (2007:54) surgió a mediados del 1999 y ofrecía a los usuarios
+ de la red la oportunidad de dar su opinión sobre cualquier producto y también
+ de comparar sus características y precios con otros similares.
  El usuario empieza a ejercer un papel importante en la red, participando
  y compartiendo informaciones.
  Otras webs que tienen una participación muy importante en el cambio de
@@ -910,10 +904,10 @@ Según Nafría (2007:112) es difícil fijar un momento exacto en la historia
  y 2003.
  A lo largo de estos años muchas cosas empiezan a diversificarse en la web,
  empezaron a surgir nuevas tecnologías que facilitaban y agilizaban la búsqueda
- de información, la velocidad de la internet mejora así como la calidad
- de la misma donde el usuario puede hacer más cosas en la web con mayor
- rapidez y es cuándo comienza a surgir la idea del usuario como generador
- de contenido.
+ de información, mejoró la velocidad de la Internet así como la calidad
+ de la misma, de manera que el usuario podía hacer más cosas en la web,
+ con mayor rapidez y es cuándo comienza a surgir la idea del usuario como
+ generador de contenido.
  
 \end_layout
 
@@ -924,20 +918,21 @@ Cobo y Pardo (2007:27) afirman que la web actual no es igual a la web que
  en forma gratuita eran limitadas.
  Tal como dice Cobo y Pardo (2007:27) “[...] la web en su conjunto empieza
  a dibujar un nuevo escenario de contenidos y meta-información en plena
- transformación hacia los principios de la web 2.0.”
+ transformación hacia los principios de la Web 2.0.”
 \end_layout
 
 \begin_layout Standard
 Siguiendo a Fumero y Roca (2007:11) “surge una nueva red caracterizada como
  la web de las personas frente a la web de los datos, correspondiente a
- la versión uno, la web 1.0.” Cobo y Pardo (2007:15) comentan que en esta
+ la versión uno, la Web 1.0.” Cobo y Pardo (2007:15) comentan que en esta
  nueva red, la web de las personas, deja de ser un simple escaparate de
- contenidos multimedia para transformarse en una plataforma abierta , construida
+ contenidos multimedia para transformarse en una plataforma abierta, construida
  y basada en la participación de los usuarios.
- La web 2.0 es como podemos llamar la segunda fase de los negocios de internet
+ La Web 2.0 es cómo podemos llamar a la segunda fase de los negocios de Internet
  en la que estamos actualmente inmersos, las reglas son muy diferentes a
- las de la web 1.0, entre otras cosas porque el coste de lanzar un nuevo
+ las de la Web 1.0, entre otras cosas porque el coste de lanzar un nuevo
  servicio se ha reducido mucho (Nafría, 2007:122).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -953,36 +948,43 @@ Nafría (2007:124) afirma que la Web 1.0 en su mayoría fue un canal de publicac
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
 Explica Nafría (2007:124) que:
 \end_layout
 
 \begin_layout Quote
 
 \size small
-La web 1.0 era una web de sólo lectura; la Web 2.0 es de lectura y escritura.
+La Web 1.0 era una web de solo lectura; la Web 2.0 es de lectura y escritura.
  La Web 2.0 es participativa por naturaleza.
  [...] los usuarios no suelen adoptar una actitud pasiva, sino todo lo contrario.
- No sólo leen, también discuten, comentan, valoran, opinan, proponen, anuncian,
+ No solo leen, también discuten, comentan, valoran, opinan, proponen, anuncian,
  enlazan, escriben, publican, intercambian, escogen, corrigen, comparten...
  Es decir, participan activamente.
  Y con su participación, ayudan a elaborar el producto.
 \end_layout
 
 \begin_layout Standard
-Si internet fuese un software informático, la web 2.0 sería una nueva y mejorada
- versión del mismo.
+Si Internet fuese un 
+\emph on
+software
+\emph default
+ informático, la Web 2.0 sería una nueva y mejorada versión del mismo.
  Una versión que estaría sacando provecho de lo mejor de su primera fase,
- la que conocemos como la web 1.0, y que se habrían integrado importantes
+ la que conocemos como la Web 1.0, y en la que se habrían integrado importantes
  novedades tanto tecnológicas como de uso.
- La nueva versión de la web, la que llamamos web 2.0, ha dado lugar a nuevos
+ La nueva versión de la web, la que llamamos Web 2.0, ha dado lugar a nuevos
  escenarios, nuevas posibilidades, nuevos métodos de trabajo, nuevas vías
  de participación, nuevas formas de relación, nuevos modos de hacer negocio.
- La web 2.0 ha cambiado las reglas del juego que estuvieron vigentes durante
- los primeros años de internet (Nafría, 2007:111).
+ La Web 2.0 ha cambiado las reglas del juego que estuvieron vigentes durante
+ los primeros años de Internet (Nafría, 2007:111).
+ 
 \end_layout
 
 \begin_layout Standard
-El concepto de web 2.0, según O’Reilly (2005:1) nació en una sesión de 
+El concepto de Web 2.0, según O’Reilly (2005:1) nació en una sesión de 
 \emph on
 brainstorming
 \emph default
@@ -1000,10 +1002,14 @@ What is Web 2.0.
 \emph default
  (Qué es Web 2.0.
  Patrones de diseño y modelos de negocio para la siguiente generación de
- software).
- Un año y medio más tarde el término, web 2.0, contaba con 9,5 millones de
+ 
+\emph on
+software
+\emph default
+).
+ Un año y medio más tarde el término, Web 2.0, contaba con 9,5 millones de
  referencia en Google (O’Reilly, 2005:1) lo cuál genera muchos debates y
- discusiones sobre el concepto web 2.0.
+ discusiones sobre el concepto Web 2.0.
  
 \end_layout
 
@@ -1017,33 +1023,45 @@ O’Reilly (citado en Beelen, 2006:4,5) describe las características de la
 \size small
 Web 2.0 es la red como plataforma, involucrando todos los dispositivos conectados.
  Aplicaciones Web 2.0 son las que aprovechan mejor las ventajas de esa plataforma
-, ofreciendo software como un servicio de actualización continua que mejora
- en la medida que la cantidad de usuarios aumenta, consumiendo y remezclando
- datos de diferentes fuentes, incluyendo usuarios individuales, mientras
- genera sus propios datos en una forma que permite ser remezclado por otros,
- creando efectos de red a través de una arquitectura de participación y
- dejando atrás la metáfora de la página del web 1.0, con el fin de ofrecer
- experiencias mas envolventes al usuario.
+, ofreciendo 
+\emph on
+software
+\emph default
+ como un servicio de actualización continua que mejora en la medida que
+ la cantidad de usuarios aumenta, consumiendo y remezclando datos de diferentes
+ fuentes, incluyendo usuarios individuales, mientras genera sus propios
+ datos en una forma que permite ser remezclado por otros, creando efectos
+ de red a través de una arquitectura de participación y dejando atrás la
+ metáfora de la página del Web 1.0, con el fin de ofrecer experiencias mas
+ envolventes al usuario.
 \end_layout
 
 \begin_layout Standard
-Fumero y Roca (2007:10) definen la web 2.0 como la red que fue convertida
+Fumero y Roca (2007:10) definen la Web 2.0 como la red que fue convertida
  en un espacio social, con espacio para todos los agentes sociales, capaz
  de dar auxilio y formar parte de una verdadera sociedad de la información,
  la comunicación y/o el conocimiento.
 \end_layout
 
 \begin_layout Standard
-En la primera conferencia sobre la web 2.0, en octubre de 2004, John Battelle
+En la primera conferencia sobre la Web 2.0, en octubre de 2004, John Battelle
  y Tim O’Reilly enumeraron un conjunto de principios para mejor definir
- la web 2.0 (O’Reilly, 2005:2).
+ la Web 2.0 (O’Reilly, 2005:2).
  Según O’Reilly (2005) (citado en Cobo y Pardo, 2007:15) los principios
- constitutivos de la web 2.0 son siete: la web como plataforma de trabajo,
+ constitutivos de la Web 2.0 son siete: la web como plataforma de trabajo,
  el fortalecimiento de la inteligencia colectiva, la gestión de las bases
  de datos como competencia básica, el fin del ciclo de las actualizaciones
- de versiones de software, los modelos de programación ligera junto a la
- búsqueda de la simplicidad, el software no limitado a un solo dispositivo
- y las experiencias enriquecedoras de los usuarios.
+ de versiones de 
+\emph on
+software
+\emph default
+, los modelos de programación ligera junto a la búsqueda de la simplicidad,
+ el 
+\emph on
+software
+\emph default
+ no limitado a un solo dispositivo y las experiencias enriquecedoras de
+ los usuarios.
  
 \end_layout
 
@@ -1122,7 +1140,7 @@ O’Reilly en su artículo afirma que “el principio fundamental que se esconde
  aportado por cada socio son sus conocimientos, sus conversaciones, la capacidad
  de aprender y enseñar.
  La web del futuro revelará la inteligencia colectiva de un mundo globalizado
- e interconectado a través de la internet.
+ e interconectado a través de la Internet.
 \end_layout
 
 \begin_layout Standard
@@ -1240,7 +1258,7 @@ El software no limitado a un solo dispositivo
 \begin_layout Standard
 Nafría (2007:120) comenta que una de las características de la web 2.0 es
  que el servicio no debe estar limitado simplemente al ordenador, ya que
- el ordenador personal ya no es más el único aparato de acceso a internet.
+ el ordenador personal ya no es más el único aparato de acceso a Internet.
  Los smartphones y las tablets empezaron a ocupar espacios hasta ahora solo
  reservados a los ordenadores personales (Cobo y Pardo, 2007:32).
  Scolari y Pardo (2006:3) complementan la idea afirmando que los dispositivos
@@ -1648,7 +1666,7 @@ thispagestyle{empty}
 \end_layout
 
 \begin_layout Standard
-Según Esteban y otros (2002:167) internet se ha convertido en un lugar para
+Según Esteban y otros (2002:167) Internet se ha convertido en un lugar para
  hacer transacciones, compartir informaciones y comunicarse, y también ha
  creado un entorno para nuevas formas de promoción y distribución directa
  a los consumidores finales.
@@ -1657,8 +1675,8 @@ Según Esteban y otros (2002:167) internet se ha convertido en un lugar para
  Rodríguez (2008:25) explica que el marketing electrónico utiliza las tecnología
 s de la información y comunicación para lograr los objetivos de marketing
  de la empresa.
- Esto tipo de marketing normalmente se asocia con marketing en internet,
- que según Rodríguez (2008:25), es cuándo se utiliza la internet con propósitos
+ Esto tipo de marketing normalmente se asocia con marketing en Internet,
+ que según Rodríguez (2008:25), es cuándo se utiliza la Internet con propósitos
  de marketing y otras tecnologías digitales vinculadas con la Red.
 \end_layout
 
