@@ -593,18 +593,16 @@ Internet es una herramienta valiosa en la comercialización de productos
 \end_layout
 
 \begin_layout Standard
-En este trabajo de investigación buscamos analizar las páginas webs de los
- destinos turísticos de Barcelona, Tarragona y Girona.
- Los avances tecnológicos han influenciado las empresas turísticas, sobretodo
+Los avances tecnológicos han influenciado las empresas turísticas, sobretodo
  en la manera que distribuyen sus productos en el mercado.
  En la actualidad, el usuario está más informado y es más exigente, actuando
  cada vez más por si solo en las búsquedas a través de Internet de información
  sobre destinos turísticos.
  Por este motivo Internet se ha convertido en una herramienta imprescindible
  en nuestros días.
- En esta investigación nos centramos en las páginas webs de los entes promotores
- de turismo de las capitales de las provincias costeras de Cataluña, Barcelona,
- Tarragona y Girona.
+ En este trabajo de investigación buscamos analizar las páginas webs de
+ los entes promotores de turismo de las capitales de las provincias costeras
+ de Cataluña, Barcelona, Tarragona y Girona.
  Las tres capitales reciben muchos turistas durante todo el año, lo que
  resulta una importancia económica para la región.
  
@@ -3600,7 +3598,7 @@ n completa de los alojamientos, que incluye: nombre, teléfono, enlaces,
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -4576,7 +4574,7 @@ En la web del Patronat de Turisme de Tarragona algunos contenidos se pueden
 \end_layout
 
 \begin_layout Standard
-Aparte de la página web www.barcelonaturisme.com, el ente promotor de la ciudad
+Aparte de la página web www.barcelonaturisme.com el ente promotor de la ciudad
  también promociona Barcelona a través de la web visitbarcelona.com (figura
  6.18).
  En esta web los usuarios pueden compartir experiencias, escribir comentarios,
@@ -5778,6 +5776,248 @@ thispagestyle{empty}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+Al iniciar este Trabajo de Fin de Carrera, teníamos como objetivo principal
+ analizar la eficacia de las páginas Web de los entes promotores de turismo
+ de las ciudades de Barcelona, Tarragona y Girona estudiando si el contenido
+ de estas páginas Web facilita una comunicación informativa interactiva.
+ Este objetivo se ha desarrollado partiendo del planteamiento teórico de
+ los conceptos de marketing y turismo para posteriormente aplicar un análisis
+ de contenido de las páginas webs de Barcelona Turisme, Tarragona Turisme
+ y Girona Turisme.
+ Se ha complementado el análisis con entrevistas con los profesionales que
+ trabajan en las organizaciones promotoras de turismo de dichas ciudades,
+ con la finalidad de saber la opinión sobre la presencia de las páginas
+ Web en Internet y si la información ofrecida es útil.
+ Además de saber si los entrevistados valoran de manera positiva la posibilidad
+ de interacción en una página Web de un destino turístico.
+ De este modo, los resultados de este trabajo ofrecen diversas conclusiones
+ relevantes.
+\end_layout
+
+\begin_layout Standard
+Las tres páginas Web tienen una buena página de inicio, aunque no ofrecen
+ a posibilidad de registrarse para utilizar servicios de la página Web.
+ Con lo cual, la información que se obtiene por parte del usuarios es mínima.
+ 
+\end_layout
+
+\begin_layout Standard
+Las tres páginas Web analizadas no ofrecen un rediseño de la home según
+ el usuario por idiomas, o sea, no disponen de una reestructuración de contenido
+ más allá de la traducción.
+ Tampoco es posible escoger el perfil de turista, no se puede elegir el
+ perfiles de turistas distintos como familiar, joven, business...
+\end_layout
+
+\begin_layout Standard
+La presencia de las FAQs y ayuda al usuario es muy importante en una pagina
+ de inicio, pero solamente Girona ofrece respuestas a las preguntas más
+ frecuentes de los turistas.
+ Esta herramienta puede ayudar a solucionar dudas directamente a través
+ de la web y ahorrar tiempo en contestando correos electrónicos o el teléfono.
+ 
+\end_layout
+
+\begin_layout Standard
+En relación a la calidad y cantidad de contenido las tres páginas Web analizadas
+ poseen una buena calidad de información, con contenidos actualizados y
+ completos.
+\end_layout
+
+\begin_layout Standard
+En general las páginas Web de Barcelona Turisme, Tarragona Turisme y Girona
+ Turisme disponen de una buena estructura de la información.
+ Las páginas Web de Barcelona Turisme y Tarragona Turisme podrían implementar
+ la orientación del usuario en la navegación, o sea, indicar al usuario,
+ normalmente en formas de 
+\begin_inset Quotes eld
+\end_inset
+
+migas de pan
+\begin_inset Quotes erd
+\end_inset
+
+ o 
+\begin_inset Quotes eld
+\end_inset
+
+hilos de Ariadna
+\begin_inset Quotes erd
+\end_inset
+
+ (
+\emph on
+breadcrumbs
+\emph default
+), en qué lugar de la página web se encuentra, y le permitir deshacer su
+ navegación.
+ 
+\end_layout
+
+\begin_layout Standard
+La cuestión de la usabilidad está bien tratada, haciendo con que la página
+ web sea fácil para ser usada, rápida, agradable y atractiva a los usuarios,
+ aunque no tienen tan en cuenta el importante aspecto de los idiomas y de
+ las versiones culturales adaptadas.
+ El estudio de Tsikriktsis (2002) (citado en Huertas y Fenández Cavia, 2006)
+ revela la importancia de la adaptación idiomática-cultural de las páginas
+ Web a los usuarios, demostrando el impacto positivo en la impresión que
+ éstos poseen de la página Web y de su contenido.
+ Por tanto, se aconsejan estrategias localizadas de comunicación, adaptando
+ el contenido culturalmente de las páginas Web de Barcelona Turisme, Tarragona
+ Turisme y Girona Turisme.
+ De esta manera las organizaciones promotoras de turismo de dichas ciudades
+ puede crear páginas Web más usables para usuarios de diferentes culturas.
+ 
+\end_layout
+
+\begin_layout Standard
+Se ha podido observar que las tres páginas Web analizadas tienen un nivel
+ de accesibilidad alto, con tamaño de fuentes adecuados, contraste fuente-fondo
+ y no hay la necesidad de tener que instalar plugins adicionales.
+ Todas las tres páginas Web disponen de nivel de adecuación AA, lo cual
+ es un indicar de la accesibilidad de la página Web.
+\end_layout
+
+\begin_layout Standard
+El sistema de comercialización de las páginas Web analizadas es muy limitado.
+ Tarragona Turisme no ofrece a los usuarios la opción de reservar alojamiento
+ online, solamente dispone de un listado de los alojamiento con informaciones
+ completas de contacto, como se ha comentado en el apartado 6.7.
+\end_layout
+
+\begin_layout Standard
+Turisme de Barcelona dispone del enlace llamado BCNSHOP para que los turistas
+ puedan hacer las reservas de hoteles, compras de entradas y tickets, compras
+ de visitas y tours.
+ La parte de reservas de alojamiento no funciona perfectamente, lo que puede
+ generar dudas en la hora de reservar un hotel a través de la página Web.
+ Se ha hecho una prueba con el buscador de hoteles de la página Web de Barcelona
+ Turisme.
+ Al buscar un hotel a través del buscador de alojamientos, el usuario puede
+ encontrar una breve descripción del hotel, los datos de contacto, localización
+ y los servicios que ofrece.
+ Para describir los servicios ofrecidos por los hoteles se ha utilizado
+ símbolos.
+ Es posible reservar el alojamiento y efectuar el pago con tarjeta de crédito
+ (visa, mastercard, diners club, discover) o con la cuenta de paypal.
+ Para que la reserva se confirme es necesario pagar un 10% del importe total,
+ aproximadamente.
+ Entretanto, no es posible obtener un informe de disponibilidad de los hoteles.
+\end_layout
+
+\begin_layout Standard
+Se ha probado buscar un hotel utilizando el buscador de alojamiento de la
+ página Web de Turisme de Barcelona el día 03/02/13 en Barcelona para 2
+ adultos con fecha de entrada el 22/05/13 para 5 noches, el buscador no
+ ha encontrado ninguna opción de alojamiento.
+ Hemos cambiado los datos para una fecha más aproximada a la del día que
+ se ha realizado la búsqueda y resulta que el sistema ha encontrado hoteles
+ disponibles.
+ Hasta 1 mes y medio a partir de la fecha de búsqueda el sistema ha sido
+ capaz de encontrar hoteles.
+ Entretanto, no es posible encontrar alojamiento en Barcelona con 2 o más
+ meses de antelación a través del buscador de alojamiento.
+ Por tanto, se recomienda una revisión de este sistema de reservas.
+ Es muy importante para una página Web de un destino turístico que los turistas
+ puedan tener el máximo de confianza en la información que recibe, problemas
+ técnicos como estos pueden generar incertidumbre por la parte del usuario.
+\end_layout
+
+\begin_layout Standard
+Un factor que puede determinar el éxito de una página Web es la posición
+ que ocupe en los buscadores de Internet.
+ Se ha observado que las webs analizadas tienen buena posición en los buscadores
+ y utilizan las principales técnicas de SEO.
+\end_layout
+
+\begin_layout Standard
+Se puede afirmar que las páginas Web analizadas en este Trabajo Fin de Carrera
+ disponen de una mejor estructura (arquitectura de la información), diseño
+ y usabilidad, que interactividad.
+ Se puede decir que las páginas Web de Barcelona Turisme, Tarragona Turisme
+ y Girona Turisme son más fáciles de usar y bien estructuradas que interactivas.
+ Las Organizaciones de Marketing de los Destinos (OMD) analizados deberían
+ aprovechar más las posibilidades de interactividad que ofrecen el medio.
+ En ningunas de las páginas Web analizadas se puede saber la opinión de
+ los usuarios sobre la página Web.
+ La opinión del usuario es muy importante para poder mejorar el sito Web
+ y desarrollar nuevas funciones.
+ La cuestión de interactividad no está siendo muy bien explorada sobretodo
+ por la Organización de Marketing de Barcelona Turisme, como se puede observar
+ en la tabla y gráfico 6.10.
+\end_layout
+
+\begin_layout Standard
+Aunque existen gran cantidad de estudios que demuestran la importancia de
+ los comentarios y opiniones de usuarios en el proceso de decisiones de
+ los turistas, los resultados de la presencia en la Web 2.0 muestran que
+ todavía su implantación es limitada.
+ La principal contribución de las tecnologías de la Web 2.0 (blogs, redes
+ sociales, etc.) es permitir las aportaciones y experiencias de los usuarios.
+ Las tres páginas Web analizadas aún necesitan potencializar la comunicación
+ en la red.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Conclusión análisis datos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/tabla-conclusion.png
+	lyxscale 50
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename /Users/jamilemarceleradloff/Desktop/TFC/TFC - Textos/Tabelas y gráficos/grafico-conclusion.png
+	lyxscale 50
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\shape italic
+\size small
+Fuente: elaboración propia
+\end_layout
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Bibliography
