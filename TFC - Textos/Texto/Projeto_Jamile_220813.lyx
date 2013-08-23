@@ -1266,8 +1266,8 @@ El fortalecimiento de la inteligencia colectiva
 O’Reilly en su artículo afirma que “el principio fundamental que se esconde
  detrás del éxito de los gigantes nacidos en la era de la Web 1.0 que han
  sobrevivido para liderar la era de la Web 2.0 parece ser éste, que han abrazado
- el poder de la Web para explotar inteligencia colectiva.” Berners-Lee ya
- hablaba de estos principios Cuándo pensó y creó la Web a principios de
+ el poder de la web para explotar inteligencia colectiva.” Berners-Lee ya
+ hablaba de estos principios cuando pensó y creó la Web a principios de
  la década de 1990.
  Los usuarios pueden actuar de la forma tradicional, navegando a través
  de los contenidos de las webs, o de manera proactiva, es decir, creando
@@ -1276,8 +1276,9 @@ O’Reilly en su artículo afirma que “el principio fundamental que se esconde
  la inteligencia colectiva es una especie de sociedad anónima donde el capital
  aportado por cada socio son sus conocimientos, sus conversaciones, la capacidad
  de aprender y enseñar.
- La Web del futuro revelará la inteligencia colectiva de un mundo globalizado
+ La web del futuro revelará la inteligencia colectiva de un mundo globalizado
  e interconectado a través de la Internet.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1285,17 +1286,18 @@ O’Reilly (2005:7) clasifica Wikipedia como “un experimento radical de confia
  donde el usuario puede aportar contenido y cualquier otro puede corregirlo,
  resultando en un enorme cambio en la manera de crear contenido.
  Nafría (2007:117) afirma que la actividad colectiva y constante de millones
- de usuarios en webs de subastas como el eBay o Amazon.com es lo que hace
- que estas webs sean muy valiosas, aportando un valor añadido que sus competidor
-es no pueden ofrecer.
+ de usuarios en webs de subastas como eBay o Amazon.com es lo que hace que
+ estas webs sean muy valiosas, aportando un valor añadido que sus competidores
+ no pueden ofrecer.
  Hacer un buen uso de la inteligencia colectiva, o sea, explotar o aprovechar
  las contribuciones de los usuarios, es la clave para el dominio del mercado
  en la era de la Web 2.0.
- De esta forma el usuario pasa de consumidor a co-desarrollador.
+ De esta forma el usuario pasa de consumidor a codesarrollador.
  El ambiente perfecto para expresar las habilidades, experiencias y competencias
  de las personas es el ciberespacio, es donde cada persona puede aportar
  algo y nadie tiene conocimiento absoluto (Lévy, 1997, citado en Cobo y
  Pardo, 2007:46).
+ 
 \end_layout
 
 \begin_layout Section
@@ -1303,21 +1305,33 @@ La gestión de las bases de datos como competencia básica
 \end_layout
 
 \begin_layout Standard
-La clave de este principio es el infoware, es decir, el software más datos.
- Los datos son valiosos para las aplicaciones Web 2.0, ya que el software
+La clave de este principio es el infoware, es decir, el 
+\emph on
+software
+\emph default
+ más datos.
+ Los datos son valiosos para las aplicaciones Web 2.0, ya que el 
+\emph on
+software
+\emph default
  es un recurso de fácil implementación (Cobo y Pardo, 2007:30).
  O’Reilly (2005:3) afirma que las herramientas necesitan de los datos y
- el software es la manera que se usa para manejarlos.
+ el 
+\emph on
+software
+\emph default
+ es la manera que se usa para manejarlos.
  Los datos son una parte definitivamente importante de cualquier proyecto
- Web, y muchas veces la clave del éxito o fracaso de una Web está relacionada
+ web, y muchas veces la clave del éxito o fracaso de una web está relacionada
  con la gestión de los datos (Nafría, 2007:118).
+ 
 \end_layout
 
 \begin_layout Standard
 O’Reilly utiliza como ejemplo Amazon.com, que desde el principio aplica la
- política de enriquecimiento de información, y que muchas veces éstas fueron
- generadas por los propios usuarios de la Web (Cobo y Pardo, 2007:30).
- Scolari y Pardo (2006:3) complementa la idea afirmando que la administración
+ política de enriquecimiento de información, y que muchas veces esta fue
+ generada por los propios usuarios de la web (Cobo y Pardo, 2007:30).
+ Scolari y Pardo (2006:3) complementan la idea afirmando que la administración
  de los datos de Amazon.com es su habilidad básica y el enriquecimiento de
  su servicio y contenido.
  Comenta Nafría (2007:118) que una ventaja competitiva es lograr un conjunto
@@ -1327,15 +1341,23 @@ O’Reilly utiliza como ejemplo Amazon.com, que desde el principio aplica la
 \end_layout
 
 \begin_layout Section
-El fin del ciclo de las actualizaciones de versiones de software
+El fin del ciclo de las actualizaciones de versiones de 
+\emph on
+software
 \end_layout
 
 \begin_layout Standard
-Cobo y Pardo (2007:30) afirman que se acaba el modelo inicial de software
- cerrado, para pasar a utilizar el software como un servicio gratuito combinado
- con los datos, funcionando en la propia Web sin la necesidad de instalar
- en nuestro ordenador.
- O’Reilly (2005:3) complementa la idea utilizando como ejemplo Google:
+Cobo y Pardo (2007:30) afirman que se acaba el modelo inicial de 
+\emph on
+software
+\emph default
+ cerrado, para pasar a utilizar el 
+\emph on
+software
+\emph default
+ como un servicio gratuito combinado con los datos, funcionando en la propia
+ web sin la necesidad de instalarlo en nuestro ordenador.
+ O’Reilly (2005:3) complementa la idea utilizando como ejemplo Google: 
 \end_layout
 
 \begin_layout Quote
@@ -1343,24 +1365,39 @@ Cobo y Pardo (2007:30) afirman que se acaba el modelo inicial de software
 \size small
 Google comenzó su vida como una aplicación Web nativa, nunca vendida o empaqueta
 da, sino siempre entregada como un servicio [...].
- No hay programación de las actualizaciones de las versiones del software,
- sencillamente mejora continua.
+ No hay programación de las actualizaciones de las versiones del 
+\emph on
+software
+\emph default
+, sencillamente mejora continua.
  Ninguna licencia o venta, sencillamente uso.
  Ningún tipo de portabilidad a diferentes plataformas de forma que los clientes
- puedan ejecutar el software en su propio equipo.
+ puedan ejecutar el 
+\emph on
+software
+\emph default
+ en su propio equipo.
 \end_layout
 
 \begin_layout Standard
 Este cambio en el modelo de negocio favorece mucho al usuario, siendo Google
- el ejemplo de actualización diaria del software (Scolari y Pardo, 2006:3).
+ el ejemplo de actualización diaria del 
+\emph on
+software
+\emph default
+ (Scolari y Pardo, 2006:3).
  Según Cobo y Pardo (2007:31) Google, con su motor de búsqueda y servicios
  complementarios, ofrece de forma gratuita una oferta de servicios innovadores,
  sin constantes actualizaciones ni incompatibilidades de sistemas, utilizando
  la Web como plataforma y sin la necesidad de instalar y quitar espacio
  de disco duro de nuestro ordenador.
- Las empresas Web 2.0 dejan de estar transformando sus modelos en versiones
- betas, lanzan el software pronto y a menudo, aprendiendo del consumo de
- los usuarios para mejorar sus prototipos.
+ Las empresas Web 2.0 dejan de desarrollar sus modelos en versiones betas,
+ sino que lanzan el 
+\emph on
+software
+\emph default
+ pronto y, a menudo, aprendiendo del consumo de los usuarios para mejorar
+ sus prototipos.
  De este modo la herramienta está en constante desarrollo, sin costes adicionale
 s para el usuario y se acelera el proceso de mejoras de la aplicación.
  
@@ -1372,39 +1409,52 @@ Los modelos de programación ligera junto a la búsqueda de la simplicidad
 
 \begin_layout Standard
 Según O’Reilly (2005) (citado en Scolari y Pardo, 2006:3) este principio
- consta en simplificar las aplicaciones y a la vez que también sean fiables
- y funcionales.
+ consiste en simplificar las aplicaciones y, a la vez, que también sean
+ fiables y funcionales.
  Se pretende que las aplicaciones crezcan de una manera simplificada y que
- el usuario pueda ver el contenido cuándo quiera en la plataforma que quiera,
- y no según lo que establezca el proveedor/desarrollador de la información.
+ el usuario pueda ver el contenido cuando quiera, en la plataforma que quiera,
+ y no según lo que establezca el proveedor o desarrollador de la información.
  
 \end_layout
 
 \begin_layout Standard
 Cobo y Pardo (2007:31) complementan la idea afirmando que los modelos de
  programación ligera realzan la simplicidad, donde menos es más, donde se
- evita los excesos de especificaciones y funciones del software cerrado.
+ evitan los excesos de especificaciones y funciones del 
+\emph on
+software
+\emph default
+ cerrado.
  La programación ligera proporciona productos creativos, productivos y con
  mayor valor añadido.
+ 
 \end_layout
 
 \begin_layout Section
-El software no limitado a un solo dispositivo
+El 
+\emph on
+software
+\emph default
+ no limitado a un solo dispositivo
 \end_layout
 
 \begin_layout Standard
 Nafría (2007:120) comenta que una de las características de la Web 2.0 es
  que el servicio no debe estar limitado simplemente al ordenador, ya que
- el ordenador personal ya no es más el único aparato de acceso a Internet.
+ el ordenador personal ya no es el único aparato de acceso a Internet.
  Los smartphones y las tablets empezaron a ocupar espacios hasta ahora solo
  reservados a los ordenadores personales (Cobo y Pardo, 2007:32).
  Scolari y Pardo (2006:3) complementan la idea afirmando que los dispositivos
  móviles se están transformando en plataformas para el entretenimiento,
- la gestión de la información, y la producción de contenidos multimedia.
+ la gestión de la información y la producción de contenidos multimedia.
  Este principio fue pensado precisamente en la unión entre las aplicaciones
- Web 2.0 y los dispositivos móviles, actualmente, tanto el software como
- las aplicaciones son diseñadas para sean utilizadas en diversas plataformas,
- principalmente ordenadores y móviles (Cobo y Pardo, 2007:119).
+ Web 2.0 y los dispositivos móviles.
+ Actualmente, tanto el 
+\emph on
+software
+\emph default
+ como las aplicaciones están diseñadas para ser utilizadas en diversas plataform
+as, principalmente ordenadores y móviles (Cobo y Pardo, 2007:119).
  
 \end_layout
 
@@ -1418,16 +1468,17 @@ Según O’Reilly (citado en Nafría, 2007:120) para lograr el éxito en el mund
  de sus usuarios, utilizando una arquitectura de participación para sacar
  provecho en la interfaz del programa así como en la riqueza de los datos
  compartidos.
+ 
 \end_layout
 
 \begin_layout Standard
-Se puede citar como una experiencia enriquecedora de los usuarios los blogs,
+Se pueden citar los blogs como una experiencia enriquecedora de los usuarios,
  Cobo y Pardo (2007:33) afirman que su éxito está justificado por la sencillez
  de creación, productividad, posibilidad de indexación y visibilidad en
  los buscadores.
  Rojas (2005) (citado en Cobo y Pardo, 2007:33) complementa la idea de los
  blogs como experiencia enriquecedora de los usuarios resumiendo los porqués
- de su popularidad:
+ de su popularidad: 
 \end_layout
 
 \begin_layout Quote
@@ -1452,6 +1503,8 @@ El nuevo diseño de las interfaces webs plantea experiencias de usuarios
 \end_layout
 
 \begin_layout Chapter
+
+\emph on
 Marketing
 \end_layout
 
@@ -1474,7 +1527,7 @@ thispagestyle{empty}
 \begin_layout Standard
 En el mundo del marketing, el artículo de Bagozzi, 
 \emph on
-Marketing as Echange
+Marketing as Exchange
 \emph default
 , es conocido como el primer concepto de marketing.
  Según Bagozzi (1975) (citado en Adell, 2007:18) marketing es “el sistema
