@@ -461,9 +461,6 @@ LatexCommand tableofcontents
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset ERT
 status open
 
@@ -630,7 +627,7 @@ World Wide Web
 , que es nuestro objeto de análisis.
  Comentamos de donde ha surgido la 
 \emph on
-world wide Web
+World Wide Web
 \emph default
 , sus definiciones según el punto de vista de la Real Academia Española
  y de varios autores expertos sobre el tema.
@@ -3323,7 +3320,7 @@ El tamaño de la letra de la página Web de Barcelona Turisme se adapta al
 \end_layout
 
 \begin_layout Standard
-Ninguna de las paginas webs analizadas ofrecen una aplicación directa para
+Ninguna de las páginas webs analizadas ofrece una aplicación directa para
  agrandar o disminuir el tamaño de la fuente.
 \end_layout
 
@@ -3332,18 +3329,19 @@ Para analizar la compatibilidad con los diferentes navegadores se ha utilizado
  la versión actualizada de los navegadores Safari, Firefox y Chrome.
  Las webs de Barcelona y Girona son compatibles con los tres navegadores
  utilizados.
- Sin embargo la página Web del Patronat de Turisme de Tarragona es compatible
- solamente con el navegador Firefox, con los otros dos no era posible visualizar
- perfectamente los menus.
+ Sin embargo la página web del Patronat de Turisme de Tarragona es compatible
+ solamente con el navegador Firefox, con los otros dos no ha sido posible
+ visualizar perfectamente los menus.
  
 \end_layout
 
 \begin_layout Standard
-Se ha probado tres resoluciones de pantalla diferentes que son: 800x600,
+Se han probado tres resoluciones de pantalla diferentes, que son: 800x600,
  1024x768 y 1280x800.
- El resultado es igual para las tres paginas webs analizadas, todas son
+ El resultado es igual para las tres páginas webs analizadas, todas son
  compatibles con las resoluciones 1024x768 y 1280x800 y no compatibles con
  la 800x600.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3359,21 +3357,14 @@ Las etiquetas de texto alternativo son utilizadas para describir el contenido
 \end_layout
 
 \begin_layout Standard
-Según Huertas y otros (2010), 
-\begin_inset Quotes eld
-\end_inset
-
-un sitio Web debe ser lo más accesible posible, para que las personas con
- discapacidades puedan acceder a él.
- En España la legislación establece que los sitios Web de las instituciones
- públicas deben tener un nivel de adecuación AA
-\begin_inset Quotes erd
-\end_inset
-
-.
- Se ha utilizado el validador automático TAW, disponible en www.tawdis.net,
+Según Huertas y otros (2010), “un sitio web debe ser lo más accesible posible,
+ para que las personas con discapacidades puedan acceder a él.
+ En España la legislación establece que los sitios web de las instituciones
+ públicas deben tener un nivel de adecuación AA”.
+ Se ha utilizado el validador automático TAW, disponible en <www.tawdis.net>,
  para verificar el nivel de adecuación.
  Todas las webs analizadas tienen el nivel de adecuación AA exigido en España.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3452,23 +3443,15 @@ Posicionamiento Web
 \end_layout
 
 \begin_layout Standard
-En la tabla y gráfico podemos observar el resultado de la análisis del posiciona
-miento de las webs.
- Según Huertas y otros (2010:11)el posicionamiento es 
-\begin_inset Quotes eld
-\end_inset
-
-el proceso para mejorar el lugar que ocupa una página Web en los listados
- de resultados naturales, orgánicos o no- remunerados de los buscadores,
- de forma ética
-\begin_inset Quotes erd
-\end_inset
-
-.
+En la tabla y gráfico 6.6 podemos observar el resultado del análisis del
+ posicionamiento de las webs.
+ Según Huertas y otros (2010:11) el posicionamiento es “el proceso para
+ mejorar el lugar que ocupa una página web en los listados de resultados
+ naturales, orgánicos o no -remunerados de los buscadores, de forma ética”.
  Se ha analizado indicadores tanto internos como externos que evaluarán
  el trato de las palabras clave, es decir, su elección, su frecuencia y
- presencia en los distintos apartados de la Web (URL, enlaces, títulos,
- metadatos,...); el PageRank y el TrafficRank; los enlaces de entrada, entre
+ presencia en los distintos apartados de la web (URL, enlaces, títulos,
+ metadatos,...), el PageRank y el TrafficRank o los enlaces de entrada, entre
  otros elementos a evaluar.
  
 \end_layout
@@ -3625,61 +3608,60 @@ Fuente: http://www.girona.cat/turisme/cat/
 
 \begin_layout Standard
 Para analizar la frecuencia de las palabras clave hemos insertado en el
- buscador Google site:http//Web destino 
-\begin_inset Quotes eld
-\end_inset
-
+ buscador Google 
+\emph on
+site:http//web
+\emph default
+ destino “
+\emph on
 pages
-\begin_inset Quotes erd
-\end_inset
-
- y apuntamos el número, luego insertamos site:http://Web destino turismo
- nombre destino (keyword) 
-\begin_inset Quotes eld
-\end_inset
-
+\emph default
+” y apuntamos el número, luego insertamos 
+\emph on
+site:http://web
+\emph default
+ destino turismo nombre destino (
+\emph on
+keyword
+\emph default
+) “
+\emph on
 pages
-\begin_inset Quotes erd
-\end_inset
-
- y apuntamos el numero de la búsqueda.
+\emph default
+” y apuntamos el numero de la búsqueda.
  Al final se hace un ranking en porcentaje.
- En el caso de la Web de Barcelona de los 22.300 resultados encontrados por
- el google solamente 413 tienen las palabras clave, resultando 1,85%.
- Insertando la Web de Tarragona el buscador ha encontrado 3.710 y 83 tienen
+ En el caso de la web de Barcelona de los 22.300 resultados encontrados por
+ Google solamente 413 tienen las palabras clave, resultando 1,85 %.
+ Insertando la web de Tarragona el buscador ha encontrado 3.710 y 83 tienen
  presentes las palabras clave, lo que nos da un resultado de 2,23%.
- La Web de Girona ha presentado un mejor resultado de 14,84%, de los 9.500
+ La web de Girona ha presentado un mejor resultado de 14,84 %, de los 9.500
  resultados 1.410 tienen las palabras claves.
  Sin embargo, las palabras clave no están destacadas tipográficamente en
  ninguna de las tres webs.
+ 
 \end_layout
 
 \begin_layout Standard
 Se ha utilizado el buscador Google para analizar si las tres webs aparecen
- en los 10 primeros resultados en búsquedas con las palabras clave 
-\begin_inset Quotes eld
-\end_inset
-
-turismo
+ en los 10 primeros resultados en búsquedas con las palabras clave “turismo”
+ y “nombre del destino
 \begin_inset Quotes erd
 \end_inset
 
- y 
-\begin_inset Quotes eld
-\end_inset
-
-nombre del destino.
- Se comprobado que las paginas webs de Barcelona Turisme, Tarragona Turisme
- y Girona Turisme tienen un buen posicionamiento apareciendo entre los 10
- primeros resultados.
+.
+ Se comprobado que las páginas webs de Barcelona Turisme, Tarragona Turisme
+ y Girona Turisme tienen un buen posicionamiento, ya que aparecen entre
+ los 10 primeros resultados.
+ 
 \end_layout
 
 \begin_layout Standard
 PageRank es un valor numérico y un concepto registrado y patentado por Google
- que representa la popularidad que una página Web tiene en Internet.
+ que representa la popularidad que una página web tiene en Internet.
  Las páginas webs de Barcelona y Tarragona tienen un PageRank 6, considerado
- como un valor medio, mientras que la página Web de Girona tiene un PageRank
+ como un valor medio, mientras que la página web de Girona tiene un PageRank
  más bajo, 3.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3694,31 +3676,32 @@ La posición de un sitio Web en el Traffic Rank se basa en los datos de tráfico
 \end_layout
 
 \begin_layout Standard
-Los enlaces de entrada son los enlaces que recibe una página Web desde otras
+Los enlaces de entrada son los enlaces que recibe una página web desde otras
  páginas webs.
  El numero de 
 \emph on
-backlinks 
+backlinks
 \emph default
-es la cantidad de páginas que la enlazan a través de un vinculo.
- Para obtener el numero de 
+ es la cantidad de páginas que la enlazan a través de un vinculo.
+ Para obtener el número de 
 \emph on
-backlinks 
+backlinks
 \emph default
-de las webs se ha utilizado la extensión SEO Quake en el navegador Chrome,
- lo cual analiza automáticamente.
+ de las webs se ha utilizado la extensión SEO Quake en el navegador Chrome,
+ la cual lo analiza automáticamente.
  El número de 
 \emph on
-backlinks 
+backlinks
 \emph default
-de la Web de Barcelona es de 516, seguida por Tarragona con 104 y Girona
+ de la web de Barcelona es de 516, seguida por Tarragona con 104 y Girona
  con 71.
- Se ha considerado que Barcelona tiene un numero elevado de enlaces de entrada.
+ Se ha considerado que Barcelona tiene un número elevado de enlaces de entrada.
+ 
 \end_layout
 
 \begin_layout Standard
-Ninguna de las tres webs analizadas están presentes el en directorio del
- google.
+Ninguna de las tres webs analizadas está presente en el directorio de Google.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3864,22 +3847,23 @@ Fuente: http://bcnshop.barcelonaturisme.com/
 \end_layout
 
 \begin_layout Standard
-Barcelona Turisme ofrece un sistema de reservas propio integrado en la Web
- que funciona de forma generalizada para un gran numero de alojamiento.
- La Web de Barcelona Turisme dispone de un servicio de reservas de alojamiento
- completo con disponibilidad de plazas por fechas, opción de reserva y pago
- online.
- La Web de Girona Turisme ofrece un link que te lleva a una Web externa
+Barcelona Turisme ofrece un sistema de reservas propio integrado en la web
+ que funciona de forma generalizada para un gran número de alojamientos.
+ Dispone de un servicio de reservas de alojamiento completo con disponibilidad
+ de plazas por fechas, opción de reserva y pago online.
+ La web de Girona Turisme ofrece un link que te lleva a una web externa
  (girona.net) para reservar alojamiento, pero esta opción solamente ofrece
  3 opciones de hoteles.
- Tarragona Turisme no ofrece un sistema de reservas en su página Web.
+ Tarragona Turisme no ofrece un sistema de reservas en su página web.
+ 
 \end_layout
 
 \begin_layout Standard
-En la Web de Barcelona Turisme se puede encontrar un sistema propio de reservas
+En la web de Barcelona Turisme se puede encontrar un sistema propio de reservas
  y compras de otros servicios, como eventos y guías de viaje.
  Tarragona Turisme dispone de un sistema externo de compra de entradas de
- eventos (www.tarracoticket.cat), como podemos observar en la figura 6.10.
+ eventos (<www.tarracoticket.cat>), como podemos observar en la figura 6.10.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -3933,17 +3917,19 @@ Fuente: http://www.tarracoticket.cat/
 \end_layout
 
 \begin_layout Standard
-La Web de Barcelona Turisme dispone de un sistema propio de reserva y compra
- de varios productos en un mismo carro de compra.
- Mientras que Tarragona Turisme y Girona Turisme no ofrecen este servicio
- a los usuarios de la Web.
+La web de Barcelona Turisme dispone de un sistema propio de reserva y compra
+ de varios productos en un mismo carro de compra, mientras que Tarragona
+ Turisme y Girona Turisme no ofrecen este servicio a los usuarios de la
+ web.
+ 
 \end_layout
 
 \begin_layout Standard
-Se puede observar en la tabla y gráfico 6.7 que la Web de Barcelona (9 puntos)
- dispone de opciones más completas para distribución o comercialización
- en su página Web.
+Se puede observar en la tabla y gráfico 6.7 que la web de Barcelona (9 puntos)
+ dispone de opciones más completas para la distribución o la comercialización
+ en su página web.
  Girona viene en segunda posición con 4 puntos y Tarragona con 2 puntos.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4054,14 +4040,14 @@ El francés y el inglés están presentes en la tres webs analizadas.
 
 \begin_layout Standard
 En las tres webs se ofrecen contenidos en catalán, otra lengua oficial del
- Estado Español, aparte del castellano.
+ estado español, aparte del castellano.
+ 
 \end_layout
 
 \begin_layout Standard
 Las páginas webs analizadas no ofrecen distinción cultural para países de
  un mismo idioma.
- Ej.
- Inglés sin diferenciar público USA y público UK.
+ Por ejemplo, Inglés sin diferenciar público USA y público UK.
 \end_layout
 
 \begin_layout Standard
@@ -4291,22 +4277,14 @@ Tratamiento de la marca
 \end_layout
 
 \begin_layout Standard
-Según los autores de plantilla de análisis de páginas Web Huertas y otros
- (2010:12) 
-\begin_inset Quotes eld
-\end_inset
-
-se entiende por tratamiento de marca la manera de gestionar la imagen de
- marca, es decir, la representación mental de los atributos y beneficios
- percibidos de la marca que se forman los usuarios a partir del total de
- sus comunicaciones.
+Según los autores de la plantilla de análisis de páginas web Huertas y otros
+ (2010:12) “se entiende por tratamiento de marca la manera de gestionar
+ la imagen de marca, es decir, la representación mental de los atributos
+ y beneficios percibidos de la marca que se forman los usuarios a partir
+ del total de sus comunicaciones.
  En esta temática nos centramos en la presencia del logotipo de la marca,
- así como el papel de las imágenes de la Web como representación de la marca
- destino.
-\begin_inset Quotes erd
-\end_inset
-
-
+ así como el papel de las imágenes de la web como representación de la marca
+ destino.” 
 \end_layout
 
 \begin_layout Standard
@@ -4461,28 +4439,26 @@ Fuente: http://www.girona.cat/turisme/
 \end_layout
 
 \begin_layout Standard
-En la versión catalana de la página Web de Barcelona Turisme se puede encontrar
- una descripción del logotipo, 
-\begin_inset Quotes eld
-\end_inset
-
+En la versión catalana de la página web de Barcelona Turisme se puede encontrar
+ una descripción del logotipo: “
+\emph on
 L’element simbòlic està format pels 4 quadrats en forma de rombe disposats
  en arc que respon a diferents icones de Barcelona com: la síntesi simbólica
  de la part superior dels campanars de la Sagrada Família, un mosaic modernista,
  els colors de les flors a la Rambla, un arc de benvinguda i el disseny
- d’avantguarda.
-\begin_inset Quotes erd
-\end_inset
-
- Las demás webs analizadas no disponen de una descripción de sus logotipos.
+ d’avantguarda
+\emph default
+.” Las demás webs analizadas no disponen de una descripción de sus logotipos.
+ 
 \end_layout
 
 \begin_layout Standard
-El diseño gráfico de toda la Web, los colores predominantes de la página
+El diseño gráfico de toda la web, los colores predominantes de la página
  y la tipografía están coordinados con el logotipo de las webs de Tarragona
  y Barcelona.
- Por la Web de Girona disponer del logotipo solamente en la página principal,
+ En la web de Girona, disponer del logotipo solamente en la página principal
  se ha evaluado como parcial o regular los tres indicadores.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4492,8 +4468,9 @@ Todas las webs ofrecen a los usuarios imágenes distintas del territorio,
 
 \begin_layout Standard
 Lo que está relacionado con el tratamiento de la marca se puede observar
- en la tabla y gráfico 6.9 que Barcelona ha sumado 11 puntos, seguida de
- Tarragona y Girona con 10.
+ en la tabla y gráfico 6.9, en que Barcelona ha sumado 11 puntos, seguida
+ de Tarragona y Girona con 10.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4576,45 +4553,51 @@ la relación comunicativa bidireccional que se establece con otros individuos
 \end_layout
 
 \begin_layout Standard
-La Web de Tarragona ofrece un tour virtual y fotos del destino en 360 grados
- a través de un enlace externo que direcciona el usuario a la Web del ayuntamien
+La web de Tarragona ofrece un tour virtual y fotos del destino en 360 grados
+ a través de un enlace externo que direcciona el usuario a la web del ayuntamien
 to de la ciudad.
  Barcelona no dispone de tales servicios y Girona solamente ofrece fotos
- 360 grados.
+ en 360 grados.
+ 
 \end_layout
 
 \begin_layout Standard
-Todas las tres webs tienen vídeos externalizados utilizando el servicio
- gratuito del youtube.
+Todas las webs tienen vídeos externalizados utilizando el servicio gratuito
+ de Youtube.
+ 
 \end_layout
 
 \begin_layout Standard
-Los folletos, planos y o mapas están disponibles de forma gratuita a través
- de la Web del Patronat de Turisme de Tarragona.
- El portal de Girona carece de alguna de las descargas y ya el portal de
- Barcelona Turisme no ofrece ninguna opción de descarga gratuita.
+Los folletos, planos y mapas están disponibles de forma gratuita a través
+ de la web del Patronat de Turisme de Tarragona.
+ El portal de Girona carece de alguna de las descargas y el portal de Barcelona
+ Turisme no ofrece ninguna opción de descarga gratuita.
+ 
 \end_layout
 
 \begin_layout Standard
 Barcelona Turisme tiene una sección exclusiva para la descarga gratuita
  y de pago de aplicaciones móviles.
- La Web de Tarragona Turisme solamente dispone de las coordenadas de GPS,
+ La web de Tarragona Turisme solamente dispone de las coordenadas de GPS,
  mientras que Girona ofrece al usuario las coordenadas GPS y también una
- Web exclusiva (www.gironain.cat) donde los turistas pueden descargar la aplicació
-n gratuitamente.
+ web exclusiva (<www.gironain.cat>) donde los turistas pueden descargar la
+ aplicación gratuitamente.
+ 
 \end_layout
 
 \begin_layout Standard
 Las webs de Girona y Tarragona ofrecen un mapa interactivo para los turistas,
- sin embargo la página Web de Barcelona no ofrece tal recurso interactivo.
+ sin embargo, la página web de Barcelona no ofrece tal recurso interactivo.
+ 
 \end_layout
 
 \begin_layout Standard
-La Web del Patronat de Turisme de Tarragona dispone de audioguías en diferentes
+La web del Patronat de Turisme de Tarragona dispone de audioguías en diferentes
  idiomas con explicaciones y informaciones de los principales atractivos
  turísticos de la ciudad.
- El audioguía se puede identificar fácilmente en la Web, como podemos observar
+ La audioguía se puede identificar fácilmente en la web, como podemos observar
  en la figura 6.17.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4664,31 +4647,37 @@ Fuente: http://www.tarragonaturisme.cat/
 \end_layout
 
 \begin_layout Standard
-El usuario puede encontrar en la Web de Girona Turisme un tripplaner, llamado
- Girona a la carta, donde se puede añadir los atractivos turísticos en un
- listado y luego imprimirlo con las principales informaciones.
+El usuario puede encontrar en la Web de Girona Turisme un 
+\emph on
+tripplaner
+\emph default
+, llamado Girona a la carta, donde se puede añadir los atractivos turísticos
+ en un listado y luego imprimirlo con las principales informaciones.
  Barcelona y Tarragona no disponen de este tipo de servicio.
 \end_layout
 
 \begin_layout Standard
-Barcelona dispone de grupo en Facebook y además de otra Web oficial de comunidad
- virtual del destino: www.visitbarcelona.com.
- En esta Web los usuarios pueden compartir sus experiencias, fotos y vídeos
+Barcelona dispone de grupo en Facebook y, además, de otra web oficial de
+ comunidad virtual del destino: <www.visitbarcelona.com>.
+ En esta web los usuarios pueden compartir sus experiencias, fotos y vídeos
  del destino.
  Tarragona y Girona solamente ofrecen un grupo de Facebook.
+ 
 \end_layout
 
 \begin_layout Standard
-La Web de Barcelona ofrece un apartado para que los usuarios pueden dejar
+La web de Barcelona ofrece un apartado para que los usuarios pueden dejar
  sugerencias y/o comentarios.
- Los usuarios deben rellenar un formulario en la página Web de Girona Turisme
- si quieren dejar alguna sugerencia y/o comentarios.
+ Los usuarios deben rellenar un formulario en la página web de Girona Turisme
+ si quieren dejar alguna sugerencia o comentarios.
+ 
 \end_layout
 
 \begin_layout Standard
-Solamente la página Web de Girona Turisme dispone de un apartado de pregunta
+Solamente la página web de Girona Turisme dispone de un apartado de preguntas
  más frecuentes.
  Barcelona y Tarragona no disponen de esta opción.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4798,13 +4787,14 @@ En la Web del Patronat de Turisme de Tarragona algunos contenidos se pueden
 \end_layout
 
 \begin_layout Standard
-Aparte de la página Web www.barcelonaturisme.com el ente promotor de la ciudad
- también promociona Barcelona a través de la Web visitbarcelona.com (figura
- 6.18).
- En esta Web los usuarios pueden compartir experiencias, escribir comentarios,
+Aparte de la página web <www.barcelonaturisme.com>, el ente promotor de la
+ ciudad también promociona Barcelona a través de la web <visitbarcelona.com>
+ (figura 6.18).
+ En esta web los usuarios pueden compartir experiencias, escribir comentarios,
  añadir fotos y vídeos (figura 6.19).
- Las páginas webs de Tarragona y Girona no disponen de tal servicio a los
+ Las páginas web de Tarragona y Girona no disponen de tal servicio a los
  usuarios.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -4906,22 +4896,23 @@ visitbarcelona.com/
 \end_layout
 
 \begin_layout Standard
-En la página Web visitbarcelona.com el usuario debe registrarse para poder
+En la página web <visitbarcelona.com> el usuario debe registrarse para poder
  publicar comentarios, fotos y vídeos.
  Además, el usuario puede suscribirse al canal RSS para recibir actualizaciones
  cuando el contenido cambie.
- En la Web de Tarragona el usuario puede registrarse para poder tener acceso
+ En la web de Tarragona el usuario puede registrarse para poder tener acceso
  a contenidos exclusivos como: guías profesionales, estadística y estudios,
  imagen corporativa, negocios y congresos y sala de prensa.
- La página Web de Girona no ofrece este servicio, lo único que dispone es
- de un simple planificador de viaje que el usuario puede acceder sin la
- necesidad de registro.
+ La página web de Girona no ofrece este servicio, de lo único que dispone
+ es de un simple planificador de viaje al que el usuario puede acceder sin
+ la necesidad de registrarse.
+ 
 \end_layout
 
 \begin_layout Standard
-Barcelona Turisme dispone de la Web visitbarcelona.com donde los usuarios
+Barcelona Turisme dispone de la web <visitbarcelona.com> donde los usuarios
  pueden compartir experiencias e informaciones.
- En esta Web que es considerada el blog corporativo, el usuario dispone
+ En esta web que es considerada el blog corporativo, el usuario dispone
  de herramientas para compartir la información en las principales redes
  sociales (figura 6.20).
  
@@ -4977,12 +4968,13 @@ visitbarcelona.com/
 \end_layout
 
 \begin_layout Standard
-Los usuarios de la Web de Tarragona Turisme pueden compartir algunas informacion
-es de la Web en Facebook, Twitter.
+Los usuarios de la web de Tarragona Turisme pueden compartir algunas informacion
+es de la web en Facebook o Twitter.
  Tarragona dispone de un blog corporativo llamado Tarragona Experience,
- www.tarragonaturisme.cat/experience, donde el usuario puede encontrar informacion
-es sobre el turismo y actividades que se están realizando en la ciudad.
+ <www.tarragonaturisme.cat/experience>, donde el usuario puede encontrar informaci
+ones sobre el turismo y actividades que se están realizando en la ciudad.
  Girona Turisme no ofrece ninguno de estos servicios a sus usuarios.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5091,9 +5083,16 @@ Instagram
 
 \begin_layout Standard
 Los tres entes promotores de turismo de la ciudad disponen también de una
- plataforma de microblogging (Twitter).
- Los microbloggings son buenas herramientas para difundir informaciones
- sobre los destinos.
+ plataforma de 
+\emph on
+microblogging
+\emph default
+ (Twitter).
+ Los 
+\emph on
+microblogging
+\emph default
+ son buenas herramientas para difundir informaciones sobre los destinos.
  Podemos observar en las figura 6.23 que Barcelona Turisme tiene 3.250 seguidores,
  Tarragona Turisme 4.509 (figura 6.24) y Girona Turisme 5.244 seguidores (figura
  6.25).
@@ -5255,23 +5254,24 @@ twitter.com/turisme_gi
 Podemos observar en la tabla 6.11 que las tres organizaciones disponen de
  vídeos en servicios de alojamiento externo, en este caso en Youtube.
  Los turistas pueden mirar vídeos relacionados con el turismo de las ciudades
- en www.youtube.com/user/TurBcn (Barcelona Turisme), www.youtube.com/user/TGNturisme
- (Tarragona Turisme) y www.youtube.com/user/gironaturismetv (Girona Turisme).
+ en <www.youtube.com/user/TurBcn> (Barcelona Turisme), <www.youtube.com/user/TGNturi
+sme> (Tarragona Turisme) y <www.youtube.com/user/gironaturismetv> (Girona
+ Turisme).
 \end_layout
 
 \begin_layout Standard
 Los tres entes promotores de turismo de las ciudades de Barcelona, Tarragona
- y Girona disponen de una página en la principal red social, el Facebook.
+ y Girona disponen de una página en la principal red social: Facebook.
  Podemos observar en la figura 6.26 que a 15.482 personas les gusta la página
  de Barcelona Turisme en Facebook.
  A 3.156 personas les gusta la página de Facebook de Tarragona Turisme, como
  se puede observar en la figura 6.27 y solamente 731 personas les gusta la
  página de Girona Turisme (figura 6.28).
- Todos los tres entes mantienen las paginas actualizadas y con informaciones
+ Todos los entes mantienen las páginas actualizadas y con informaciones
  turísticas sobre las ciudades.
- Barcelona Turisme también dispone del blog proprio visitbarcelona.com (figura
- 6.18), donde los usuarios pueden cambiar informaciones sobre el destino,
- añadir fotos y vídeos.
+ Barcelona Turisme también dispone del blog proprio <visitbarcelona.com>
+ (figura 6.18), donde los usuarios pueden cambiar informaciones sobre el
+ destino, añadir fotos y vídeos.
 \end_layout
 
 \begin_layout Standard
@@ -5425,11 +5425,11 @@ facebook.com/Turismegi
 En la red social de recomendaciones externa Tripadvisor podemos encontrar
  opiniones de las personas que ya han visitado Barcelona, Tarragona y Girona.
  Se puede encontrar informaciones sobre hoteles, restaurantes, eventos y
- otras informaciones que los usuarios comparten y comentan en www.tripadvisor.es/T
-ourism-g187497-Barcelona_Catalonia-Vacations (Barcelona), www.tripadvisor.es/Touri
-sm-g187503-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia-Vacations
- (Tarragona) y www.tripadvisor.es/Tourism-g187499-Girona_Province_of_Girona_Catalo
-nia-Vacations (Girona).
+ otras informaciones que los usuarios comparten y comentan en <www.tripadvisor.es/
+Tourism-g187497-Barcelona_Catalonia-Vacations> (Barcelona), <www.tripadvisor.es/To
+urism-g187503-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia-Vacations>
+ (Tarragona) y <www.tripadvisor.es/Tourism-g187499-Girona_Province_of_Girona_Catal
+onia-Vacations> (Girona).
  
 \end_layout
 
@@ -5522,9 +5522,10 @@ thispagestyle{empty}
 La entrevista ha sido enviada por correo electrónico debido a incompatibilidad
  horaria del entrevistador y de los entrevistados.
  Se buscaba saber mediante la realización de la entrevista la opinión del
- entrevistado sobre la presencia de las páginas Web en internet, si la informaci
-ón ofrecida es útil y además si los entrevistados al planear un viaje buscan
- informaciones en páginas webs de los entes promotores del turismo del destino.
+ entrevistado sobre la presencia de las páginas web en internet, si la informaci
+ón ofrecida es útil y, además, si los entrevistados al planear un viaje
+ buscan informaciones en páginas web de los entes promotores del turismo
+ del destino.
  También se ha querido conocer si, a la hora de planificar un viaje, los
  entrevistados valoran de manera positiva las opiniones de turistas que
  ya hayan visitado el destino.
@@ -5535,50 +5536,48 @@ Entrevista Patronat Municipal de Turisme de Tarragona
 \end_layout
 
 \begin_layout Standard
-Las respuestas a las preguntas planteadas a la Sr.
- Gerard Castells Martí, auxiliar administrativo del Patronat Municipal de
- Turisme de Tarragona que nos ha comentado en la pregunta 1 que antes de
- viajar normalmente busca informaciones sobre el destino en las paginas
- webs oficiales de los entes promotores de la ciudad.
+Las respuestas a las preguntas planteadas al señor Gerard Castells Martí,
+ auxiliar administrativo del Patronat Municipal de Turisme de Tarragona
+ que nos ha comentado en la pregunta 1 que antes de viajar normalmente busca
+ informaciones sobre el destino en las páginas web oficiales de los entes
+ promotores de la ciudad.
  Él cree que las webs son una buena herramienta para tener información global
  de las ciudades o regiones y que ayudan a hacer una idea de los recursos
  turísticos más importantes.
 \end_layout
 
 \begin_layout Standard
-Sr.
- Gerard Castells nos ha contestado la pregunta 2 diciendo que espera encontrar
- informaciones básicas de la ciudad en las paginas webs de los destinos,
+El señor Castells nos ha contestado la pregunta 2 diciendo que espera encontrar
+ informaciones básicas de la ciudad en las páginas web de los destinos,
  como un mapa general, gastronomía, eventos entre otras informaciones.
 \end_layout
 
 \begin_layout Standard
-Le hemos preguntado en el punto 3 si él estuviera planeando un viaje a Tarragona
- si encontraría todas las informaciones necesarias en la Web de Tarragona
- Turisme.
- Sr.
- Gerard nos ha contestado afirmando que encontraría la mayoría de las informacio
-nes que necesita porque es una página Web que se actualiza constantemente
- con los principales acontecimientos que se producen en la ciudad.
+Le hemos preguntado en el punto 3 que, en el caso de que él estuviera planeando
+ un viaje a Tarragona, si encontraría todas las informaciones necesarias
+ en la web de Tarragona Turisme.
+ El señor Castells nos ha contestado afirmando que encontraría la mayoría
+ de las informaciones que necesita porque es una página web que se actualiza
+ constantemente con los principales acontecimientos que se producen en la
+ ciudad.
 \end_layout
 
 \begin_layout Standard
-En el punto 4, Sr.
- Gerard, ha calificado la Web de Tarragona Turisme con un 9 debido a su
- sencillez y facilidad para encontrar las informaciones turísticas.
+En el punto 4, el señor Castells ha calificado la web de Tarragona Turisme
+ con un 9 debido a su sencillez y facilidad para encontrar las informaciones
+ turísticas.
 \end_layout
 
 \begin_layout Standard
 Le hemos preguntado en el punto 5 si cree que la navegación es ágil y le
- hemos pedido para calificar la agilidad de navegación de la misma.
- El entrevistado comenta que la navegación por la Web es muy sencilla e
+ hemos pedido que califique la agilidad de navegación de la misma.
+ El entrevistado comenta que la navegación por la web es muy sencilla e
  instintiva y la ha calificado con un 10.
 \end_layout
 
 \begin_layout Standard
-Para Sr.
- Gerard son importante las opiniones de los turistas que ya han visitado
- el destino.
+Para el señor Castells son importantes las opiniones de los turistas que
+ ya han visitado el destino.
  Él afirma en la respuesta a la pregunta 6 que las experiencias de los usuarios
  dan una imagen más veraz del destino.
 \end_layout
@@ -5586,35 +5585,33 @@ Para Sr.
 \begin_layout Standard
 El entrevistado cree muy importante la presencia de las oficinas de turismo
  en las redes sociales.
- Podemos observar en el punto 7 donde nos comenta que las redes sociales
- son un buen termómetro para valorar los productos ofertados por los destinos
+ Podemos observar en el punto 7 que nos comenta que las redes sociales son
+ un buen termómetro para valorar los productos ofertados por los destinos
  turísticos.
 \end_layout
 
 \begin_layout Standard
-El último punto le hemos preguntado si propondría algún cambio en la página
- Web de Tarragona Turisme.
- Sr.
- Gerard Castells cree que para él como trabajador de la oficina de turismo
- de la ciudad es muy difícil proponer un cambio.
+En el último punto le hemos preguntado si propondría algún cambio en la
+ página web de Tarragona Turisme.
+ El señor Castells cree que para él, como trabajador de la oficina de turismo
+ de la ciudad, es muy difícil proponer un cambio.
  El entrevistado cree que esta pregunta debería ser direccionada a los usuarios
  finales, o sea, los turistas.
 \end_layout
 
 \begin_layout Standard
-Podemos observar que el Sr.
- Gerard Castells cree muy importante la presencia de las páginas webs en
- internet y que la información debe ser clara y concisa.
+Podemos observar que el señor Gerard Castells cree muy importante la presencia
+ de las páginas webs en Internet y que la información debe ser clara y concisa.
  El entrevistado piensa que las opiniones de los turistas que ya han visitado
- el destino es muy importante a la hora de planearse un viaje.
- Sr.
- Gerard nos ha comentado que antes de viajar busca informaciones en las
- páginas webs de los entes promotores del turismo de las ciudades.
- Por lo tanto, para el entrevistado, es importante tener una página Web
+ el destino son muy importantes a la hora de planearse un viaje.
+ El señor Castells nos ha comentado que antes de viajar busca informaciones
+ en las páginas web de los entes promotores del turismo de las ciudades.
+ Por lo tanto, para el entrevistado, es importante tener una página web
  con informaciones actualizadas y con una navegación ágil.
- También afirma ser muy importante la presencia en redes sociales ya que
- hoy en día todo el mundo menor de 35 años está conectado a las redes sociales
- y interactuan constantemente.
+ También afirma que es muy importante la presencia en redes sociales ya
+ que hoy en día todo el mundo menor de 35 años está conectado a las redes
+ sociales e interactúan constantemente.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5633,14 +5630,15 @@ A continuación se encuentran las respuestas detalladas de las preguntas.
 
 \emph on
 Normalmente sí.
- Las páginas Web de turismo de los diferentes destinos turísticos son una
+ Las páginas web de turismo de los diferentes destinos turísticos son una
  buena herramienta para tener una información global de las ciudades o regiones,
  sirven para hacerte una idea de sus recursos turísticos más importantes
  y para saber si en las fechas en las cuales se tiene previsto el viaje
  hay acontecimientos culturales o folklóricos interesantes.
- La página Web oficial juntamente con otras páginas tipo tripadvisor donde
+ La página web oficial ,juntamente con otras páginas tipo tripadvisor donde
  también se mezclan experiencias personales de visitantes que ya han estado
- antes en ese destino sirven para hacer una idea global de la ciudad.
+ antes en ese destino, sirven para hacer una idea global de la ciudad.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5654,8 +5652,9 @@ Normalmente sí.
 \begin_layout Standard
 
 \emph on
-La información básica de la ciudad, sobretodo, alojamiento, un mapa general,
+La información básica de la ciudad, sobre todo, alojamiento, un mapa general,
  gastronomía típica y acontecimientos culturales y fiestas patronales.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5671,12 +5670,13 @@ La información básica de la ciudad, sobretodo, alojamiento, un mapa general,
 
 \emph on
 Encontraría la mayoría de informaciones que necesita.
- Hay que tener en cuenta que la página Web de la oficina de turismo es una
- herramienta de servicio público con lo cual la información que da tiene
+ Hay que tener en cuenta que la página web de la oficina de turismo es una
+ herramienta de servicio público, con lo cual la información que da tiene
  que ser neutral y que sea el propio visitante el que escoja el servicio
  que prefiera.
- Además la página Web de la oficina se actualiza constantemente con los
+ Además, la página web de la oficina se actualiza constantemente con los
  principales acontecimientos que se producen en la ciudad en ese momento.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5692,11 +5692,12 @@ nes útiles para los turistas? Califique de 0 a 10.
 \emph on
 Ofrece toda la información en diferentes idiomas que un turista pueda necesitar
  para planear su estancia en la ciudad y también información útil una vez
- el visitante se encuentre ya en la ciudad sobre actividades culturales
- que suceden en ese mismo momento en la ciudad.
- Es difícil puntuar una página Web ya que la valoración puede variar dependiendo
+ el visitante se encuentre ya en la ciudad, por ejemplo, sobre actividades
+ culturales que suceden en ese mismo momento en la ciudad.
+ Es difícil puntuar una página web ya que la valoración puede variar dependiendo
  de las expectativas de cada visitante, pero, por su sencillez y facilidad
  para encontrar los contenidos, le pondría un 9.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5710,13 +5711,14 @@ Ofrece toda la información en diferentes idiomas que un turista pueda necesitar
 \begin_layout Standard
 
 \emph on
-La navegación por la página Web es muy sencilla y instintiva, que creo deben
+La navegación por la página web es muy sencilla y instintiva, que creo deben
  ser las premisas básicas de cualquier página que ofrezca información sobre
  un lugar que es una destinación turística, debe ser un primer acercamiento
  al producto y siempre debe completarse con la información que se ofrece
- en las oficinas de turismo y la atención presencial que siempre es mucho
+ en las oficinas de turismo y la atención presencial, que siempre es mucho
  más personalizada.
- En cuanto a navegación por estos motivos le daría un 10.
+ En cuanto a navegación, por estos motivos, le daría un 10.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5733,15 +5735,16 @@ ones de turistas que ya han visitado el destino? ¿Por qué?
 \begin_layout Standard
 
 \emph on
-Son básicas, las opiniones expresadas en foros de internet o páginas especializa
+Son básicas, las opiniones expresadas en foros de Internet o páginas especializa
 das, así como las experiencias contadas por conocidos nos harán decidir
  por un destino determinado o por un hotel.
- Normalmente la gente con capacidad tecnológica a través de internet, usa
+ Normalmente la gente con capacidad tecnológica a través de Internet, usa
  la red para informarse sobre hoteles, restaurantes y otras experiencias
  vividas.
  Una mala puntuación o valoración en la red descarta destinos o servicios
  y una buena opinión contrastada con otras opiniones puede decidir a favor
  de un restaurante o hotel.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5767,12 +5770,13 @@ Nos fiamos de la gente que antes ha visitado un destino, al fin y al cabo
 Sí.
  Hoy en día todo el mundo menor de 35 años está conectado a las redes sociales
  e interactúan constantemente.
- Por tanto una campaña permanente en las redes sociales permite mantenerte
+ Por tanto, una campaña permanente en las redes sociales permite mantenerte
  en la mente del consumidor potencial y mantenerlo informado de las ofertas
  del destino turístico.
- A la vez sirve para que el turista mantenga en contacto directo con los
- responsables turísticos de la zona.
- Es un buen termómetro de la valoración de los productos ofertados.
+ A la vez que sirve para que el turista se mantenga en contacto directo
+ con los responsables turísticos de la zona.
+ Es una buen termómetro de la valoración de los productos ofertados.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5788,7 +5792,8 @@ Sí.
 Como trabajador de la oficina de turismo es difícil saber la opinión del
  servicio, creo que esta es una pregunta que se debería hacer directamente
  los usuarios finales del servicio (turistas) ya que son ellos quienes deben
- responder si han encontrado lo que buscaban en la página Web.
+ responder si han encontrado lo que buscaban en la página web.
+ 
 \end_layout
 
 \begin_layout Section
@@ -5796,37 +5801,34 @@ Entrevista Oficina de Turisme de Girona
 \end_layout
 
 \begin_layout Standard
-Las respuestas a las preguntas planteadas a la Sra.
- Marina Bosch, informadora turística de la Oficina de Turisme de Girona
- que afirma que al planearse un viaje busca informaciones en las páginas
+La señora Marina Bosch, informadora turística de la Oficina de Turisme de
+ Girona, afirma que al planearse un viaje busca informaciones en las páginas
  webs de los entes promotores del turismo del destino.
 \end_layout
 
 \begin_layout Standard
-Sra.
- Marina nos contesta la pregunta 2 diciendo que espera encontrar el máximo
- de informaciones posibles en la Web de la oficina de turismo del destino.
+La señora Bosch nos contesta la pregunta 2 diciendo que espera encontrar
+ el máximo de informaciones posibles en la web de la oficina de turismo
+ del destino.
  Para ella es muy importante encontrar informaciones sobre actividades y
  eventos.
 \end_layout
 
 \begin_layout Standard
 En el punto 3 la entrevistada nos comenta que si estuviera planeando un
- viaje a Girona encontraría todas las informaciones necesarias en la Web
+ viaje a Girona encontraría todas las informaciones necesarias en la web
  de Girona Turisme.
 \end_layout
 
 \begin_layout Standard
-Sra.
- Marina Bosch cree que la página Web de Girona Turisme ofrece informaciones
- útiles para los turistas y, además, de una navegación ágil En ambos los
- puntos, 4 y 5, la entrevistada ha calificado con un 8.
+La señora Marina Bosch cree que la página web de Girona Turisme ofrece informaci
+ones útiles para los turistas y, además, una navegación ágil.
+ Los puntos 4 y 5 la entrevistada los ha calificado con un 8.
 \end_layout
 
 \begin_layout Standard
-En el punto 6, Sra.
- Marina, cree importante las opiniones de los turistas que ya han visitado
- el destino.
+En el punto 6, la señora Bosch, cree que son importantes las opiniones de
+ los turistas que ya han visitado el destino.
  Nos ha comentado que si se sabe la opinión de los mismos, el destino puede
  trabajar para mejorar los aspectos que no están funcionando.
 \end_layout
@@ -5838,9 +5840,9 @@ En el punto 7, la entrevistada cree muy importante la presencia de los entes
 \end_layout
 
 \begin_layout Standard
-Sra.
- Marina Bosch nos comenta en el punto 8 que cree que la Web de Girona Turisme
- podría ser más actual y moderna.
+La señora Marina Bosch nos comenta en el punto 8 que cree que la web de
+ Girona Turisme podría ser más actual y moderna.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5873,7 +5875,8 @@ Sí.
 \begin_layout Standard
 
 \emph on
-El máximo de información, sobretodo actividades y eventos a hacer.
+El máximo de información, sobre todo actividades y eventos para realizar.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5941,7 +5944,8 @@ Sí.
 \begin_layout Standard
 
 \emph on
-Sí para poder mejorar aspectos que no están funcionando.
+Sí, para poder mejorar aspectos que no están funcionando.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -5955,7 +5959,8 @@ Sí para poder mejorar aspectos que no están funcionando.
 \begin_layout Standard
 
 \emph on
-Sí para hacer promoción sobretodo.
+Sí, para hacer promoción, sobre todo.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -6375,6 +6380,32 @@ key "key-2"
 
 \end_inset
 
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Bibliografía}
+\end_layout
+
+\end_inset
+
 ADELL, Ramón (2007)
 \noun on
 : 
@@ -6434,6 +6465,24 @@ Publicidad 2.0.
 \end_inset
 
 [Consultada: 6 abril 2012]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-35"
+
+\end_inset
+
+BETANCORT GARCÍA, Begoña; OCÓN CARRERAS, Antonio; GALÁN MORENO, Manuel y
+ RUBIO ROYO, Enrique (2008): 
+\emph on
+Estudio de los portales turísticos de canarias como organizaciones de marketing
+ de destinos.
+ 
+\emph default
+Actas del VII Congreso Turismo y Tecnologías de la Información y las Comunicacio
+nes TURITEC 2008.
 \end_layout
 
 \begin_layout Bibliography
@@ -6509,43 +6558,533 @@ key "key-2"
 DÍAZ LUQUE, Pablo; GUEVARA PLAZA, Antonio y CAVO HERRERO, José Luiz (2004):
  
 \emph on
-Promoción turística de las Comunidades Autonomas en Internet.
+Promoción turística de las Comunidades Autónomas en Internet.
  
 \emph default
 Actas del V Congreso Turismo y Tecnologías de la Información y las Comunicacione
 s TURITEC 2004.
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-addcontentsline{toc}{chapter}{Bibliografía}
-\end_layout
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-37"
 
 \end_inset
 
-
+DÍAZ SANCHEZ, Estrella; MARTÍN-CONSUEGRA NAVARRO, David y ESTEBÁN TALAYA,
+ Águeda (2008): 
+\emph on
+Evaluación de la eficacia de las páginas web: un análisis de contenido de
+ las principales compañías aéreas.
+ A
+\emph default
+sociación Europea de Dirección y Economía de Empresa.
+ International Conference.
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-thispagestyle{empty}
-\end_layout
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-1"
 
 \end_inset
 
+DI PLACIDO, Angelo (2010): 
+\emph on
+Interactividad usuario-usuario y redes sociales online en el sector turístico.
+ Análisis de las páginas web turísticas oficiales de las administraciones
+ andaluzas.
+ 
+\emph default
+Actas del VIII Congreso Turismo y Tecnologías de la Información y las Comunicaci
+ones TURITEC 2010.
+\end_layout
 
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+ESCOBAR, Antonio y GONZÁLEZ, Yolanda (2011): 
+\emph on
+Marketing Turístico, 
+\emph default
+Síntesis, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-4"
+
+\end_inset
+
+ESTEBAN, Águeda; MARTÍN CONSUERGA, David; MILLÁN, Ángel y MOLINA, Arturo
+ (2002): 
+\emph on
+Introducción al Marketing
+\emph default
+, Ariel, Barcelona.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-5"
+
+\end_inset
+
+EUROPEAN COMISSION (2013): 
+\emph on
+Analytical report Flash Eurobarometer No 370 - Survey on the attitudes of
+ Europeans towards tourism.
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+<ec.europa.eu/public_opinion/flash/fl_370_en.pdf>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 11 abril 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-6"
+
+\end_inset
+
+FERNÁNDEZ CAVIA, José (2010): 
+\emph on
+Marcas de territorio y comunicación a través de la Web u n proyecto de investiga
+ción.
+
+\emph default
+ Actas del II Congreso Internacional AR-IC.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-34"
+
+\end_inset
+
+FERNÁNDEZ CAVIA, José; DÍAZ LUQUE, Pablo; HUERTAS, Asunción; ROVIRA, Cristófol;
+ SAN EUGENIO, Jordi; GÓMEZ, Lorena; MÍGUEZ, Maria Isabel; SICILIA, Maria;
+ GASCÓ, Mila; PEDRAZA, Rafael; MARTÍN BARBEO, Samuel; BONILLA, Sebastián;
+ TORRES, Teresa; LOZANO, Natàlia y VILLAESCUSA, Elena (2010).
+ 
+\emph on
+Propuesta de diseño de una plantilla multidisciplinar para el análisis y
+ evaluación de webs de destinos turísticos.
+
+\emph default
+ Actas del VIII Congreso Turismo y Tecnologías de la Información y las Comunicac
+iones TURITEC 2010.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-33"
+
+\end_inset
+
+FERNÁNDEZ CAVIA, José; DÍAZ LUQUE, Pablo; HUERTAS, Asunción; ROVIRA, Cristófol;
+ SAN EUGENIO, Jordi; GÓMEZ, Lorena; MÍGUEZ, Maria Isabel; SICILIA, Maria;
+ GASCÓ, Mila; PEDRAZA, Rafael; MARTÍN BARBEO, Samuel; BONILLA, Sebastián;
+ TORRES, Teresa; LOZANO, Natàlia y VILLAESCUSA, Elena (2010).
+ 
+\emph on
+Plantilla interdisciplinar de análisis de páginas Web.
+
+\emph default
+ 
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-7"
+
+\end_inset
+
+FUMERO, Antonio y ROCA, Genís (2007): 
+\emph on
+Web 2.0
+\emph default
+, Fundación Orange, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-41"
+
+\end_inset
+
+GIRONA TURISME
+\begin_inset Newline newline
+\end_inset
+
+<www.girona.cat/turisme>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 27 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+HUERTAS, Asunción; FERNÁNDEZ CAVIA, José (2006): 
+\emph on
+Ciudades en la web: usabilidad e interactividad de las paginas oficiales
+ de los destinos turísticos.
+ 
+\emph default
+Actas del VI Congreso Turismo y Tecnologías de la Información y las Comunicacion
+es TURITEC 2006.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-9"
+
+\end_inset
+
+HUERTAS, Asunción (2008): 
+\emph on
+Aplicación de la Web 2.0 a los destinos turísticos.
+ Implantación y diferencias.
+ 
+\emph default
+Actas del VII Congreso Turismo y Tecnologías de la Información y las Comunicacio
+nes TURITEC 2008.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-10"
+
+\end_inset
+
+HUERTAS, Asunción (2010): 
+\emph on
+Novedades y aplicaciones de las nuevas tecnologías al sector turístico.
+ 
+\emph default
+Actas del II Congreso Internacional AE-IC.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-11"
+
+\end_inset
+
+KOTLER, Philip; BOWEN, John; MAKEN, James; RUFÍN MORENO, Ramón y REINA PAZ,
+ Maria Dolores (2004): 
+\emph on
+Marketing para turismo
+\emph default
+, Prentice Hall, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-12"
+
+\end_inset
+
+LAMARCA LAPUNTE, Maria Jesús.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Hipertexto: El nuevo concepto de documento en la cultura de la imagen
+\begin_inset Quotes erd
+\end_inset
+
+, Facultad de Ciencias de la Información de la Universidad Complutense de
+ Madrid, Madrid [Tesis Doctoral, 2006].
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-14"
+
+\end_inset
+
+LOOKINSIDE TRAVEL (2001) 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph default
+Estudio sobre el viajero español
+\begin_inset Quotes erd
+\end_inset
+
+, Colaboración de Google TravelSpain, Instituto de Estudios Turísticos Exceltur.
+\begin_inset Newline newline
+\end_inset
+
+<www.lookinside.travel/resources/Lookinside%202011%20Final_Spanish.pdf>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 11 abril 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-39"
+
+\end_inset
+
+MARTÍNEZ CARO, Laura; VILLALBA TRUJILLO, Raquel y MARTÍNEZ MARÍA-DOLORES,
+ Soledad María (2012): 
+\emph on
+Análisis regional de las empresas on-line de promoción turística en España.
+ 
+\emph default
+Actas del IX Congreso Turismo y Tecnologías de la Información y las Comunicacion
+es TURITEC 2012.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-15"
+
+\end_inset
+
+MEERMAN SCOTT, David (2010): 
+\emph on
+Las nuevas reglas del marketing.
+ Como utilizar las redes sociales, blogs, vídeos en línea y marketing viral
+ para llegar directamente al comprador
+\emph default
+, Anaya Multimedia, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-16"
+
+\end_inset
+
+NAFRÍA, Ismael (2007): 
+\emph on
+Web 2.0.
+ El usuario el nuevo rey de Internet
+\emph default
+, 4ª ed., Gestión 2000, Barcelona.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-17"
+
+\end_inset
+
+O'REILLY, Tim (2005): 
+\begin_inset Quotes eld
+\end_inset
+
+What Is Web 2.0.
+ Design Patterns and Business Models for the Next Generation of Software
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+<oreilly.com/web2/archive/what-is-web-20.html>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 11 febrero 2012]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-21"
+
+\end_inset
+
+PRIETO ESPINOSA, Alberto (2002): 
+\emph on
+Introducción a la informática
+\emph default
+, 3ª ed., MacGraw-Hill, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-22"
+
+\end_inset
+
+RODRÍGUEZ ARDURA, Inma (2008): 
+\emph on
+Marketing.com y comercio electrónico en la sociedad de la información
+\emph default
+, Pirámide, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-23"
+
+\end_inset
+
+REAL ACADEMIA ESPAÑOLA
+\begin_inset Newline newline
+\end_inset
+
+<www.rae.es>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 5 febrero 2012]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-24"
+
+\end_inset
+
+ROVIRA, Cristófol; FERNÁNDEZ CAVIA, José; PEDRAZA JIMÉNEZ, Rafael y HUERTAS,
+ Asunción (2010): 
+\begin_inset Quotes eld
+\end_inset
+
+Posicionamiento en buscadores de las webs oficiales de capitales de provincia
+ española
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\emph on
+El profesional de la información
+\emph default
+, vol, 19, nº 3, pp.
+ 277-284.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-25"
+
+\end_inset
+
+SANCHO, Amparo y SANZ, Elena (2010): 
+\emph on
+La implementación de un sistema de gestión de destinos como estrategia de
+ diferenciación y competitividad en destinos maduros.
+ El caso de Gandía.
+ 
+\emph default
+Actas del VIII Congreso Turismo y Tecnologías de la Información y las Comunicaci
+ones TURITEC 2010.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-26"
+
+\end_inset
+
+SCOLARI, Carlos y PARDO KUKLINSKI, Hugo(2006): 
+\emph on
+Web 2.0.
+ Caos conceptual y nuevos mitos en el discurso cibercultural.
+ 
+\emph default
+IX Congreso IBERCOM el espacio iberoamericano de comunicación en la era
+ digital, Universidad de Sevilla, Sevilla.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-28"
+
+\end_inset
+
+TANENBAUM, Andrew S.
+ (2003): 
+\emph on
+Redes de Computadoras
+\emph default
+, 4ª ed., Pearson Educación, México.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-40"
+
+\end_inset
+
+TARRAGONA TURISME
+\begin_inset Newline newline
+\end_inset
+
+<www.tarragonaturisme.cat>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 17 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-29"
+
+\end_inset
+
+TURISME DE BARCELONA
+\begin_inset Newline newline
+\end_inset
+
+<www.barcelonaturisme.com>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 10 marzo 2013]
 \end_layout
 
 \begin_layout Chapter*
