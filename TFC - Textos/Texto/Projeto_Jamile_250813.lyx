@@ -186,7 +186,11 @@ Análisis de las webs turísticas:
 \end_layout
 
 \begin_layout Subtitle
-El caso de Barcelona, Tarragona y Girona
+El caso de Turisme de Barcelona, Tarragona Turisme
+\begin_inset Newline newline
+\end_inset
+
+ y Girona Turisme
 \end_layout
 
 \begin_layout Standard
@@ -5722,6 +5726,13 @@ La navegación por la página web es muy sencilla y instintiva, que creo deben
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
 6.
@@ -6739,6 +6750,24 @@ FUMERO, Antonio y ROCA, Genís (2007):
 Web 2.0
 \emph default
 , Fundación Orange, Madrid.
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-9"
+
+\end_inset
+
+GIRONA INN - CONNECTA AM LA CIUTAT DE GIRONA
+\begin_inset Newline newline
+\end_inset
+
+<www.iconcity.cat/gironain>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 27 marzo 2013]
 \end_layout
 
 \begin_layout Bibliography

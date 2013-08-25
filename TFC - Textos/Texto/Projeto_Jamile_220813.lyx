@@ -2740,7 +2740,7 @@ migas de pan
 \begin_inset Quotes eld
 \end_inset
 
-hilos de Ariafna
+hilos de Ariadna
 \begin_inset Quotes erd
 \end_inset
 
@@ -6419,6 +6419,24 @@ Paidós, Barcelona.
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "key-3"
+
+\end_inset
+
+ALEXA
+\begin_inset Newline newline
+\end_inset
+
+<www.alexa.com>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 27 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "key-6"
 
 \end_inset
@@ -6726,6 +6744,42 @@ Web 2.0
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "key-9"
+
+\end_inset
+
+GIRONA INN - CONNECTA AM LA CIUTAT DE GIRONA
+\begin_inset Newline newline
+\end_inset
+
+<www.iconcity.cat/gironain>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 27 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-8"
+
+\end_inset
+
+GIRONA.NET - GUIA TURÍSTICA DE LA CIUDAD DE GIRONA
+\begin_inset Newline newline
+\end_inset
+
+<www.girona.net>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 27 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "key-41"
 
 \end_inset
@@ -6823,6 +6877,28 @@ Hipertexto: El nuevo concepto de documento en la cultura de la imagen
 
 , Facultad de Ciencias de la Información de la Universidad Complutense de
  Madrid, Madrid [Tesis Doctoral, 2006].
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-2"
+
+\end_inset
+
+
+\emph on
+BROKEN LINK CHECKER TOOL
+\emph default
+
+\begin_inset Newline newline
+\end_inset
+
+<www.linkchecker.submitexpress.com/>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 26 marzo 2013]
 \end_layout
 
 \begin_layout Bibliography
@@ -7054,6 +7130,24 @@ Redes de Computadoras
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "key-5"
+
+\end_inset
+
+TARRACO TICKET
+\begin_inset Newline newline
+\end_inset
+
+<www.tarracoticket.cat>
+\begin_inset Newline newline
+\end_inset
+
+[Consultada: 17 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "key-40"
 
 \end_inset
@@ -7072,6 +7166,24 @@ TARRAGONA TURISME
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
+key "key-1"
+
+\end_inset
+
+TAW (Test Accesibilidad Web)
+\begin_inset Newline newline
+\end_inset
+
+<www.tawdis.net>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 26 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
 key "key-29"
 
 \end_inset
@@ -7081,6 +7193,24 @@ TURISME DE BARCELONA
 \end_inset
 
 <www.barcelonaturisme.com>
+\begin_inset Newline newline
+\end_inset
+
+[Última consulta: 10 marzo 2013]
+\end_layout
+
+\begin_layout Bibliography
+\begin_inset CommandInset bibitem
+LatexCommand bibitem
+key "key-4"
+
+\end_inset
+
+VISIT BARCELONA
+\begin_inset Newline newline
+\end_inset
+
+<www.visitbarcelona.com>
 \begin_inset Newline newline
 \end_inset
 
