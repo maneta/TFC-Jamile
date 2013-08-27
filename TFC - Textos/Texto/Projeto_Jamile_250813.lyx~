@@ -186,7 +186,11 @@ Análisis de las webs turísticas:
 \end_layout
 
 \begin_layout Subtitle
-El caso de Turisme de Barcelona, Tarragona Turisme y Girona Turisme
+El caso de Turisme de Barcelona, Tarragona Turisme
+\begin_inset Newline newline
+\end_inset
+
+ y Girona Turisme
 \end_layout
 
 \begin_layout Standard
@@ -579,9 +583,9 @@ setcounter{page}{10}
 \begin_layout Standard
 Internet es una herramienta valiosa en la comercialización de productos
  y servicios.
- Tal como dice Fernández-Cavia, Huertas y Díaz-Luque (citado en Huertas
- y otros, 2010:2) en la presente era de la globalización y el acceso masivo
- a la información, los sitios Web se han revelado como un instrumento clave
+ Tal como dicen Fernández-Cavia, Huertas y Díaz-Luque (citado en Huertas
+ y otros, 2010:2), en la presente era de la globalización y el acceso masivo
+ a la información, los sitios web se han revelado como un instrumento clave
  para la comunicación de las marcas de destino y para la comercialización
  de todo tipo de servicios y productos relacionados con ellas.
  Internet ha tenido un rápido crecimiento, lo que ha provocado una profunda
@@ -590,15 +594,15 @@ Internet es una herramienta valiosa en la comercialización de productos
 \end_layout
 
 \begin_layout Standard
-Los avances tecnológicos han influenciado las empresas turísticas, sobretodo
- en la manera que distribuyen sus productos en el mercado.
+Los avances tecnológicos han influenciado a las empresas turísticas, sobre
+ todo en la manera en que distribuyen sus productos en el mercado.
  En la actualidad, el usuario está más informado y es más exigente, actuando
  cada vez más por si solo en las búsquedas a través de Internet de información
  sobre destinos turísticos.
  Por este motivo Internet se ha convertido en una herramienta imprescindible
  en nuestros días.
- En este trabajo de investigación buscamos analizar las páginas webs de
- los entes promotores de turismo de las capitales de las provincias costeras
+ En este trabajo de investigación buscamos analizar las páginas web de los
+ entes promotores de turismo de las capitales de las provincias costeras
  de Cataluña, Barcelona, Tarragona y Girona.
  Las tres capitales reciben muchos turistas durante todo el año, lo que
  resulta una importancia económica para la región.
@@ -608,44 +612,38 @@ Los avances tecnológicos han influenciado las empresas turísticas, sobretodo
 \begin_layout Standard
 El objetivo principal de la investigación que presentamos es analizar el
  grado de usabilidad, interactividad, accesibilidad y presencia en la Web
- 2.0 de las páginas Web de los entes promotores de turismos de las ciudades
+ 2.0 de las páginas web de los entes promotores de turismo de las ciudades
  de Barcelona, Tarragona y Girona.
 \end_layout
 
 \begin_layout Standard
-En la primera parte del trabajo el lector va encontrar una recorrido en
- la historia de Internet, comentando de donde ha surgido esta herramienta,
- como ésta se fue desarrollando para llegar a lo que es hoy en día y también
- su definición desde el punto de vista de varios autores.
+En la primera parte del trabajo el lector va encontrar una recorrido por
+ la historia de Internet en la que se comenta de dónde ha surgido esta herramien
+ta, cómo esta se fue desarrollando para llegar a lo que es hoy en día y
+ también su definición desde el punto de vista de varios autores.
 \end_layout
 
 \begin_layout Standard
-El siguiente apartado del Marco Teórico habla de la 
-\emph on
-World Wide Web
-\emph default
-, que es nuestro objeto de análisis.
- Comentamos de donde ha surgido la 
-\emph on
-World Wide Web
-\emph default
-, sus definiciones según el punto de vista de la Real Academia Española
- y de varios autores expertos sobre el tema.
+El siguiente apartado del Marco Teórico habla de la World Wide Web, que
+ es nuestro objeto de análisis.
+ Comentamos de donde ha surgido la World Wide Web, sus definiciones según
+ el punto de vista de la Real Academia Española y de varios autores expertos
+ sobre el tema.
  En este capítulo discutimos el cambio que ha tenido la Web desde su creación
  hasta los días actuales, utilizando las ideas de Nafría (2007), Cobo y
  Pardo (2007) y Fumero y Roca (2007).
  La Web ha pasado por una gran transformación a lo largo de los años, dejando
- de ser unidireccional, donde los usuarios solamente recibían la información,
- pasando a ser bidireccional, donde el papel del emisor y receptor acaban
+ de ser unidireccional, cuando los usuarios solamente recibían la información,
+ pasando a ser bidireccional, en que el papel del emisor y receptor acaban
  mezclándose.
- La fase unidireccional de la Web podemos llamar de Web 1.0 y la fase bidireccion
-al de Web 2.0.
+ La fase unidireccional de la Web podemos llamarla Web 1.0 y la fase bidirecciona
+l Web 2.0.
  
 \end_layout
 
 \begin_layout Standard
 O'Reilly (2005), el creador del concepto Web 2.0, nos explica en esta parte
- del trabajo la definición de Web 2.0 y sus 7 principales características:
+ del trabajo la definición de Web 2.0 y sus siete principales características:
  la Web como plataforma de trabajo, el fortalecimiento de la inteligencia
  colectiva, la gestión de las bases de datos como competencia básica, el
  fin del ciclo de las actualizaciones de versiones de software, los modelos
@@ -655,25 +653,48 @@ O'Reilly (2005), el creador del concepto Web 2.0, nos explica en esta parte
 \end_layout
 
 \begin_layout Standard
-En el siguiente punto se habla de marketing y sus definiciones.
- En este capítulo comentamos que en 1975, con la publicación del artículo
- de Bagozzi, 
+En el siguiente punto se habla de 
 \emph on
-Marketing as Echange, 
+marketing
 \emph default
-ha surgido el primer concepto de marketing.
- Hoy al hablar de marketing encontramos una infinidad de conceptos y definicione
-s.
- En esta parte del trabajo discutimos las diversas ideas y conceptos de
- marketing de los autores Esteban y otros (2002), Adell (2007) y Atlés (1993).
+ y sus definiciones.
+ En este capítulo comentamos que en 1975, con la publicación del artículo
+ de Bagozzi, “
+\emph on
+Marketing as Exchange
+\emph default
+”, ha surgido el primer concepto de 
+\emph on
+marketing
+\emph default
+.
+ Hoy, al hablar de 
+\emph on
+marketing
+\emph default
+ encontramos una infinidad de conceptos y definiciones.
+ En esta parte del trabajo confrontamos las diversas ideas y conceptos de
+ 
+\emph on
+marketing
+\emph default
+ de los autores Esteban y otros (2002), Adell (2007) y Atlés (1993).
  
 \end_layout
 
 \begin_layout Standard
-Siguiendo con el Marketing, en el siguiente punto del Marco Teórico, hacemos
- una relación del Marketing y el turismo, explicando las características
- particulares de los servicios: la intangibilidad, el carácter indisociable,
- la variabilidad y el carácter perecedero.
+Siguiendo con el 
+\emph on
+Marketing
+\emph default
+, en el siguiente punto del Marco Teórico, hacemos una relación entre el
+ 
+\emph on
+Marketing
+\emph default
+ y el turismo, explicando las características particulares de los servicios:
+ la intangibilidad, el carácter indisociable, la variabilidad y el carácter
+ perecedero.
  Kotler y otros (2004) nos definen las cuatro características del servicio
  de una manera simple, diciendo que los servicios no se pueden ver, probar,
  sentir, oír y oler antes de la compra.
@@ -681,55 +702,66 @@ Siguiendo con el Marketing, en el siguiente punto del Marco Teórico, hacemos
  para venderlos o utilizarlos más tarde.
  La calidad de los servicios depende de quién, cuándo, dónde y cómo los
  proporcione.
- El autor Lynn (1977) ya comentaba que los profesionales del marketing de
- servicios deben buscar una manera de hacer tangible el servicio.
+ El autor Lynn (1977) ya comentaba que los profesionales del 
+\emph on
+marketing
+\emph default
+ de servicios deben buscar una manera de hacer tangible el servicio.
  Debido a las características particulares de los servicios, el autor Kotler
- y otros (2004), nos comenta que hay que buscar factores que contribuyan
- a tangibilizar el servicio, como por ejemplo, utilizar material de promoción,
- la apariencia de los empleados y el entorno físico de la empresa.
+ y otros (2004), nos comenta que hay que buscar factores que contribuyen
+ a hacer tangible el servicio, como por ejemplo, utilizar material de promoción,
+ la apariencia de los empleados o el entorno físico de la empresa.
 \end_layout
 
 \begin_layout Standard
-El Marco Teórico termina hablando del Marketing de destinos turísticos y
- páginas Web, tema central de este Trabajo de Fin de Carrera.
+El Marco Teórico termina hablando del 
+\emph on
+Marketing
+\emph default
+ de destinos turísticos y páginas web, tema central de este Trabajo de Fin
+ de Carrera.
  Se explica cómo Internet se ha convertido en un canal de extraordinaria
  importancia para hacer transacciones, compartir informaciones y comunicarse.
  Antes de la Web, los destinos turísticos sólo contaban con escasos medios
- para atraer la atención de los turistas, y con la llegada de la Web ha
- cambiado las normas del Marketing.
+ para atraer la atención de los turistas, y con la llegada de la Web han
+ cambiado las normas del 
+\emph on
+Marketing
+\emph default
+.
  La Internet puede mejorar la satisfacción de un cliente ya que le deja
  acceder a los servicios cuándo y dónde le apetezca.
 \end_layout
 
 \begin_layout Standard
-En este apartado se comenta que uno do los usos más importantes de internet
+En este apartado se comenta que uno de los usos más importantes de Internet
  es la comunicación, la Web se ha convertido en un canal de comunicación
  instantáneo y mundial.
  La difusión de las tecnologías de la información y comunicación ha ocasionado
  la modificación de la conducta de los viajeros actuales, creando un nuevo
  perfil de turista: menos interesado en los paquetes turísticos tradicionales,
- más exigente y sofisticado, y habituado a dirigirse directamente a los
- proveedores.
- Las Web no sirven solo para sacar informaciones, sino que a través de ella
- se puede atraer, convencer y ayudar a la hora de escoger el destino e inclusive
- permite al turista realizar consultas reservas y compras de manera rápida
+ más exigente y sofisticado y habituado a dirigirse directamente a los proveedor
+es.
+ Las web no sirven solo para sacar informaciones, sino que a través de ellas
+ se puede atraer, convencer y ayudar a la hora de escoger el destino e incluso
+ permite al turista realizar consultas, reservas y compras de manera rápida
  y sencilla.
- Una página Web con informaciones útiles y presentada de manera atractiva
+ Una página web con informaciones útiles y presentada de manera atractiva
  ayuda en el proceso de decisión del destino turístico.
  Se comenta en este apartado que, en el ámbito de los destinos turísticos,
  una página Web con opiniones y experiencias de los usuarios con comentarios
- emocionantes y fotografías, pueden motivar y persuadir mucho más que un
- folleto turístico.
+ emocionantes y fotografías puede motivar y persuadir mucho más que un folleto
+ turístico.
  
 \end_layout
 
 \begin_layout Standard
 Después del Marco Teórico encontramos el capítulo de la Metodología, donde
- se explica el método utilizado en la elaboración del trabajo que ha sido
- el cualitativo aplicando la técnica documental complementada con entrevistas.
+ se explica el método utilizado en la elaboración del trabajo, que ha sido
+ el cualitativo, aplicando la técnica documental complementada con entrevistas.
  En este punto se detalla el tipo y modelo que se ha utilizado para el análisis
- de las página webs, las variables utilizadas para valorar las informaciones,
- los requisitos para la elección de las página webs de los entes promotores
+ de las páginas web, las variables utilizadas para valorar las informaciones,
+ los requisitos para la elección de las páginas web de los entes promotores
  de turismo, el modelo de entrevista realizada, además de la forma como
  se ha realizado la misma.
  También se explica lo que se pretendía saber con las respuestas de las
@@ -738,9 +770,9 @@ Después del Marco Teórico encontramos el capítulo de la Metodología, donde
 
 \begin_layout Standard
 Buscamos analizar por medio de las entrevistas la opinión del entrevistado
- sobre la presencia de las páginas Web en internet, si la información ofrecida
+ sobre la presencia de las páginas web en Internet, si la información ofrecida
  es útil y además si los entrevistados al planear un viaje buscan informaciones
- en páginas webs de los entes promotores del turismo del destino.
+ en páginas web de los entes promotores del turismo del destino.
  También se ha querido conocer si, a la hora de planificar un viaje, los
  entrevistados valoran de manera positiva las opiniones de turistas que
  ya hayan visitado el destino.
@@ -748,20 +780,20 @@ Buscamos analizar por medio de las entrevistas la opinión del entrevistado
 
 \begin_layout Standard
 El siguiente punto del trabajo es el Análisis de los Datos, donde se presentan
- los resultados del análisis de las tres páginas Web de Barcelona Turisme,
+ los resultados del análisis de las tres páginas web de Barcelona Turisme,
  Tarragona Turisme y Girona Turisme a través de tablas y gráficos.
  En este apartado se realiza un análisis comparativo, relacionando y comentando
  los resultados obtenidos.
- Además de exponer las respuestas a las preguntas de las entrevistas y se
+ Además de exponer las respuestas a las preguntas de las entrevistas se
  analizan las opiniones dadas por los entrevistados.
 \end_layout
 
 \begin_layout Standard
 Las Conclusiones es el apartado final del trabajo, donde se exponen las
  ideas a las que se ha llegado mediante la realización de este trabajo y
- propuestas de mejorías, seguido por las Bibliografías consultadas relacionadas
+ propuestas de mejora, seguido por la Bibliografía consultada relacionada
  con los temas desarrollados y los Anexos, donde el lector podrá encontrar
- la plantilla interdisciplinar de análisis de páginas Web, además del modelo
+ la plantilla interdisciplinar de análisis de páginas web, además del modelo
  de entrevista realizada.
 \end_layout
 
@@ -770,10 +802,9 @@ Es importante mencionar la dificultad encontrada a la hora de contactar
  con la empresa Turisme de Barcelona.
  Se ha contactado con la Oficina de Turismo de Barcelona para enviar la
  entrevista y solicitar las respuestas a las 8 preguntas propuestas.
- Lamentablemente no hemos tenido respuesta satisfactoria de la parte de
- Turisme de Barcelona, la empresa afirmaba que las preguntas propuestas
- deberían ser dirigidas a los turistas, lo que ha resultado en la imposibilidad
- de tener una opinión de la parte de los mismos.
+ Lamentablemente no hemos tenido respuesta satisfactoria por parte de Turisme
+ de Barcelona, la empresa afirmaba que las preguntas propuestas deberían
+ ser dirigidas a los turistas, así que ha sido imposible contar con su opinión.
 \end_layout
 
 \begin_layout Chapter
@@ -5722,6 +5753,13 @@ La navegación por la página web es muy sencilla y instintiva, que creo deben
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
 6.
@@ -6015,124 +6053,113 @@ thispagestyle{empty}
 
 \begin_layout Standard
 Al iniciar este Trabajo de Fin de Carrera, teníamos como objetivo principal
- analizar la eficacia de las páginas Web de los entes promotores de turismo
+ analizar la eficacia de las páginas web de los entes promotores de turismo
  de las ciudades de Barcelona, Tarragona y Girona estudiando si el contenido
- de estas páginas Web facilita una comunicación informativa interactiva.
+ de estas páginas web facilita una comunicación informativa interactiva.
  Este objetivo se ha desarrollado partiendo del planteamiento teórico de
- los conceptos de marketing y turismo para posteriormente aplicar un análisis
- de contenido de las páginas webs de Barcelona Turisme, Tarragona Turisme
+ los conceptos de marketing y turismo para, posteriormente, aplicar un análisis
+ de contenido de las páginas web de Barcelona Turisme, Tarragona Turisme
  y Girona Turisme.
  Se ha complementado el análisis con entrevistas con los profesionales que
  trabajan en las organizaciones promotoras de turismo de dichas ciudades,
- con la finalidad de saber la opinión sobre la presencia de las páginas
- Web en Internet y si la información ofrecida es útil.
+ con la finalidad de saber la opinión sobre la presencia de estas páginas
+ web en Internet y si la información ofrecida en estas es útil.
  Además de saber si los entrevistados valoran de manera positiva la posibilidad
- de interacción en una página Web de un destino turístico.
+ de interacción en una página web de un destino turístico.
  De este modo, los resultados de este trabajo ofrecen diversas conclusiones
  relevantes.
 \end_layout
 
 \begin_layout Standard
-Las tres páginas Web tienen una buena página de inicio, aunque no ofrecen
- a posibilidad de registrarse para utilizar servicios de la página Web.
- Con lo cual, la información que se obtiene por parte del usuarios es mínima.
+Las tres páginas web tienen una buena página de inicio, aunque no ofrecen
+ la posibilidad de registrarse para utilizar servicios de la página web.
+ Con lo cual, la información que se obtiene por parte del usuario es mínima.
  
 \end_layout
 
 \begin_layout Standard
-Las tres páginas Web analizadas no ofrecen un rediseño de la home según
+Las tres páginas web analizadas no ofrecen un rediseño de la home según
  el usuario por idiomas, o sea, no disponen de una reestructuración de contenido
  más allá de la traducción.
- Tampoco es posible escoger el perfil de turista, no se puede elegir perfiles
- de turistas distintos como familiar, joven, business...
+ Tampoco es posible escoger el perfil de turista, es decir, no se pueden
+ elegir perfiles de turistas distintos como familiar, joven, negocios...
 \end_layout
 
 \begin_layout Standard
-La presencia de las FAQs y ayuda al usuario es muy importante en una página
+La presencia de las FAQ y ayuda al usuario son muy importantes en una página
  de inicio, pero solamente Girona ofrece respuestas a las preguntas más
  frecuentes de los turistas.
  Esta herramienta puede ayudar a solucionar dudas directamente a través
- de la Web y ahorrar tiempo en contestando correos electrónicos o el teléfono.
+ de la web y ahorrar tiempo contestando correos electrónicos y llamadas
+ telefónicas.
  
 \end_layout
 
 \begin_layout Standard
 En relación a la calidad y cantidad de contenido las tres páginas Web analizadas
- poseen una buena calidad de información, con contenidos actualizados y
- completos.
+, hay que decir poseen una buena calidad de información, con contenidos
+ actualizados y completos.
 \end_layout
 
 \begin_layout Standard
-En general las páginas Web de Barcelona Turisme, Tarragona Turisme y Girona
+En general las páginas web de Barcelona Turisme, Tarragona Turisme y Girona
  Turisme disponen de una buena estructura de la información.
- Las páginas Web de Barcelona Turisme y Tarragona Turisme podrían implementar
+ Las páginas web de Barcelona Turisme y Tarragona Turisme podrían implementar
  la orientación del usuario en la navegación, o sea, indicar al usuario,
- normalmente en formas de 
-\begin_inset Quotes eld
-\end_inset
-
-migas de pan
-\begin_inset Quotes erd
-\end_inset
-
- o 
-\begin_inset Quotes eld
-\end_inset
-
-hilos de Ariadna
-\begin_inset Quotes erd
-\end_inset
-
- (
+ normalmente en formas de “migas de pan” o “hilos de Ariadna” (
 \emph on
 breadcrumbs
 \emph default
-), en qué lugar de la página Web se encuentra, y le permitir deshacer su
+), en qué lugar de la página web se encuentra, y permitirle deshacer su
  navegación.
  
 \end_layout
 
 \begin_layout Standard
-La cuestión de la usabilidad está bien tratada, haciendo con que la página
- Web sea fácil para ser usada, rápida, agradable y atractiva a los usuarios,
- aunque no tienen tan en cuenta el importante aspecto de los idiomas y de
- las versiones culturales adaptadas.
+La cuestión de la usabilidad está bien tratada, haciendo que la página Web
+ sea fácil de usar, rápida, agradable y atractiva a los usuarios, aunque
+ no tienen tan en cuenta el importante aspecto de los idiomas y de las versiones
+ culturales adaptadas.
  El estudio de Tsikriktsis (2002) (citado en Huertas y Fenández Cavia, 2006)
  revela la importancia de la adaptación idiomática-cultural de las páginas
- Web a los usuarios, demostrando el impacto positivo en la impresión que
- éstos poseen de la página Web y de su contenido.
+ web a los usuarios, demostrando el impacto positivo en la impresión que
+ estos poseen de la página web y de su contenido.
  Por tanto, se aconsejan estrategias localizadas de comunicación, adaptando
  el contenido culturalmente de las páginas Web de Barcelona Turisme, Tarragona
  Turisme y Girona Turisme.
  De esta manera las organizaciones promotoras de turismo de dichas ciudades
- pueden crear páginas Web más usables para usuarios de diferentes culturas.
+ pueden crear páginas web más usables para usuarios de diferentes culturas.
  
 \end_layout
 
 \begin_layout Standard
 Todos sabemos la relevancia que tiene en el sector turístico la utilización
  de idiomas.
- Para que las páginas Web sean comprensibles para el mayor numero de personas
+ Para que las páginas web sean comprensibles para el mayor número de personas
  deberán tener versiones en diversos idiomas.
  A pesar de que se están analizando empresas turísticas, tan sólo se utilizan
- el inglés y el francés en las páginas Web de Barcelona Turisme y Girona
+ el inglés y el francés en las páginas web de Barcelona Turisme y Girona
  Turisme.
- La página Web de Tarragona Turisme, además del inglés y francés, utiliza
+ La página web de Tarragona Turisme, además del inglés y francés, utiliza
  el italiano, alemán y ruso.
  
 \end_layout
 
 \begin_layout Standard
-Se ha podido observar que las tres páginas Web analizadas tienen un nivel
+Se ha podido observar que las tres páginas web analizadas tienen un nivel
  de accesibilidad alto, con tamaño de fuentes adecuadas, contraste fuente-fondo
- y no hay la necesidad de tener que instalar plugins adicionales.
- Todas las tres páginas Web disponen de nivel de adecuación AA, lo cual
- es un indicar de la accesibilidad de la página Web.
+ y no hay la necesidad de tener que instalar 
+\emph on
+plugins
+\emph default
+ adicionales.
+ Las tres páginas web disponen de nivel de adecuación AA, lo cual es un
+ indicador de la accesibilidad de la página Web.
 \end_layout
 
 \begin_layout Standard
-Las tres páginas Web analizadas disponen del logotipo de la marca presente
- en las páginas Web, lo que hace con que el usuario siempre visualice la
+Las tres páginas web analizadas disponen del logotipo de la marca presente
+ en las páginas web, lo que hace con que el usuario siempre visualice la
  marca del destino.
  Solamente Barcelona Turisme posee una descripción del significado de su
  logotipo, pero ofrece tal información únicamente en catalán.
@@ -6140,9 +6167,13 @@ Las tres páginas Web analizadas disponen del logotipo de la marca presente
 \end_layout
 
 \begin_layout Standard
-El sistema de comercialización de las páginas Web analizadas es muy limitado.
+El sistema de comercialización de las páginas web analizadas es muy limitado.
  Tarragona Turisme no ofrece a los usuarios la opción de reservar alojamiento
- online, solamente dispone de un listado de los alojamientos con informaciones
+ 
+\emph on
+online
+\emph default
+, solamente dispone de un listado de los alojamientos con informaciones
  completas de contacto, como se ha comentado en el apartado 6.7.
 \end_layout
 
@@ -6151,61 +6182,61 @@ Turisme de Barcelona dispone del enlace llamado BCNSHOP para que los turistas
  puedan hacer las reservas de hoteles, compras de entradas y tickets, compras
  de visitas y tours.
  La parte de reservas de alojamiento no funciona perfectamente, lo que puede
- generar dudas en la hora de reservar un hotel a través de la página Web.
- Se ha hecho una prueba con el buscador de hoteles de la página Web de Barcelona
+ generar dudas a la hora de reservar un hotel a través de la página web.
+ Se ha hecho una prueba con el buscador de hoteles de la página web de Barcelona
  Turisme.
  Al buscar un hotel a través del buscador de alojamientos, el usuario puede
  encontrar una breve descripción del hotel, los datos de contacto, localización
  y los servicios que ofrece.
- Para describir los servicios ofrecidos por los hoteles se ha utilizado
+ Para describir los servicios ofrecidos por los hoteles se han utilizado
  símbolos.
  Es posible reservar el alojamiento y efectuar el pago con tarjeta de crédito
- (visa, mastercard, diners club, discover) o con la cuenta de paypal.
- Para que la reserva se confirme es necesario pagar un 10% del importe total,
+ (Visa, Mastercard, Diners Club, Discover) o con una cuenta Paypal.
+ Para que la reserva se confirme es necesario pagar un 10% del importe total
  aproximadamente.
  Entretanto, no es posible obtener un informe de disponibilidad de los hoteles.
 \end_layout
 
 \begin_layout Standard
-Se ha probado buscar un hotel utilizando el buscador de alojamiento de la
- página Web de Turisme de Barcelona el día 03/02/13 en Barcelona para 2
- adultos con fecha de entrada el 22/05/13 para 5 noches, el buscador no
+Se ha intentado buscar un hotel utilizando el buscador de alojamiento de
+ la página web de Turisme de Barcelona el día 03/02/13 en Barcelona para
+ 2 adultos con fecha de entrada el 22/05/13 para 5 noches, el buscador no
  ha encontrado ninguna opción de alojamiento.
  Hemos cambiado los datos para una fecha más aproximada a la del día que
  se ha realizado la búsqueda y resulta que el sistema ha encontrado hoteles
  disponibles.
  Hasta 1 mes y medio a partir de la fecha de búsqueda el sistema ha sido
  capaz de encontrar hoteles.
- Entretanto, no es posible encontrar alojamiento en Barcelona con 2 o más
+ En cambio, no es posible encontrar alojamiento en Barcelona con 2 o más
  meses de antelación a través del buscador de alojamiento.
  Por tanto, se recomienda una revisión de este sistema de reservas.
- Es muy importante para una página Web de un destino turístico que los turistas
+ Es muy importante para una página web de un destino turístico que los turistas
  puedan tener el máximo de confianza en la información que recibe, problemas
- técnicos como estos pueden generar incertidumbre por la parte del usuario.
+ técnicos como estos pueden generar incertidumbre por parte del usuario.
 \end_layout
 
 \begin_layout Standard
-Un factor que puede determinar el éxito de una página Web es la posición
+Un factor que puede determinar el éxito de una página web es la posición
  que ocupe en los buscadores de Internet.
- Se ha observado que las webs analizadas tienen buena posición en los buscadores
+ Se ha observado que las web analizadas tienen buena posición en los buscadores
  y utilizan las principales técnicas de SEO.
 \end_layout
 
 \begin_layout Standard
-Se puede afirmar que las páginas Web analizadas en este Trabajo Fin de Carrera
+Se puede afirmar que las páginas web analizadas en este Trabajo Fin de Carrera
  disponen de una mejor estructura (arquitectura de la información), diseño
  y usabilidad, que interactividad.
- Se puede decir que las páginas Web de Barcelona Turisme, Tarragona Turisme
+ Se puede decir que las páginas web de Barcelona Turisme, Tarragona Turisme
  y Girona Turisme son más fáciles de usar y bien estructuradas que interactivas.
  Las Organizaciones de Marketing de los Destinos (OMD) analizados deberían
- aprovechar más las posibilidades de interactividad que ofrecen el medio.
- En ningunas de las páginas Web analizadas se puede saber la opinión de
- los usuarios sobre la página Web.
- La opinión del usuario es muy importante para poder mejorar el sito Web
+ aprovechar más las posibilidades de interactividad que ofrece el medio.
+ En ningunas de las páginas web analizadas se puede saber la opinión de
+ los usuarios sobre la página en cuestión.
+ La opinión del usuario es muy importante para poder mejorar el sitio web
  y desarrollar nuevas funciones.
- La cuestión de interactividad no está siendo muy bien explorada sobretodo
- por la Organización de Marketing de Barcelona Turisme, como se puede observar
- en la tabla y gráfico 6.10.
+ La cuestión de interactividad no está siendo muy bien explorada, sobre
+ todo por la Organización de Marketing de Barcelona Turisme, como se puede
+ observar en la tabla y gráfico 6.10.
 \end_layout
 
 \begin_layout Standard
@@ -6215,111 +6246,109 @@ Aunque existen gran cantidad de estudios que demuestran la importancia de
  todavía su implantación es limitada.
  La principal contribución de las tecnologías de la Web 2.0 (blogs, redes
  sociales, etc.) es permitir las aportaciones y experiencias de los usuarios.
- Las tres páginas Web analizadas aún necesitan potencializar la comunicación
+ Las tres páginas web analizadas aún necesitan potenciar la comunicación
  en la red.
 \end_layout
 
 \begin_layout Standard
 Se puede decir que los trabajadores de las oficinas de turismo de Tarragona
  y Girona son conscientes de la importancia de la presencia de las páginas
- Web en Internet y ambos los entrevistados esperan encontrar informaciones
- actualizadas sobre el destino, sobretodo, acontecimientos culturales y
- eventos.
- Los entrevistados admiten utilizar las páginas Web de las oficinas de turismo
- del destino para planearse un viaje.
- Concluimos que tener una página Web constantemente actualizada es muy important
-e para el suceso del destino.
+ web en Internet y ambos entrevistados esperan encontrar informaciones actualiza
+das sobre el destino, sobre todo sobre acontecimientos culturales y eventos.
+ Los entrevistados admiten utilizar las páginas web de las oficinas de turismo
+ del destino para planear un viaje.
+ Concluimos que tener una página web constantemente actualizada es muy important
+e para el éxito del destino.
 \end_layout
 
 \begin_layout Standard
-Los entrevistados creen que la página Web de la oficina de turismo de Tarragona
+Los entrevistados creen que la página web de la oficina de turismo de Tarragona
  y Girona ofrecen informaciones útiles para los turistas y también piensan
  que la navegación es ágil y sencilla.
 \end_layout
 
 \begin_layout Standard
-Los dos entrevistados creen muy importante las opiniones de turistas que
- ya han visitado el destino.
- Lo que nos demuestra la influencia que los comentarios de otras personas
+Los dos entrevistados creen que son muy importantes las opiniones de turistas
+ que ya han visitado el destino.
+ Esto nos demuestra la influencia que los comentarios de otras personas
  pueden tener a la hora de escoger el destino de viaje.
  
 \end_layout
 
 \begin_layout Standard
 La presencia de las oficinas de turismo en las redes sociales ha sido otro
- punto que ambos los entrevistados creen importante para la promoción del
- destino.
- Además, el Sr.
- Gerard Castell, trabajador del Patronat Municipal de Turisme de Tarragona,
- admite que estar presente en las redes sociales ayuda a los turistas a
- mantener un contacto directo con los responsables turísticos de la zona,
- lo que les permite valorar los productos ofertados.
+ punto que ambos entrevistados creen importante para la promoción del destino.
+ Además, el señor Gerard Castell, trabajador del Patronat Municipal de Turisme
+ de Tarragona, admite que estar presente en las redes sociales ayuda a los
+ turistas a mantener un contacto directo con los responsables turísticos
+ de la zona, lo que les permite valorar los productos ofertados.
  En este punto de la entrevista podemos comprobar que en la actualidad es
  muy importante estar presente en las redes sociales, nos fiamos de los
  comentarios de los usuarios y sus experiencias dan una imagen más real
  del destino.
- Según Ricci y Wietsma (2006) (citado en Di Placido, 2010:7) 
-\begin_inset Quotes eld
-\end_inset
-
-a través de sus comentarios los internautas han generado un nuevo flujo
- comunicativo que en sectores concretos como el turismo, resulta más fiable
- respecto a informaciones publicitarias vehiculadas por las empresas.
-\begin_inset Quotes erd
-\end_inset
-
-
+ Según Ricci y Wietsma (2006) (citado en Di Placido, 2010:7) “a través de
+ sus comentarios los internautas han generado un nuevo flujo comunicativo
+ que en sectores concretos como el turismo, resulta más fiable respecto
+ a informaciones publicitarias vehiculadas por las empresas”.
 \end_layout
 
 \begin_layout Standard
 Los resultados del análisis de los datos comprueba que entre las tres páginas
- Web analizadas, Barcelona Turisme con 262 puntos de 584 (44,86%) dispone
- de una página Web más comunicativa, usable, accesible y con presencia en
+ web analizadas, Barcelona Turisme con 262 puntos de 584 (44,86%) dispone
+ de una página web más comunicativa, usable, accesible y con presencia en
  la Web 2.0, seguida de Tarragona con 258 puntos (44,17%) y Girona con 214
  puntos (34,64%).
  Los resultados se pueden observar en la tabla y gráfico 7.1.
 \end_layout
 
 \begin_layout Standard
-A pesar de los resultados aquí presentados tener un valor relativamente
+A pesar de los resultados aquí presentados tienen un valor relativamente
  bueno, aparecen diversos aspectos a mejorar en todas y cada una de las
- páginas Web.
- Un punto a mejorar por las tres páginas Web, pero principalmente la de
- Barcelona Turisme y Girona Turisme, podría ser los idiomas.
+ páginas web.
+ Un punto a mejorar por las tres páginas web, pero principalmente la de
+ Barcelona Turisme y Girona Turisme, podría ser la variedad de idiomas.
  Este es un aspecto básico en la promoción de destinos turísticos internacionale
 s, como es el caso de Barcelona, Tarragona y Girona.
 \end_layout
 
 \begin_layout Standard
-Otra propuesta es la mejora de la interactividad de las páginas Web, se
+Otra propuesta es la mejora de la interactividad de las páginas web, se
  ha detectado una carencia en todo lo relativo a la interacción con el usuario.
- A pesar de las organizaciones de marketing de los destinos analizados disponer
- de cuentas en las principales redes sociales (Facebook, Twitter, Instagram,
- Youtube, Flickr) y blogs hace falta incorporar nuevas herramientas de interacci
-ón en las páginas Web oficiales, como implementar los comentarios por parte
- del usuario, sugerencia de contenidos y planificador de viajes.
+ A pesar de que las organizaciones de 
+\emph on
+marketing
+\emph default
+ de los destinos analizados disponen de cuentas en las principales redes
+ sociales (Facebook, Twitter, Instagram, Youtube, Flickr) y blogs, hace
+ falta incorporar nuevas herramientas de interacción en las páginas web
+ oficiales.
+ Por ejemplo, implementar los comentarios por parte del usuario, sugerencia
+ de contenidos y planificador de viajes.
 \end_layout
 
 \begin_layout Standard
 Cabe destacar que meses después de haber terminado el análisis, Girona Turisme
- cambió el diseño de su página Web haciéndola más actual y moderna.
+ cambió el diseño de su página web haciéndola más actual y moderna.
 \end_layout
 
 \begin_layout Standard
 En el futuro hay la intención de ampliar este trabajo realizando una investigaci
 ón más profunda junto a los entes promotores de turismo de los destinos,
- además de hablar directamente con los responsables de marketing online
- de la organización.
- También se debería realizar encuestas junto a los visitantes para así conocer
- un punto de vista distinto sobre las páginas Web de los destinos, no sólo
- del emisor de la información, sino del que la recibe.
+ además de hablar directamente con los responsables de
+\emph on
+ marketing online 
+\emph default
+de la organización.
+ También se deberían realizar encuestas junto a los visitantes para así
+ conocer un punto de vista distinto sobre las páginas web de los destinos,
+ no sólo del emisor de la información, sino del que la recibe.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Caption
