@@ -617,18 +617,24 @@ El objetivo principal de la investigación que presentamos es analizar el
 \end_layout
 
 \begin_layout Standard
-En la primera parte del trabajo el lector va encontrar una recorrido por
+En la primera parte del trabajo el lector va encontrar un recorrido por
  la historia de Internet en la que se comenta de dónde ha surgido esta herramien
 ta, cómo esta se fue desarrollando para llegar a lo que es hoy en día y
  también su definición desde el punto de vista de varios autores.
 \end_layout
 
 \begin_layout Standard
-El siguiente apartado del Marco Teórico habla de la World Wide Web, que
- es nuestro objeto de análisis.
- Comentamos de donde ha surgido la World Wide Web, sus definiciones según
- el punto de vista de la Real Academia Española y de varios autores expertos
- sobre el tema.
+El siguiente apartado del Marco Teórico habla de la 
+\emph on
+World Wide Web,
+\emph default
+ que es nuestro objeto de análisis.
+ Comentamos de donde ha surgido la 
+\emph on
+World Wide Web
+\emph default
+, sus definiciones según el punto de vista de la Real Academia Española
+ y de varios autores expertos sobre el tema.
  En este capítulo discutimos el cambio que ha tenido la Web desde su creación
  hasta los días actuales, utilizando las ideas de Nafría (2007), Cobo y
  Pardo (2007) y Fumero y Roca (2007).
@@ -894,8 +900,7 @@ Al principio la Internet solo era utilizada por una pequeña comunidad de
 \end_layout
 
 \begin_layout Standard
-Internet ofrece varias herramientas de comunicación, información y interacción,
- Lamarca (2006) comenta que:
+Lamarca (2006) comenta que:
 \end_layout
 
 \begin_layout Quote
@@ -1216,26 +1221,26 @@ software
 \end_layout
 
 \begin_layout Section
-La Web como plataforma
+La web como plataforma
 \end_layout
 
 \begin_layout Standard
-La Web como plataforma fue el tema central elegido para la primera edición
+La web como plataforma fue el tema central elegido para la primera edición
  de la 
 \emph on
 Web 2.0 Conference 
 \emph default
 celebrada en 2004 y una de las ideas fundamentales de la Web 2.0.
- Considerar la Web como plataforma implica al usuario utilizar las paginas
- webs como si fueran un programa instalado en su ordenador, el usuario conecta
- a una Web en concreto y la usa como si fuese una aplicación (Nafría, 2007:115).
+ Considerar la web como plataforma implica al usuario utilizar las paginas
+ web como si fueran un programa instalado en su ordenador, el usuario conecta
+ a una web en concreto y la usa como si fuese una aplicación (Nafría, 2007:115).
  Las nuevas compañías ofrecen 
 \emph on
 software
 \emph default
- gratuito, utilizando la Web como plataforma.
+ gratuito, utilizando la web como plataforma.
  De esta manera, las herramientas y sus contenidos se encuentran en la propia
- Web y no en el ordenador del usuario.
+ web y no en el ordenador del usuario.
  Para explicar este fenómeno podemos utilizar el concepto de 
 \emph on
 webtop
@@ -1249,7 +1254,7 @@ desktop
 \emph on
 webtop
 \emph default
- permite convertir la Web en un escritorio virtual sobre el que el usuario
+ permite convertir la web en un escritorio virtual sobre el que el usuario
  pueda trabajar como si estuviera en su equipo, creando, modificando y guardando
  archivos de todo tipo (Nafría, 2007:406).”
 \end_layout
@@ -1298,7 +1303,7 @@ O’Reilly en su artículo afirma que “el principio fundamental que se esconde
  detrás del éxito de los gigantes nacidos en la era de la Web 1.0 que han
  sobrevivido para liderar la era de la Web 2.0 parece ser éste, que han abrazado
  el poder de la web para explotar inteligencia colectiva.” Berners-Lee ya
- hablaba de estos principios cuando pensó y creó la Web a principios de
+ hablaba de estos principios cuando pensó y creó la web a principios de
  la década de 1990.
  Los usuarios pueden actuar de la forma tradicional, navegando a través
  de los contenidos de las webs, o de manera proactiva, es decir, creando
@@ -1394,7 +1399,7 @@ software
 \begin_layout Quote
 
 \size small
-Google comenzó su vida como una aplicación Web nativa, nunca vendida o empaqueta
+Google comenzó su vida como una aplicación web nativa, nunca vendida o empaqueta
 da, sino siempre entregada como un servicio [...].
  No hay programación de las actualizaciones de las versiones del 
 \emph on
@@ -1420,7 +1425,7 @@ software
  Según Cobo y Pardo (2007:31) Google, con su motor de búsqueda y servicios
  complementarios, ofrece de forma gratuita una oferta de servicios innovadores,
  sin constantes actualizaciones ni incompatibilidades de sistemas, utilizando
- la Web como plataforma y sin la necesidad de instalar y quitar espacio
+ la web como plataforma y sin la necesidad de instalar y quitar espacio
  de disco duro de nuestro ordenador.
  Las empresas Web 2.0 dejan de desarrollar sus modelos en versiones betas,
  sino que lanzan el 
@@ -1525,11 +1530,10 @@ n y ayudan en momentos de crisis institucionales.
 \end_layout
 
 \begin_layout Standard
-El nuevo diseño de las interfaces webs plantea experiencias de usuarios
- ricas en la capacidad del acceso en cualquier lugar y momento, usabilidad
- y simplicidad de la navegación, generación de contenido en forma dinámica
- e integración con los sistemas operativos de nuestros ordenadores (Scolari
- y Pardo, 2006:4).
+El nuevo diseño de las interfaces web plantea experiencias de usuarios ricas
+ en la capacidad del acceso en cualquier lugar y momento, usabilidad y simplicid
+ad de la navegación, generación de contenido en forma dinámica e integración
+ con los sistemas operativos de nuestros ordenadores (Scolari y Pardo, 2006:4).
  
 \end_layout
 
@@ -1560,7 +1564,7 @@ En el mundo del
 \emph on
 marketing
 \emph default
-, el artículo de Bagozzi, Marketing as Echange, es conocido como el primer
+, el artículo de Bagozzi, Marketing as Exchange, es conocido como el primer
  concepto de 
 \emph on
 marketing
@@ -1620,7 +1624,7 @@ Siguiendo a Esteban y otros (2002:14) “un intercambio es una acción voluntari
  El intercambio es la comunicación de dos partes de donde resulta la obtención
  de algo valioso.
  Adell (2007:19) complementa la idea diciendo que el intercambio debe satisfacer
- las necesidades y los deseos las partes que participan en él.
+ las necesidades y los deseos de las partes que participan en él.
  Las empresas disponen de productos para satisfacer las necesidades y los
  deseos de los compradores y podemos decir que un intercambio ocurre cuándo
  obtenemos un producto deseado ofreciendo algo valioso a cambio.
@@ -1969,7 +1973,7 @@ marketing
 \emph on
 Marketing
 \emph default
- de destinos turísticos y páginas Web
+ de destinos turísticos y páginas web
 \end_layout
 
 \begin_layout Standard
@@ -2057,11 +2061,11 @@ y los recursos de la Web 2.0 [...].
 Antes de la web, los destinos turísticos solo contaban con escasos medios
  para atraer la atención de los turistas como, por ejemplo, anuncios caros
  o buenas criticas por parte de los medios de comunicación.
- Con la llegada de la Web el 
+ Con la llegada de la web el 
 \emph on
 marketing
 \emph default
- experimentó un cambio de las normas, la Web no es la televisión (Meerman,
+ experimentó un cambio de las normas, la web no es la televisión (Meerman,
  2010:37).
  Según Bitnet y otros (2000) (citado en Kotler y otros, 2004:407) la Internet
  puede mejorar la satisfacción de un cliente ya que le deja acceder a los
@@ -2090,7 +2094,7 @@ marketing
 
 \begin_layout Standard
 Cho y Cheo (2005) (citado en Huertas y Fernández, 2006) comentan que las
- páginas Web pueden servir para diversas finalidades de comunicación: relaciones
+ páginas web pueden servir para diversas finalidades de comunicación: relaciones
  públicas, promoción de ventas, publicidad o 
 \emph on
 marketing
@@ -2111,7 +2115,7 @@ e instrumento de comunicación y comercialización de productos y servicios.
 \end_layout
 
 \begin_layout Standard
-Uno de los usos más importantes de Internet es la comunicación, la Web se
+Uno de los usos más importantes de Internet es la comunicación, la web se
  ha convertido en un canal de comunicación instantáneo y mundial.
  La difusión de las tecnologías de la información y comunicación ha ocasionado
  la modificación de la conducta de los viajeros actuales, creando un nuevo
@@ -2130,9 +2134,9 @@ Uno de los usos más importantes de Internet es la comunicación, la Web se
 \size small
 Internet ofrece tremendas oportunidades para desarrollar marcas de destinos
  fuertes que proporcionen beneficios reales a los turistas...
- Sin embargo, el hecho de tener un sitio Web en sí mismo no es garantía
+ Sin embargo, el hecho de tener un sitio web en sí mismo no es garantía
  del éxito del destino.
- En la era que todos los destinos pueden desarrollar un sitio Web, debe
+ En la era que todos los destinos pueden desarrollar un sitio web, debe
  existir una estrategia coherente para desarrollar, posicionar y promocionar
  la presencia electrónica.
 \end_layout
@@ -2157,7 +2161,7 @@ Las webs no sirven solo para exponer informaciones, sino que a través de
 \begin_layout Quote
 
 \size small
-El sitio Web oficial de un destino puede resultar de importancia clave antes
+El sitio web oficial de un destino puede resultar de importancia clave antes
  del viaje, durante el viaje y después del viaje.
  Puede ser de máxima utilidad a los viajeros en el momento de exploración
  y selección del destino, en la etapa de planificación del viaje, a la hora
@@ -2227,13 +2231,13 @@ Además, en el ámbito de los destinos turísticos, las opiniones y experiencias
 marketing
 \emph default
  de los destinos están incorporando cada vez más este recurso de comunicación
- interactiva a sus páginas webs, ya que las experiencias de otros turistas
+ interactiva a sus páginas web, ya que las experiencias de otros turistas
  influyen en la decisión de visitar o viajar a un destino.
  
 \end_layout
 
 \begin_layout Standard
-A parte de tener una Web atractiva y eficaz desde el punto de vista de la
+A parte de tener una web atractiva y eficaz desde el punto de vista de la
  comunicación y la comercialización del destino, es fundamental usar las
  estrategias de posicionamiento en buscadores.
  Kotler y otros (2004:408) afirman que los responsables por el 
@@ -2264,10 +2268,10 @@ marketing
 \size small
 Entre los factores internos se puede resaltar la presencia de las palabras
  clave en determinadas partes del contenido de la página o de la cabecera,
- estructura hipertextual de la sede Web, antigüedad, territorialidad del
+ estructura hipertextual de la sede web, antigüedad, territorialidad del
  dominio...
  Entre los externos, los más decisivos son el número de enlaces recibidos
- y la presencia de una parte de esos enlaces en sedes Web con autoridad
+ y la presencia de una parte de esos enlaces en sedes web con autoridad
  o popularidad.
 \end_layout
 
@@ -2311,12 +2315,12 @@ thispagestyle{empty}
 
 \begin_layout Standard
 Para las entidades promotoras del turismo resulta fundamental en la actualidad
- el diseño, creación y mantenimiento de sitios Web que informen, persuadan
+ el diseño, creación y mantenimiento de sitios web que informen, persuadan
  y comercialicen sus marcas de destino de forma eficiente.
  Se ha realizado en este Trabajo de Fin de Carrera una investigación para
- diagnosticar y evaluar la efectividad comunicativa de los sitios Web en
+ diagnosticar y evaluar la efectividad comunicativa de los sitios web en
  turismo y adecuación de los portales de destinos españoles.
- Se ha optado por las páginas Web de las capitales de las provincias costeras
+ Se ha optado por las páginas web de las capitales de las provincias costeras
  de Cataluña, con lo cual se han analizado las webs de los entes promotores
  del turismo pertenecientes a las ciudades de Barcelona, Tarragona y Girona.
  La metodología utilizada es de carácter cualitativo aplicando la técnica
@@ -2327,7 +2331,7 @@ Para las entidades promotoras del turismo resulta fundamental en la actualidad
 Turisme de Barcelona, situada en Passatge de la Concepció, 7-9 08008 Barcelona,
  trabaja para promover la ciudad de Barcelona como destino turístico.
  Una de las principales herramientas que dispone para lograr este objetivo
- es su página Web <www.barcelonaturisme.com>.
+ es su página web <www.barcelonaturisme.com>.
  
 \end_layout
 
@@ -2342,20 +2346,20 @@ El organismo responsable por la promoción turística de la ciudad de Tarragona
 \begin_layout Standard
 El Ajuntament de Girona, ubicado en Plaça del Vi, 1 17004 Girona es, en
  este caso, el organismo responsable de la promoción turística así como
- del mantenimiento de la Web <www.girona.cat/turisme>.
+ del mantenimiento de la web <www.girona.cat/turisme>.
  
 \end_layout
 
 \begin_layout Standard
-El análisis de las páginas Web se ha basado en una plantilla de análisis
+El análisis de las páginas web se ha basado en una plantilla de análisis
  y evaluación de webs de destinos turísticos desarrollada por un equipo
  de 13 investigadores especializados en publicidad, relaciones públicas,
  turismo, economía, usabilidad y arquitectura de la información, investigación
  de mercados, lingüística y geografía, procedentes de siete universidades
  españolas (Huertas y otros, 2010).
- La plantilla interdisciplinar de análisis de páginas Web es parte de un
+ La plantilla interdisciplinar de análisis de páginas web es parte de un
  proyecto de investigación “Nuevas estrategias de publicidad y promoción
- de las marcas turísticas españolas en la Web”, financiado por el Ministerio
+ de las marcas turísticas españolas en la web”, financiado por el Ministerio
  de Ciencia e Innovación español (CSO2008-02627) dirigido por la Universidad
  Pompeu Fabra de Barcelona.
  La plantilla utilizada como base para este Trabajo de Fin de Carrera tiene
@@ -2421,16 +2425,15 @@ Por otro lado, a las oficinas de turismo de las tres ciudades se les ha
 La primera entrevistada ha sido el Patronat Municipal de Turisme de Tarragona,
  ubicada en el municipio de Tarragona en la calle Major, 39 43003 Tarragona
  (Tarragona).
- La entrevista ha sido contestada por el Sr.
- Gerard Castells Martí, auxiliar administrativo del Patronat Municipal de
- Turisme de Tarragona.
+ La entrevista ha sido contestada por el señor Gerard Castells Martí, auxiliar
+ administrativo del Patronat Municipal de Turisme de Tarragona.
 \end_layout
 
 \begin_layout Standard
 La Oficina de Turismo de Girona ha sido la segunda entrevistada.
  Está ubicada en la Rambla de la Llibertat, 1 17004 en la ciudad de Girona
- (Girona), y en este caso la persona entrevistada ha sido la Sra.
- Marina Bosch, informadora turística.
+ (Girona), y en este caso la persona entrevistada ha sido la señora Marina
+ Bosch, informadora turística.
 \end_layout
 
 \begin_layout Standard
@@ -2478,7 +2481,7 @@ Página de inicio
 \end_layout
 
 \begin_layout Standard
-Entendemos como página de inicio la sede Web a partir de la cual se puede
+Entendemos como página de inicio la sede web a partir de la cual se puede
  acceder todos los contenidos por medio de navegación hipertextual.
  La página inicial será el primer contacto que el turista va a tener con
  el destino turístico, por lo tanto los contenidos deberán presentarse de
