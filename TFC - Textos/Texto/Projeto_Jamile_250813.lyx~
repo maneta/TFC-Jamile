@@ -2481,7 +2481,7 @@ Página de inicio
 \end_layout
 
 \begin_layout Standard
-Entendemos como página de inicio la sede Web a partir de la cual se puede
+Entendemos como página de inicio la sede web a partir de la cual se puede
  acceder todos los contenidos por medio de navegación hipertextual.
  La página inicial será el primer contacto que el turista va a tener con
  el destino turístico, por lo tanto los contenidos deberán presentarse de
@@ -2574,7 +2574,7 @@ es turísticas generales, que ayudan a los usuarios a planificar sus viajes
 
 \begin_layout Standard
 En el apartado de contacto institucional podemos observar que las webs de
- las tres ciudades informan del nombre y la dirección postal de la entidad
+ las tres ciudades informan el nombre y la dirección postal de la entidad
  promotora de turismo, además de la dirección de las oficinas de información
  turística repartidas por la ciudades.
  
@@ -2602,7 +2602,7 @@ y teléfono de contacto, no indican el nombre de la persona de contacto.
 \end_layout
 
 \begin_layout Standard
-Los turistas pueden encontrar en la Web de Barcelona un teléfono de 
+Los turistas pueden encontrar en la web de Barcelona un teléfono de 
 \emph on
 call center
 \emph default
@@ -2613,7 +2613,7 @@ call center
 call center
 \emph default
  y, además, el horario de funcionamiento.
- Estas informaciones no se han encontrado en la Web de turismo de Girona.
+ Estas informaciones no se han encontrado en la web de turismo de Girona.
 \end_layout
 
 \begin_layout Standard
@@ -2635,7 +2635,7 @@ Analizando la información turística personalizada, podemos observar que
 
 \begin_layout Standard
 Podemos observar en la tabla y gráfico 6.2 que Barcelona (62 puntos) tiene
- una Web turística con contenido de calidad y cantidad, seguido por Tarragona
+ una web turística con contenido de calidad y cantidad, seguido por Tarragona
  (56 puntos) y por último Girona (39 puntos).
 \end_layout
 
@@ -2764,7 +2764,7 @@ Según Huertas y otros (2010),
 \begin_inset Quotes eld
 \end_inset
 
-las páginas Web deberían presentar elementos de navegación, normalmente
+las páginas web deberían presentar elementos de navegación, normalmente
  en forma de 
 \begin_inset Quotes eld
 \end_inset
@@ -2791,7 +2791,7 @@ breadcrumbs
 \end_inset
 
 .
- La Web de Girona presenta parcialmente las 
+ La web de Girona presenta parcialmente las 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2875,7 +2875,7 @@ Con la resolución estándar (1024x768) el usuario de las webs de Barcelona
 scrolling
 \emph default
 .
- Sin embargo, los usuarios de la Web del Patronat de Turisme de Tarragona
+ Sin embargo, los usuarios de la web del Patronat de Turisme de Tarragona
  tienen que hacer más uso del 
 \emph on
 scrolling.
@@ -2888,12 +2888,8 @@ La presencia del buscador es muy importante para una web, de esta manera
  sitio y siempre ubicado en el mismo lugar en la web de Barcelona Turisme
  y del Patronat de Turisme de Tarragona.
  La página web de Girona Turisme no presenta ningún buscador interno.
- 
-\end_layout
-
-\begin_layout Standard
-El usuario puede encontrar fácilmente el buscador en la Web de Tarragona
- Turisme, pero en la Web de Barcelona Turisme no se ve tan fácil.
+ El usuario puede encontrar fácilmente el buscador en la web de Tarragona
+ Turisme, pero en la web de Barcelona Turisme no se ve tan fácil.
 \end_layout
 
 \begin_layout Standard
@@ -2904,13 +2900,13 @@ En la tabla y gráfico 6.3 se ha analizado la arquitectura de la webs.
 \end_inset
 
 se entiende por arquitectura de la información el arte y la ciencia de estructur
-ar y clasificar sitios Web e intranets con el fin de ayudar a los usuarios
+ar y clasificar sitios web e intranets con el fin de ayudar a los usuarios
  a encontrar y manejar la información
 \begin_inset Quotes erd
 \end_inset
 
 .
- La Web de Barcelona Turisme (15 puntos) es la mejor estructurada entre
+ La web de Barcelona Turisme (15 puntos) es la mejor estructurada entre
  las 3 webs analizadas, luego Tarragona (12 puntos) y Girona (12 puntos).
 \end_layout
 
@@ -2982,7 +2978,7 @@ Huertas y otros (2010:12) definen la usabilidad diciendo que
 \begin_inset Quotes eld
 \end_inset
 
-la usabilidad se refiere a la facilidad de la Web para ser usada y alcanzar
+la usabilidad se refiere a la facilidad de la web para ser usada y alcanzar
  los objetivos propuestos de forma eficiente, rápida, agradable, atractiva
  y sin errores
 \begin_inset Quotes erd
@@ -2990,7 +2986,7 @@ la usabilidad se refiere a la facilidad de la Web para ser usada y alcanzar
 
 .
  Para analizar la usabilidad, se estudian aspectos como la actualización
- del sitio Web, la adecuación de la URL, la identidad de la institución,
+ del sitio web, la adecuación de la URL, la identidad de la institución,
  y el uso de elementos multimedia (calidad de las imágenes, iconos o metáforas
  visuales,...), entre otros.
 \end_layout
@@ -3256,7 +3252,7 @@ Fuente: http://bcnshop.barcelonaturisme.com
 
 \begin_layout Standard
 Por lo tanto, lo que se puede observar es que Barcelona, con 15 puntos,
- ofrece una Web más fácil de ser usada, seguida por Tarragona y Girona,
+ ofrece una web más fácil de ser usada, seguida por Tarragona y Girona,
  ambas con 14 puntos.
 \end_layout
 
@@ -3337,22 +3333,22 @@ Huertas y otros (2010:10) nos explican la definición de accesibilidad diciendo
 \end_inset
 
 el conjunto de estrategias, recomendaciones y recursos que hacen que la
- Web sea o no accesible, teniendo en cuenta las personas con discapacidades
+ web sea o no accesible, teniendo en cuenta las personas con discapacidades
  visuales y/o auditivas
 \begin_inset Quotes erd
 \end_inset
 
 .
  Como podemos observar en la tabla 6.5, en esta sección se ha analizado el
- tamaño de la fuente, compatibilidad con diferentes navegadores Web y resolucion
+ tamaño de la fuente, compatibilidad con diferentes navegadores web y resolucion
 es de pantalla, entre otros.
 \end_layout
 
 \begin_layout Standard
-El tamaño de la letra de la página Web de Barcelona Turisme se adapta al
- dispositivo que el turista está usando, mientras que la Web de Tarragona
+El tamaño de la letra de la página web de Barcelona Turisme se adapta al
+ dispositivo que el turista está usando, mientras que la web de Tarragona
  no ofrece este servicio.
- Se ha podido comprobar que en la Web de Girona la letra de algunos enlaces
+ Se ha podido comprobar que en la web de Girona la letra de algunos enlaces
  internos se adaptan al dispositivo, pero no todos.
 \end_layout
 
@@ -3383,7 +3379,11 @@ Se han probado tres resoluciones de pantalla diferentes, que son: 800x600,
 
 \begin_layout Standard
 El usuario puede disfrutar de todos los contenidos de las webs de Barcelona,
- Tarragona y Girona sin la necesidad de instalar plugins adicionales.
+ Tarragona y Girona sin la necesidad de instalar 
+\emph on
+plugins
+\emph default
+ adicionales.
 \end_layout
 
 \begin_layout Standard
@@ -3405,13 +3405,13 @@ Según Huertas y otros (2010), “un sitio web debe ser lo más accesible posibl
 \end_layout
 
 \begin_layout Standard
-La Web del Patronat de Turisme de Tarragona es la única entre las analizadas
+La web del Patronat de Turisme de Tarragona es la única entre las analizadas
  que ofrece una sección de accesibilidad en el que informa al usuario sobre
  las normativas de accesibilidad del sitio.
 \end_layout
 
 \begin_layout Standard
-Podemos observar en la tabla 6.5 que la Web de Barcelona Turisme tiene un
+Podemos observar en la tabla 6.5 que la web de Barcelona Turisme tiene un
  nivel más alto de accesibilidad sumando 17 puntos, seguida de Girona Turisme
  con 14 puntos y Tarragona con 11 puntos.
 \end_layout
@@ -3702,11 +3702,11 @@ PageRank es un valor numérico y un concepto registrado y patentado por Google
 \end_layout
 
 \begin_layout Standard
-La posición de un sitio Web en el Traffic Rank se basa en los datos de tráfico
+La posición de un sitio web en el Traffic Rank se basa en los datos de tráfico
  acumulados durante un período de tres meses y tiene en cuenta tanto el
  número de usuarios que visita un sitio, como el de páginas visitadas.
  Cuanto más bajo sea el número mejor Traffic Rank tiene.
- Entre las tres webs, el mejor Traffic Rank que tiene es la página Web de
+ Entre las tres webs, el mejor Traffic Rank que tiene es la página web de
  Barcelona Turisme con 138.190, seguida de Girona Turisme con 322.676 y Tarragona
  Turisme con 1.101.802.
  Se ha considerado que ninguna de las webs tiene un Traffic Rank optimo.
@@ -3742,8 +3742,8 @@ Ninguna de las tres webs analizadas está presente en el directorio de Google.
 \end_layout
 
 \begin_layout Standard
-Se puede observar en la tabla y gráfico 6.6 que la Web de Barcelona Turisme,
- con 11 puntos, tiene un mejor posicionamiento Web, seguida de Girona con
+Se puede observar en la tabla y gráfico 6.6 que la web de Barcelona Turisme,
+ con 11 puntos, tiene un mejor posicionamiento web, seguida de Girona con
  10 puntos y Tarragona con 9.
 \end_layout
 
@@ -3818,7 +3818,7 @@ Siguiendo Huerta y otros (2010:13), los autores de la plantilla de análisis,
 
 se entiende por distribución y comercialización los distintos sistemas de
  reservas de los distintos proveedores de servicios turísticos en las webs.
- En esta temática tratamos el nivel de comercialización de la Web analizada
+ En esta temática tratamos el nivel de comercialización de la web analizada
  teniendo en cuenta distintos sistemas de reservas y pagos (propio, externo,
  mixto) en relación al alojamiento, eventos y restauración
 \begin_inset Quotes erd
@@ -3833,7 +3833,7 @@ se entiende por distribución y comercialización los distintos sistemas de
 Las webs de Tarragona y Girona ofrecen un listado de alojamientos con informació
 n completa de los alojamientos, que incluye: nombre, teléfono, enlaces,
  imágenes, localización y características.
- La Web de Barcelona Turisme ofrece un sistema con criterios de búsqueda
+ La web de Barcelona Turisme ofrece un sistema con criterios de búsqueda
  con categorías de los alojamientos como podemos observar en la figura 6.9.
 \end_layout
 
@@ -4034,15 +4034,15 @@ Idiomas
 
 \begin_layout Standard
 Huertas y otros (2010:14) nos explican como se ha analizado los idiomas
- de las Web diciendo que 
+ de las web diciendo que 
 \begin_inset Quotes eld
 \end_inset
 
-esta temática trata la gestión de los idiomas en la Web, es decir, las versiones
- idiomáticas existentes de cada uno de los sitios Web, tanto cooficiales
+esta temática trata la gestión de los idiomas en la web, es decir, las versiones
+ idiomáticas existentes de cada uno de los sitios web, tanto cooficiales
  como no oficiales/extranjeros que se consideran importantes para un sitio
- Web oficial de una marca turística de destino española.
- Dependiendo de cuántos idiomas tenga, la Web tendrá una valoración numérica
+ web oficial de una marca turística de destino española.
+ Dependiendo de cuántos idiomas tenga, la web tendrá una valoración numérica
  concreta.
  Se basa en trabajos anteriores como los de Díaz Luque, Guevara y Antón
  (2006).
@@ -4058,19 +4058,19 @@ Según Luque y otros (2004)
 \begin_inset Quotes eld
 \end_inset
 
-para que las páginas Web analizadas sean comprensibles para el mayor número
+para que las páginas web analizadas sean comprensibles para el mayor número
  de personas deberán tener versiones en diversos idiomas.
 \begin_inset Quotes erd
 \end_inset
 
- Como se puede observar en la tabla y gráfico 6.8 la Web que más dispone
+ Como se puede observar en la tabla y gráfico 6.8 la web que más dispone
  de idiomas extranjeros es la del Patronat de Turisme de Tarragona con 78
  puntos, seguida de Barcelona y Girona con 52 puntos.
 \end_layout
 
 \begin_layout Standard
 El francés y el inglés están presentes en la tres webs analizadas.
- A parte de las versiones en inglés y francés, la página Web de Barcelona
+ A parte de las versiones en inglés y francés, la página web de Barcelona
  Turisme ofrece informaciones generales en formato PDF en otros idiomas:
  portugués, alemán, italiano, chino, japonés, ruso, árabe, polaco y checo.
 \end_layout
@@ -4326,14 +4326,14 @@ Según los autores de la plantilla de análisis de páginas web Huertas y otros
 
 \begin_layout Standard
 Las webs de Barcelona y Tarragona no disponen de eslogan en la página inicial.
- Sin embargo, en la Web de Girona se puede observar el eslogan ;) Girona
+ Sin embargo, en la web de Girona se puede observar el eslogan ;) Girona
  emociona.
 \end_layout
 
 \begin_layout Standard
 El logotipo (figura 6.14 y 6.15) está presente en todas las páginas de la
- Web de Barcelona Turisme y Tarragona Turisme.
- En la Web de Girona solamente se puede observar el logotipo (figura 6.16)
+ web de Barcelona Turisme y Tarragona Turisme.
+ En la web de Girona solamente se puede observar el logotipo (figura 6.16)
  en la página principal.
  
 \end_layout
@@ -4581,7 +4581,7 @@ Huertas y otros (2010:11) entienden por interactividad
 la relación comunicativa bidireccional que se establece con otros individuos
  o con la propia información o mensaje.
  En esta temática se estudian los distintos tipos de interacciones a través
- de la Web: consumidor-mensaje, consumidor-marketer, y consumidor-consumidor;
+ de la web: consumidor-mensaje, consumidor-marketer, y consumidor-consumidor;
  este último relacionándolo con el WOM
 \begin_inset Quotes erd
 \end_inset
@@ -4684,7 +4684,7 @@ Fuente: http://www.tarragonaturisme.cat/
 \end_layout
 
 \begin_layout Standard
-El usuario puede encontrar en la Web de Girona Turisme un 
+El usuario puede encontrar en la web de Girona Turisme un 
 \emph on
 tripplaner
 \emph default
@@ -4718,7 +4718,7 @@ Solamente la página web de Girona Turisme dispone de un apartado de preguntas
 \end_layout
 
 \begin_layout Standard
-Podemos observar en la tabla y gráfico 6.10 que la Web de Girona (15 puntos)
+Podemos observar en la tabla y gráfico 6.10 que la web de Girona (15 puntos)
  es, entre las tres webs analizadas, la más interactiva, seguidas de Tarragona
  (13 puntos) y Barcelona (8 puntos).
 \end_layout
@@ -4728,7 +4728,7 @@ Podemos observar en la tabla y gráfico 6.10 que la Web de Girona (15 puntos)
 placement H
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Caption
@@ -4800,8 +4800,8 @@ Para Huertas (2008) (citado en Huertas y otros, 2010:12):
 \begin_layout Quote
 
 \size small
-El concepto de Web 2.0 - también llamada Web social- se caracteriza por la
- dimensión social y comunicativa aparecida en la Web, de la que son buenos
+El concepto de Web 2.0 - también llamada web social- se caracteriza por la
+ dimensión social y comunicativa aparecida en la web, de la que son buenos
  ejemplos los blogs, las redes sociales, los foros, los wikis, etc.
  En esta temática tratamos la presencia o grado de adopción de la Web 2.0,
  (disposición de blog, cuentas en redes sociales como Flickr, Youtube, LinkedIn,
@@ -4818,7 +4818,7 @@ Se puede observar en la tabla y gráfico 6.11 que ninguna de las tres webs
 \end_layout
 
 \begin_layout Standard
-En la Web del Patronat de Turisme de Tarragona algunos contenidos se pueden
+En la web del Patronat de Turisme de Tarragona algunos contenidos se pueden
  compartir en Facebook, Twitter, correo electrónico o, también, imprimirlo.
  Barcelona y Girona no ofrecen esta opción a sus usuarios.
 \end_layout
@@ -5130,7 +5130,7 @@ microblogging
 microblogging
 \emph default
  son buenas herramientas para difundir informaciones sobre los destinos.
- Podemos observar en las figura 6.23 que Barcelona Turisme tiene 3.250 seguidores,
+ Podemos observar en la figura 6.23 que Barcelona Turisme tiene 3.250 seguidores,
  Tarragona Turisme 4.509 (figura 6.24) y Girona Turisme 5.244 seguidores (figura
  6.25).
  
@@ -6102,7 +6102,7 @@ La presencia de las FAQ y ayuda al usuario son muy importantes en una página
 \end_layout
 
 \begin_layout Standard
-En relación a la calidad y cantidad de contenido las tres páginas Web analizadas
+En relación a la calidad y cantidad de contenido las tres páginas web analizadas
 , hay que decir poseen una buena calidad de información, con contenidos
  actualizados y completos.
 \end_layout
@@ -6122,7 +6122,7 @@ breadcrumbs
 \end_layout
 
 \begin_layout Standard
-La cuestión de la usabilidad está bien tratada, haciendo que la página Web
+La cuestión de la usabilidad está bien tratada, haciendo que la página web
  sea fácil de usar, rápida, agradable y atractiva a los usuarios, aunque
  no tienen tan en cuenta el importante aspecto de los idiomas y de las versiones
  culturales adaptadas.
@@ -6131,7 +6131,7 @@ La cuestión de la usabilidad está bien tratada, haciendo que la página Web
  web a los usuarios, demostrando el impacto positivo en la impresión que
  estos poseen de la página web y de su contenido.
  Por tanto, se aconsejan estrategias localizadas de comunicación, adaptando
- el contenido culturalmente de las páginas Web de Barcelona Turisme, Tarragona
+ el contenido culturalmente de las páginas web de Barcelona Turisme, Tarragona
  Turisme y Girona Turisme.
  De esta manera las organizaciones promotoras de turismo de dichas ciudades
  pueden crear páginas web más usables para usuarios de diferentes culturas.
@@ -6746,25 +6746,6 @@ iones TURITEC 2010.
 \begin_layout Bibliography
 \begin_inset CommandInset bibitem
 LatexCommand bibitem
-key "key-33"
-
-\end_inset
-
-FERNÁNDEZ CAVIA, José; DÍAZ LUQUE, Pablo; HUERTAS, Asunción; ROVIRA, Cristófol;
- SAN EUGENIO, Jordi; GÓMEZ, Lorena; MÍGUEZ, Maria Isabel; SICILIA, Maria;
- GASCÓ, Mila; PEDRAZA, Rafael; MARTÍN BARBEO, Samuel; BONILLA, Sebastián;
- TORRES, Teresa; LOZANO, Natàlia y VILLAESCUSA, Elena (2010).
- 
-\emph on
-Plantilla interdisciplinar de análisis de páginas Web.
-
-\emph default
- 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
 key "key-7"
 
 \end_inset
@@ -7335,6 +7316,10 @@ thispagestyle{empty}
 \begin_inset Newpage newpage
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
